@@ -1,0 +1,61 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+1384,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,FILTERABLE DEPOSIT JAR SAMPLER,,ec361302-dcd2-4606-9254-4dac527a99de
+1385,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,FLASKS,,25ed0fd3-9f56-4464-9ecc-618c49084deb
+1386,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,GO-FLO BOTTLES,,6fb56d22-1ee4-4cec-a509-910ddc23cd96
+1387,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,NANSEN BOTTLES,Nansen Water Sampling Bottles,3139a8c0-c56a-4e6a-ad8d-195b0882f16b
+1388,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,NISKIN BOTTLES,,b79c7e06-cd07-442f-bf12-2019cd71c201
+1389,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,WATER BOTTLES,,f9425f59-1aec-4743-b07a-fc6d760bb296
+1390,In Situ/Laboratory Instruments,Samplers,Bottles/Flasks/Jars,,,,36c976c8-cede-4a48-a19f-4f29458e7cae
+1391,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,AEROSOL COLLECTORS,,6a858dfd-8e3a-408e-a250-89ed91fff930
+1392,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,DRY DEPOSITION COLLECTORS,,b315f661-b19f-4088-ba0f-cf27ea5151d4
+1393,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,Dart Biopsy Gun,,5e7f22d1-aef7-4fe7-94f2-49eea53ea3ff
+1394,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,GRAB SAMPLERS,,99b3c865-d4a4-43f7-b37d-28a24b2c71e5
+1395,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,MACS,Multiple Aerosol Collection System,a01d0f54-b753-4249-8dc7-a1a49947e0c5
+1396,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,ROTENONE STATIONS,,b735c07f-218a-4ae7-b240-c4de7867e90b
+1397,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,SEDIMENT METERS,,8356bb8a-ff3a-46a6-aa85-4a0a3fd2db61
+1398,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,SEDIMENT TRAPS,,363d283c-b6ba-4c90-852a-365b22b86f7e
+1399,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,SOIL SAMPLER,,f77932c0-e115-48da-978d-dd7bf6afd0af
+1400,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,TRAPS,,4b3e2548-dffe-421b-b308-95556d69b2ee
+1401,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,TULLGREN FUNNEL,,48cb1921-cd98-4dc4-b6cf-0ae5da689b2e
+1402,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,WET DEPOSITION COLLECTORS,,580df25f-c9f8-4f50-aec6-06440671d0d0
+1403,In Situ/Laboratory Instruments,Samplers,Grabbers/Traps/Collectors,,,,70815ca9-3685-4e93-a6c5-55ef53d6080c
+1404,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,AGASSIZ TRAWL,,b879e422-8370-4f09-a52d-8ebfbdf37493
+1405,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BENTHIC GRABS,,9461dfde-fc76-4a6e-8f9c-e1e8048008c3
+1406,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BENTHOPELAGIC NET,,c495dfab-f577-4428-ac47-daf34b437f4b
+1407,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BENTHOPELAGIC TRAWL,,4e07cfa1-93d0-4862-94ee-325411a9149d
+1408,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BIONESS,Bedford Institute of Oceanography Net Environmental Sampling System,6285338b-3ec4-4ecc-962f-ee6fc2d80c7e
+1409,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BONGO NETS,,28f2c2c5-1f5c-47e7-a58c-1c2e88bd968a
+1410,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,BOTTOM TRAWL,,cbbb7e45-e65c-45fd-8fa4-c4d2a56d0e87
+1411,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,DEMERSAL TRAWL,,1e610ebc-134a-47f3-bfa1-a5bef8dc6c3e
+1412,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,FISH NETS,,b798ae8a-8d20-4428-841a-f6e7189f9434
+1413,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,GILLNETS,,efbaa43f-3ecf-4f3e-8823-6d80d6cd3197
+1414,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,MIDWATER TRAWLS,,f692fa4a-034c-4428-8d71-2549e1fd254e
+1415,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,MOCNESS,MOCNESS Plankton Net,c9c0085a-3b55-407b-8a87-c66c2b98c7aa
+1416,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,NETS,,46b681ed-42fd-4cb6-9da4-1ca93336bc41
+1417,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,NEUSTON NET,,6c662d7f-95b2-4885-9d96-776242da52fa
+1418,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,NORPAC ZOOPLANKTON NET,,5a7963a9-01d1-41ee-b8d6-b7afb0e39d81
+1419,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,OTTER TRAWL,,5d25838c-87ed-4e75-95fe-2d426a85c1c7
+1420,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,PLANKTON NETS,,4dc13375-a2a4-40ed-a556-51e887438769
+1421,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,SCOR WP-2 ZOOPLANKTON NET,,4c859cd7-4921-4158-a85f-621d999431f2
+1422,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,TRAWL,,c386fdd8-5a49-46c6-9be6-b56a9428f30d
+1423,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,TUBBS TOWS,,64fd5823-293d-41bb-b8c6-7e48d754813d
+1424,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,TUCKER TRAWLS,,4c1980ca-9cb9-4ba3-bb2a-ee5951d514f8
+1425,In Situ/Laboratory Instruments,Samplers,Trawls/Nets,,,,eceec9a6-1311-4028-8433-1f6d21b62d4d
+1426,In Situ/Laboratory Instruments,Samplers,,,BEDLOAD SENSORS,,a3dda022-2254-4ec5-9ce5-99d65060cc2f
+1427,In Situ/Laboratory Instruments,Samplers,,,CUFES,Continuous Underway Fish Egg Sampling System,86b43d3e-92bb-436b-9d56-a5de4ac23ef1
+1428,In Situ/Laboratory Instruments,Samplers,,,DREDGING DEVICES,,96471be4-6078-477d-8e66-c02b92f594d4
+1429,In Situ/Laboratory Instruments,Samplers,,,ELECTROFISHING,,6c7c9336-4cb9-45a5-a949-c5ee562106d0
+1430,In Situ/Laboratory Instruments,Samplers,,,FSI,Filter Sampling Instrument,3a277594-15de-4795-b057-35a918e1c12a
+1431,In Situ/Laboratory Instruments,Samplers,,,GRANULOMETRIC SIEVES,,734709ce-2a7a-4160-8cb3-a3c7e0bc164d
+1432,In Situ/Laboratory Instruments,Samplers,,,HVAS,High Volume Air Sampler,7a53aaf4-249e-4747-a5a3-47e037d2885d
+1433,In Situ/Laboratory Instruments,Samplers,,,HVPS-3,High Volume Precipitation Spectrometer 3,b4e04a55-68fc-43df-939b-91048f24ff57
+1434,In Situ/Laboratory Instruments,Samplers,,,HVPS,High Volume Particle Sampler,66fd83d4-5315-42b3-a9fc-3e1bb6222c79
+1435,In Situ/Laboratory Instruments,Samplers,,,KEMMERER SAMPLER,,983f115b-4f2a-44c6-9737-101377f44fb2
+1436,In Situ/Laboratory Instruments,Samplers,,,KOPRI Unit,,af479639-68a7-436c-b57d-11771971a7be
+1437,In Situ/Laboratory Instruments,Samplers,,,PILS/IC,Particle-IntBMI Particle-Into-Liquid Sampler Manufactured by Brechtel and ICS-3000 Ion Chromatography System Manufactured by Thermo Scientific Dionexo-Liquid Sample,b8fe9845-4ae5-44e3-bebf-64128c268df5
+1438,In Situ/Laboratory Instruments,Samplers,,,PISTON SAMPLERS,,8d27ab4d-00ee-4403-aa04-a89e74d3f24a
+1439,In Situ/Laboratory Instruments,Samplers,,,QUADRATS,,1474e6ed-cce2-4f24-980a-68f03eda0194
+1440,In Situ/Laboratory Instruments,Samplers,,,STS,Step Sampler,a1135cb4-a824-4e32-b5b1-7c0633d5f817
+1441,In Situ/Laboratory Instruments,Samplers,,,WET/DRY PRECIPITATION SAMPLERS,,77f6de85-0628-4659-bfe1-9172ba7b19ef
+1442,In Situ/Laboratory Instruments,Samplers,,,WWS,Whole Water Sampler,bb18f75e-6305-4be3-b12e-27aeef7d3fe5
+1443,In Situ/Laboratory Instruments,Samplers,,,,,78c70202-ab05-40d6-90db-563be2a8dc90

@@ -1,0 +1,207 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+0,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,AIRBORNE LASER SCANNER,,ff309a1a-606d-456b-82b6-5b3c182f66ff
+1,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,ATLAS,Advanced Topographic Laser Altimeter System,b3684b4b-4f0b-48aa-8997-e3758fd04155
+2,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,ATM,Airborne Topographic Mapper,c2428a35-a87c-4ec7-aefd-13ff410b3271
+3,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,CALIOP,Cloud-Aerosol Lidar with Orthogonal Polarization,8783344a-b6cb-4905-adab-1ae6281fc83d
+4,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,GEDI,Global Ecosystem Dynamics Investigation,5218fe2e-bea7-4654-bc54-7b9ec5503b60
+5,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,GLAS,Geoscience Laser Altimeter System,57463f12-2a21-49f9-9477-718030d34291
+6,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,HALO,High Altitude Lidar Observatory,0e3c8f3e-c229-4760-b81c-fd0150254aaa
+7,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,LIDAR ALTIMETERS,Light Detection and Ranging Altimeters,6323cb13-3eb8-4cbf-b0c7-eb253dbf5652
+8,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,LVIS-Camera,Digital Mapping Camera paired with LVIS,4fcbd8a9-2cfe-461b-8e3b-f039692fdd10
+9,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,LVIS-GH,"Land, Vegetation, and Ice Sensor - Global Hawk",eec2fe85-bcce-4c42-858a-0c8b5fe96b10
+10,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,LVIS,"Land, Vegetation, and Ice Sensor",aa338429-35e6-4ee2-821f-0eac81802689
+11,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,MABEL,Multiple Altimeter Beam Experimental Lidar,3449c20e-8cf2-4aff-829a-2e8f0cca5670
+12,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,MBLA,Multi-Beam Laser Altimeter,bc0ff6d1-1318-4fe3-839e-feaf63a04d2d
+13,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,Riegl Airborne Lidar,Reigl Waveform Processing Airborne Laser Scanning System,623a6c70-4611-453a-bdfe-d9a9f1df5419
+14,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,Riegl LMS-Q1560,Riegl LMS-Q1560 Airborne Scanner,0c8b5d57-5ecf-4126-a14d-080061ccbde1
+15,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Lidar/Laser Altimeters,,,ec76ff59-7450-48a0-9152-7c3531e609fd
+16,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,ALT (SEASAT 1),SEASAT 1 Radar Altimeter,44dbfc87-9835-4093-9aac-33231ccdd990
+17,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,ALT (TOPEX),TOPEX Radar Altimeter,ab172a97-a1ed-4a5b-ba0b-8b39685b76a5
+18,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,ALTIKA Altimeter,,2eb2b23d-b5eb-459b-b364-e18780900f96
+19,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,ALTIMETERS,,faef1e3c-e201-4fbc-8f7e-5ab2818c0a62
+20,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,ASIRAS,Airborne SAR/Interferometric Radar System,8928c9da-2163-4cfc-b3ed-3fc5d67a4334
+21,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,CloudSat-CPR,CloudSat Cloud Profiling Radar,f9941038-62ff-4a59-b82d-6b2f9a4546d2
+22,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,EarthCARE CPR,EarthCARE Cloud Profiling Radar,715d7cf7-0824-4fca-bdd8-1b651953b820
+23,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,GEOS-3 ALTIMETER,GEOS-3 ALTIMETER,412a30f1-2563-42c1-9a92-1a41c4373e16
+24,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,Jason-class Altimeter,,3f392e56-af78-451b-a1ba-c577aa728a4c
+25,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,KBR,K-Band Ranging system,478ad687-00a6-48f8-b00d-b61f43f37cd4
+26,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,KU-BAND RADAR,Ku-Band Radar Altimeter,38b69d95-81c3-4f6f-b3a6-0766fc2bc199
+27,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,NRA,Nasa Radar Altimeter,a3452367-b483-4893-a377-7d1d343424a7
+28,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,POSEIDON-2,JASON-1 RADAR ALTIMETER,f01cb5c4-0ed4-4a83-8c0c-9b954fdb697e
+29,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,POSEIDON-3B,Poseidon-3B Altimeter,b60ab284-6cac-4389-ae78-c601100030e7
+30,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,POSEIDON-3,JASON-2 RADAR ALTIMETER,842c4fea-afe2-4ed1-aade-ccce65cfb121
+31,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,Poseidon-4 Radar Altimeter,,2092a1b6-776d-45eb-990a-2838a69c5d86
+32,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,RA-2,Radar Altimeter-2,a3cf784c-00ad-455a-8961-ae9dcec76712
+33,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,RADAR ALTIMETERS,,f6420e37-932b-4550-b8dc-fab4ba91d680
+34,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,RA,ERS Radar Altimeter,9873d448-7c5c-4d0b-b699-8683aa37dd4c
+35,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,SIRAL,Synthetic Aperture Interferometric Radar Altimeter,30787b9f-a407-47a5-b69b-5b9e1d1b1144
+36,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,SSALT,POSEIDON Solid State Radar Altimeter,4c4d88f6-a2e2-4394-81ac-b2919cb2efcd
+37,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,SWIM,Surface Waves Investigation and Monitoring instrument,1c7fb7a4-cedd-4328-b785-5b0774cf1990
+38,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,Sentinel-3 SRAL,Sentinel-3 SAR Radar Altimeter,7b6e3162-1314-4441-b33a-e2b68ae85bcd
+39,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,Star Tracker,,2380ecc6-b5ae-4ad8-a56a-9740166465aa
+40,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,UTIG IMU,University of Texas Inertial Measurement Unit,e1539872-b5fd-43e9-b67b-7b4252885aa0
+41,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,UTIG Riegl,University of Texas Riegl LD90-3800 HiP-LR Laser Altimeter,619fc93c-4f4a-4509-8964-46c9218aa9a4
+42,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,Radar Altimeters,,,92ddaaca-40b2-4936-bc1a-28cc5743e8b8
+43,Earth Remote Sensing Instruments,Active Remote Sensing,Altimeters,,,,abe7fa55-1198-44ea-8327-20d13155b46c
+44,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,AIRSAR,Airborne Synthetic Aperture Radar,6473c154-cada-4165-bfd4-2e8fd6c469f6
+45,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,AMI,Active Microwave Instrument,c6c1ba5b-650d-48f9-b101-2a3842da834d
+46,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,ASAR,Advanced Synthetic Aperature Radar,912c3308-23bc-4e12-b7fb-9d82e9fc5fe9
+47,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,AirSWOT,,a6a8801e-88f1-42a0-b060-24b38b19a446
+48,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,BRLK,X-band Synthetic Aperture Radar,6efe4ae6-fbf2-4e92-8fe4-78e16182da84
+49,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,C-BAND RADAR,C-Band Imaging Radar,7b241f5e-a68a-491a-830b-22ecf48a57e3
+50,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,C-SAR,C-Band Synthetic Aperture Radar,ed400e7c-229e-48be-9a93-84f2fc864448
+51,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,CBR,C-BAND RADAR,177f6ccb-e45a-4a60-8b34-ac19bbb698d4
+52,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,GEOSAR,Geographic Synthetic Aperture Radar,6378c31c-75e6-47dc-b59b-87221ec46ea3
+53,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,IFSAR,Interferometric Synthetic Aperture Radar,7c1508ab-b7c9-402a-9779-cd4388dcefdd
+54,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,IMAGING RADAR SYSTEMS,"Imaging Radar Systems, Real and Synthetic Aperture",9a351e42-4f5c-4d6b-b51f-152c513ad3ff
+55,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,NOXP,X-band Polarimetric Radar,2a342947-dc41-4ea0-b0a4-ba68bb732657
+56,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,P-SAR,P-band Synthetic Aperture Radar (P-SAR),1715936c-434b-410c-aa94-c2f6b5c08c95
+57,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,PALSAR-2,Phased Array type L-band Synthetic Aperture Radar 2,ade92813-1bb6-4ecd-af53-a8eb21f212d3
+58,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,PALSAR,Phased Array type L-band Synthetic Aperture Radar,126f9ae6-20ea-4d58-9039-decb8913296d
+59,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,PAZ-SAR,PAZ - Synthetic Aperture Radar (X-band),474a09e5-315c-42e4-9521-36153eafb049
+60,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,Polarimetric Radar,Polarimetric Radar,042e5575-eb33-4c45-a708-3df3555afff6
+61,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SAR,Synthetic Aperture Radar,a37282d4-322c-4dd0-8edc-36099b9b586c
+62,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SENTINEL-1 C-SAR,,1c53d85e-3792-4081-9748-192fd3140aa6
+63,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SIR-A,Shuttle Imaging Radar-A,01aa7772-e06d-4772-b8c1-82210f187038
+64,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SIR-B,Shuttle Imaging Radar-B,aca17f83-54bb-42f0-9f38-c7d015882483
+65,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SIR-C,Spaceborne Imaging Radar-C,4d936b6b-4876-4b80-a5c2-ea218ea77c82
+66,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SLAR,Side-Looking Airborne Radar,318da8a4-09da-476f-a3eb-3f3c0fa82fb7
+67,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SLRAR,Side-Looking Real Aperature Radar,69d604ea-dead-41cc-9aaf-c63eec4f8947
+68,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SMAP L-BAND RADAR,SMAP L-Band Radar,d6a17c7b-def7-415a-af34-87819125d14f
+69,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SRTM C-BAND RADAR,Shuttle Radar Topography Mission C-Band Radar,7bd9c21d-d123-49c6-a9e6-0a63deb523be
+70,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SRTM,Shuttle Radar Topography Mission,0287b3bd-ed50-4662-96e9-7f7469179344
+71,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,SnowSAR,Snow Synthetic Aperture Radar,81f1e075-7f78-4442-9deb-5efc53e0e24c
+72,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,TDX-1,Synthetic Aperture Radar (SAR),ab70584d-30b9-49c1-b1d6-b05cd8c9cbb0
+73,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,TSX-1,Synthetic Aperture Radar (SAR),4dc63a97-144f-49f7-8fe2-2202857543f7
+74,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,UAVSAR,Uninhabited Aerial Vehicle Synthetic Aperture Radar,1667ff45-ae3a-4f20-ab42-b786a6d06a72
+75,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,WCR,Wyoming Cloud Radar,f41e9e06-c769-46ed-a79c-2ff2184eee4a
+76,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,X-SAR,X-Band Synthetic Aperture Radar,285c90fb-0b3f-487f-a094-40d6dea7948e
+77,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,pRES,,9ca1af5f-e2d6-4412-9efc-5eeefae8f0dc
+78,Earth Remote Sensing Instruments,Active Remote Sensing,Imaging Radars,,,,824070fa-da29-40fa-ba17-f3d60584bd4d
+79,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,Laser Ranging,GRACE-FO LRI,GRACE-FO Laser Ranging Interferometer,9cf060b8-d8ea-46c4-a8de-f2073df5d0ae
+80,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,Laser Ranging,MOBLAS,Mobile Laser Systems,bc9d34c8-4d8d-4434-aff9-dd8d8aa49793
+81,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,Laser Ranging,,,a3ce2cfb-5488-4301-83c2-64bbc090c397
+82,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,,SATELLITE RADIO BEACON,,3f542e06-d6d2-4387-84cb-e4430ae8c8d4
+83,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,,TBB,Tri-Band Beacon,0936ec9e-318d-4503-8e0b-4a2fa171c8fe
+84,Earth Remote Sensing Instruments,Active Remote Sensing,Positioning/Navigation,,,,e87a9716-cf7e-42c7-8e70-a45e6ee337d2
+85,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,ACOUSTIC SOUNDERS,,7ef0c3e6-1012-411a-b166-482fb35bb1dd
+86,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,ECHO SOUNDERS,,9b547aa7-4980-42dc-9f6b-4d35e2cc625c
+87,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,IES,Inverted Echo Sounders,eb8fdbae-05fc-4017-9759-300261552f45
+88,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,RASS,Radio Acoustic Sounding System,62d1e780-c34f-44e6-be01-bef03beeec4c
+89,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,SAW,JPL Surface Acoustic Wave Hygrometer,adb501c8-3a2f-4c52-acf3-e77816428a92
+90,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Acoustic Sounders,,,ba25756b-6326-4746-a20d-63db582a5f3f
+91,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,ALADIN,Atmospheric Laser Doppler Instrument,f94386e2-8e9b-4a95-9071-fb617a50cabb
+92,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,ATLID,ATLID (Atmospheric Lidar),485824e1-c539-45e6-8262-4e902b8542ed
+93,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,CATS,Cloud-Aerosol Transport System,3c5cf319-3005-44c3-8b27-3544e862da89
+94,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,CLOUD LIDAR,CLOUD LIDAR,31d04c8c-017d-4e62-bc0c-1b59bfa5d9f2
+95,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,CLS,Cloud Lidar System,5409f22f-d1f3-4e53-8c00-9aef3e82e932
+96,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,CPL,Cloud Physics Lidar,6238f3e2-9a87-4e32-b866-c4a637094b51
+97,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,DAWN,Doppler Aerosol WiNd Lidar,6c237a14-1064-41e6-add7-8ad2962cf8e7
+98,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,DIAL,Differential Absorption Lidar,bebf8e8d-babf-4f4f-bff3-d04c80bc67dc
+99,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,DOPS,Dual Optical Pulse Sensor,13e3c534-6615-433d-a06f-7425bb91e104
+100,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,LASERS,Light Amplification by Stimulated Emission of Radiation,4d9f3a1b-9601-4b32-9a35-ae26981b1ee9
+101,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,LIDAR,Light Detection and Ranging,7166c458-f935-4bd9-a322-d92830cf0c33
+102,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,RL,Raman Lidar,3cc266de-68cd-42bf-88e6-a508869901a6
+103,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,UAF Profiler,University of Alaska Fairbanks Lidar Profiler,3f53531b-4c12-493a-bc9b-a65502bd62c5
+104,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Lidar/Laser Sounders,,,7c13f166-8711-4d2f-9251-4635002c6c31
+105,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ACORDS,Advanced Coherent Radar Depth Sounder,41d3528f-8029-4b1a-ae82-9279c7466219
+106,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ACOUSTIC RADAR,,0a63da59-87bd-4294-a51f-0f21baf20429
+107,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ADRAD,Texas Aggie Doppler Radar,509e6d6f-eb4e-4c4b-807a-617610eace3a
+108,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,APR-2,Second Generation Airborne Precipitation Radar,32fabcaa-08a3-4660-8dcf-882211b33881
+109,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,APR-3,Third Generation Airborne Precipitation Radar,abe7e571-142e-4ca1-96d9-d56b9a5311e2
+110,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ARMAR,Airborne Rain Mapping Radar,d0c0ab2c-14a4-41a0-8d9b-ac1c13312b40
+111,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,Accumulation Radar,Accumulation Radar,b7e9c174-3993-434f-becd-c2ee25946aa2
+112,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,CAMRA,CWVC Chilbolton Advanced Meteorological Radar,34f702ec-4273-4281-a2d5-5b80459fbc3b
+113,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,CRS,Cloud Radar System,24c6b787-4d3d-4252-a9b8-b99aeca73c00
+114,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,D3R,Dual-polarized Doppler Radar (D3R),08ec5716-b5d9-4e15-8d4a-c699f6e89283
+115,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,DDMI,Delay Doppler Mapping Instrument,640cd1f2-73c3-42bd-9fd4-527f61f533a5
+116,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,DMR,GPS Bistatic Radar Delay Mapping Receiver,f39fb827-591d-4153-81aa-30b78f7389d8
+117,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,DOPPLER BEACONS,,aa8a18c9-5cc7-462c-9841-91775178a58c
+118,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,DOPPLER RADAR,,eb04b68b-0652-4881-a933-c84602364ee5
+119,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,DPR,Dual-frequency Precipitation Radar,aefa950a-e310-4ae3-814e-38b4aa0aec04
+120,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,EDOP,ER2-Doppler Radar,ba3de3fc-b958-4f98-94a0-e322a290cc1c
+121,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ELDORA,Electra Doppler Radar,51b9980d-4225-47bd-92d9-3268f023791f
+122,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ELECTROMAGNETIC GEOPROFILER,,0b748b90-fe0d-4179-9bdc-d65cd5cadaf4
+123,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,EXRAD,ER-2 Doppler Radar,a212d36d-2a4e-473f-b16a-6e2104b9dd8f
+124,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,FMCWR,Frequency Modulated Continuous Wave Radar,34f982b6-85ed-4a23-a886-b5c88a16de9b
+125,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,GPR,Ground Penetrating Radar,56d66737-1ad5-4f21-bb87-bb8b5c0736fa
+126,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,HiCARS1,Hi-Capability Radar Sounder Version1,12f1957f-f37b-43d6-a962-42f3422f5806
+127,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,HiCARS2,Hi-Capability Radar Sounder Version2,1fda092b-8f01-4810-a8e5-284efa1210c8
+128,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,ICORDS,Improved Coherent Radar Depth Sounder,1b358511-67f9-43cb-85a3-7201f1d787db
+129,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,INCOHERENT SCATTER RADAR,,ae74b4c1-18e6-4079-b740-d65a6394ba37
+130,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,LAP-3000,Vaisala LAP 3000,d0e9ba6a-81e3-459b-87c3-20d00039c0de
+131,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MASC,Microwave Atmospheric Sounder for CubeSat,f59652c5-eaa8-49c0-b65f-a0166048b1dd
+132,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MCRDS,Multi-Channel Radar Depth Sounder,bd06c523-4e22-4cd4-975a-ba7bbab25ad0
+133,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MCoRDS,Multichannel Coherent Radar Depth Sounder,5a8adb1b-9f47-460c-8f5a-c570b8b6eb0c
+134,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MMCR,Millimeter-Wavelength Cloud Radar,440da7dc-72d9-4963-8dc1-2084d1a51294
+135,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MRR,Micro Rain Radar,4046a144-ca32-4207-8831-31b8d780ace2
+136,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MSPI,Multiangle SpectroPolarimetric Imager,3f90fc9d-03a6-4297-a887-5295b2bd6ff9
+137,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,MST,"Mesosphere, Stratosphere and Troposphere Radar",62309600-7c79-4ae1-a232-9f968bd81ac3
+138,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,NEXRAD,NEXt Generation RADar,b3977ebf-401c-4731-be75-4184a4b4afd1
+139,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,NPOL,NASA Portable S-band Multiparameter Weather Research Radar,3c2d43d1-8017-4616-8075-3678e66b7513
+140,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,OSCR,OCEAN SURFACE CURRENT RADAR,20186f0a-7a29-4868-9ddd-2bb332b68505
+141,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,PALS,Passive Active L-band System,240304d3-2cf8-40e0-b65f-670be88fdf4e
+142,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,PARIS,Pathfinder Advanced Radar Ice Sounder,9c131051-30ac-4346-9e5c-38516ca69350
+143,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,POSS,Precipitation Occurrence Sensor System,0fb52f3d-d45a-4c77-8159-c5f07e042fba
+144,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,PR-2,Second Generation Precipitation Radar,734f3eb4-2be6-4da4-8751-62f7b6d7eff4
+145,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,PR,TRMM Precipitation Radar,3604e8a3-6e1e-4f11-9b33-1d9b3ddfe6ae
+146,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,RADAR ECHO SOUNDERS,,7b04b051-2ec0-47e4-854e-22ce47ee872c
+147,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,RADAR,Radio Detection and Ranging,6d513201-491c-4359-8e8f-20acb6a6537e
+148,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,RWP50,50-MHz Radar Wind Profiler and Radio Acoustic Sounding System,9c01c5b0-bc0f-404f-9ae4-8e9012ed6d60
+149,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,RWP915,915-MHz Radar Wind Profiler and Radio Acoustic Sounding System,bd87a5d1-fe86-4e45-8beb-d8be5dc35677
+150,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,SCR-HF,Surface Current Radar,f343a9c5-994a-4447-8634-28d2fe2227b0
+151,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,SNOW RADAR,Wide-band Snow Depth Radar,6cef88d9-ea3c-4f61-80c2-18b48affc583
+152,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,SPOL,NCAR S-band Polarimetric Doppler Radar,62cd7e76-9926-43e9-aabb-71f44ad367eb
+153,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,TOGA RADAR,,3d040403-e6ab-4e42-b54a-14cce4033f6e
+154,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,VERTICAL POINTING RADAR,,c9443a85-ca1d-4220-be2f-fa4c8e09b0f0
+155,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,W-Band Radar,,dc5ee11d-a90e-4a70-9bcb-93d106c1583f
+156,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,WISE,Warm Ice Sounding Explorer,3c769989-de85-49c0-820e-8870b39ce3e3
+157,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,X-POW,Mobile X-band Polarimetric Weather Radar on Wheels,2e3fe1ff-8b6e-42df-9b4f-e7a13d9577f0
+158,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,XPOL,NOAA/ETL X-band Polarimetric Doppler Radar,9f26c022-321a-4523-b30f-0406377fe9f3
+159,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radar Sounders,,,6c5ca722-0bc7-4ccd-ad24-39b9d8710140
+160,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radio Sounders,IONOSONDE,,e7904358-3122-41a3-b9c4-572b74db72a5
+161,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,Radio Sounders,,,9fd01f99-1b20-4a7c-aca8-4ac5d539195f
+162,Earth Remote Sensing Instruments,Active Remote Sensing,Profilers/Sounders,,,,662347ea-36e2-42fe-9189-f22eb8f022ee
+163,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,AQUARIUS_SCATTEROMETER,Aquarius Scatterometer,799026db-3706-4335-a5ca-30fb9b34b845
+164,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,ASCAT,Advanced Scatterometer,f55d156c-adbc-47db-a69c-981afbaa0cf6
+165,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,C-SCAT,C-Band Scatterometer,494f7200-d648-42e2-97fa-83d8765b9395
+166,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,ERS WIND SCATTEROMETER,,d1c4be34-1053-42c5-bc81-bfdcb6b27567
+167,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,NSCAT,NASA Scatterometer,20877b67-1c0c-4298-bda4-5403363eb527
+168,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,OSCAT-2,OceanSat-2 Scatterometer,3abc7c20-963c-49ed-bb73-8fcacdce9d8c
+169,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,OSCAT,OceanSat Scatterometer,6e24a235-4813-44dd-8be0-0c74e6898e15
+170,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,POLSCAT,Polarimetric Ku-Band Scatterometer,08a08050-15d8-4dba-a8e6-352f157da323
+171,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,RapidScat,Rapid Scatterometer (RapidScat),275efdbc-5d2c-49c1-9e08-c2b50d2ff115
+172,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,SASS,SEASAT-A Scatterometer System,06286aad-e656-4a8c-bc43-ffc2a1fdd281
+173,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,SCATTEROMETERS,,2ea0f679-bb41-4a04-b9b5-d6786ecaa5cb
+174,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,SCAT,CFOSAT Scatterometer,55694771-4eee-455d-87db-135627949cf5
+175,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,SEAWINDS,SeaWinds Scatterometer,ba611e74-27eb-4e97-a132-79d63f5e892b
+176,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,WS,Wind Scatterometer,ff159b0a-e63b-4a88-a0de-d90f861a0f07
+177,Earth Remote Sensing Instruments,Active Remote Sensing,Scatterometers,,,,563f30c8-43f8-48be-b649-4b548f877fa4
+178,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,AIR-ION,AIR-ION SPECTROMETER,eb994e17-3aa5-4e97-a45a-16501d433010
+179,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,ALIAS,Airborne Laser Infrared Absorption Spectrometer,298cf686-6365-4f47-b0c7-9619865cd8ab
+180,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,ALPS,Airborne Laser Polarization Sensor,3efdeb69-25ca-4756-b293-d4d10af2a921
+181,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,AOLFL,Airborne Oceanographic Lidar Fluorosensor,423dda9a-30fe-4fb2-abdb-a9ae31433ad7
+182,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,ATLAS,Airborne Tunable Laser Absorption Spectrometer,f0aac4fb-b886-4333-a947-3fede8da1f5b
+183,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,BACKSCATTER LIDAR,,8059a3c0-6067-43d6-9695-199279d7d0de
+184,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,DLH,Diode Laser Hygrometer developed by NASA LaRC,086b650d-3aac-4b1a-8d51-0928634eca50
+185,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,ELASTIC BACKSCATTER LIDAR,,43c00652-3065-443c-9ecb-be4a3d24c1f3
+186,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,HSRL,High Spectral Resolution Lidar,8ab7e899-6854-48da-9cae-21df7539045e
+187,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,JPL LASER HYGROMETERS,,fe1fa30a-adc4-4019-a176-f471e4f8f49c
+188,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,KNOLLENBERG PROBE,,4b99824c-39d1-4e1d-a5c7-c75baa04fb90
+189,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,LASER SPECTROMETER,,0d45873c-9a8c-4cff-b27b-a1b0bd629cc4
+190,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,LASE,Lidar Atmospheric Sensing Experiment,f53da431-a1cd-4151-9df9-9d82745797d0
+191,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,LLS,Laser-Light Scattering,e605cb42-8974-4401-857e-ecd524390353
+192,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,MPL,Micropulse Lidar,654817e8-e647-4d7b-8113-295652359e6c
+193,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,NOAA-H2O,Closed Cell Tunable Laser Spectrometer (NOAA-H2O),5ebada8c-1d4c-4c89-8cdd-dfe630b454db
+194,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,PALMS,Particle Analysis by Laser Mass Spectrometry,a211773e-5959-40dc-8b33-f7d5880d57f3
+195,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,RBI,Radiation Budget Instrument,de7e08db-86f1-4593-ba9e-288f9f7b063e
+196,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,SCAMS,,a40bd45e-e709-42dc-ad37-6e480a1309b9
+197,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,SIGMA SPACE LIDAR,Sigma Space Photon Counting Imaging Lidar,ad628f56-6e31-4dba-b7ae-9b9329da6dc2
+198,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,TSI LAS-3340,TSI Laser Aerosol Spectrometer 3340 Manufactured by TSI Inc.,fec19414-e21b-48a3-8130-c268834c4889
+199,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,VIL,Volume Imaging Lidar,ee6bc848-3c65-4693-aac0-6d1146d7d9f5
+200,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,VIRL,Visible and Near IR Lidar,b3b3e579-219c-4498-bb50-649a78c5ba5d
+201,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Lidar/Laser Spectrometers,,,46238695-5577-4fad-91bf-0a2fdf8a9b19
+202,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Radar Spectrometers,ROWS,Radar Ocean Wave Spectrometer,20608ba0-ee5b-48b6-be6e-1dd63f7c3892
+203,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,Radar Spectrometers,,,2533b190-cdd5-4c94-99d9-7d5cc5dad371
+204,Earth Remote Sensing Instruments,Active Remote Sensing,Spectrometers/Radiometers,,,,93e67fc7-3a57-4cf0-a0f9-7f76cded167c
+205,Earth Remote Sensing Instruments,Active Remote Sensing,,,,,c8fe757b-b530-4d67-a553-e4903f4430a5

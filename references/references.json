@@ -1,0 +1,18 @@
+{
+  "REFERENCES": [
+    "../references/references.json",
+    "<file_description>"
+  ],
+  "PEOPLE": [
+    "../references/people.csv",
+    "<file_description>"
+  ],
+  "AUTHORS": [
+    "../references/authors.json",
+    "<file_description>"
+  ],
+  "INSTRUMENTS": [
+    "../references/instruments.csv",
+    "<file_description>"
+  ]
+}

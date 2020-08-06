@@ -1,0 +1,113 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+983,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,2DS,2D-STEREO PARTICLE PROBE (2DS),307def51-758d-4e3e-90a6-27d1603deb5b
+984,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,4-Channel CL,"4-channel Chemiluminescence Instrument for NO, NO2, NOy, and Ozone developed by NCAR",fe4fc26d-cadb-4b24-bea6-5c6654f15986
+985,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ACATS,Airborne Chromatograph for Atmospheric Trace Species,6656d674-a63d-4c68-9a61-59fd8cdf0c6b
+986,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ACFA,Automatic C-Axis Fabric Analyzer,f131b3c1-72a6-4559-b586-a4a8f4a2fed9
+987,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ADS,Automated DNA Sequencer,554a3c73-3b48-43ea-bf5b-8b98bc2b11bc
+988,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AEROSOL MONITOR,,8c26aafd-eebc-41ad-8bed-d48a1da42c7d
+989,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AEROSOL/CLOUD PARTICLE SIZER,,5e72c9a6-342e-4632-bb60-87a898f359b1
+990,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AETHALOMETER,,181b36db-751a-441e-b87e-6719bbef7f44
+991,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AIR PERMEAMETERS,,ee6320cf-7ee8-4282-99f1-c5dc4dd42ca6
+992,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,APMS,Ames Particle Measurement System,f6a4576d-be7e-4f4c-b95a-a6a66245f1ec
+993,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ARGUS,Two-Channel Atmospheric Tracer Instrument,a3df384f-6eea-47a5-9846-ff9e4dfd5ec5
+994,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,"ARI MINI CO, N2O, H2O","CO, N2O, H2O DIRECT ABSORBANCE SPECTROMETER",f8e7d425-cfe3-4b7e-b09d-7ae9770ffdd9
+995,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ATHOS,Airborne Tropospheric Hydroxides Sensor,fb4c76e9-8aa8-4c4a-8346-44c8bf735633
+996,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AUTOANALYZER,,79f76e22-ae42-450d-8bed-d05a800f6ea0
+997,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AVOCET,LI-6252 Differential Mid-Infrared Absorption of CO2 Sensor Manufactured by LI-COR Biosciences,b9caa53c-dc7d-4422-bacf-6fe5c092a7c9
+998,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,AWQT,Apparatus for Water Quality Test,96caaaf9-c813-4973-9491-772a7963b792
+999,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,C-TAG,Comprehensive Thermal Desorption Aerosol Gas Chromatograph,d0a5f758-5fd9-4f04-8f2b-4dce83e7dae6
+1000,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CARBON ANALYZERS,,b46bf990-c49d-4302-96ee-dce3c4f96d08
+1001,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CCN,CCN Counter,7f60d215-8aea-467c-9c48-8a88d35da522
+1002,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CHN ANALYZERS,"Carbon, Hydrogen, Nitrogen Analyzers",276af45e-11f4-4545-a05a-f74a8ce2612e
+1003,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CHNS/O ELEMENTAL ANALYZERS,"Carbon, Hydrogen, Nitrogen Elemental Analyzers",b9e15e2b-d3a4-42a5-9ddb-dff368d2a12f
+1004,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CIP,Cloud Imaging Probe,92f99316-b581-4adb-9980-aeb6bed64eee
+1005,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CNC,Condensation Nuclei Counter,6c810285-f58a-4790-800e-1fb55919b30e
+1006,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CO2 ANALYZERS,,7aecabfb-0047-484f-8396-efc0da16bc20
+1007,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CO2NDIR,Carbon Dioxide Nondispersive Infrared Analyzer,eeed0f6b-5821-420f-b928-b0db22cabf74
+1008,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CPA,Charged Particle Analyzer,4b8e3b9a-ee98-41e1-94aa-263ebbd4de58
+1009,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CPC,Cloud Particle Counter,7b08ac7a-6242-4fc5-bff9-e7d0c6341555
+1010,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,CRDS,Cavity Ring-Down Spectroscopy,9a61fcbd-c75f-4940-939f-6e4c7d84d643
+1011,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,DIFFERENTIAL MOBILITY ANALYZERS,,d1a3d7a9-cc76-4e8a-a587-b603ef30b5c2
+1012,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,EGC,Electron Gas Chromatograph,0ecdd685-9996-45af-b4e7-2df074c68368
+1013,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,EQUILIBRATORS,,d8efbcb9-9ab3-4016-b7ff-6426cd0bf545
+1014,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FIA,FLOW INJECTION ANALYSIS,424121d2-5124-4883-bdc5-b827e3408050
+1015,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FLAME-IONIZATION DETECTOR,,8421ed50-4ae2-4df7-bd76-9fd7b8aea9a6
+1016,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FLOW CYTOMETRY,,78090906-ba69-42f4-97a0-c770556e236e
+1017,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FLUORESCENCE MICROSCOPY,,35dc5fc4-4c96-44d9-8710-0e99e00201c8
+1018,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FLUORESCENCE SPECTROSCOPY,,a2983835-be12-4a07-b2b5-349718045ab4
+1019,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FLUOROMETERS,,e904c3c7-0111-4d09-bb01-2b7bea9b4d3f
+1020,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,FRRF,Fast Repetition Rate Fluorometer,d9e2e316-5a3e-42f4-b10a-b51bd53d0f9a
+1021,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GAS CHROMATOGRAPHS,,32402358-e5dc-4c01-bede-5304ebea0584
+1022,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GAS CORRELATION FILTERS,,7bd773dd-d715-473b-8e24-64b32138515f
+1023,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GAS SENSORS,,7f7bb2bd-89a6-418e-b291-8fb5af7dcf4f
+1024,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GC-ECD,,b18726c7-97b1-48a4-9ee0-9ed77415634f
+1025,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GC-FID,Gas Chromatography - Flame Ionization Detector,bb7586fa-5af4-495d-ab07-4f9c4a79b1a6
+1026,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GC-MS,Gas Chromatograph/Mass Spectrometry,3ce7f4f0-d2db-4352-8762-d88296f7aa15
+1027,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,GC-TCD,Gas Chromatography - Thermal Conductivity Detector,f54fd6d0-9705-4f45-8c78-7eaba058b1b6
+1028,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,HAMI,Hydrocarbon Automatic Measuring Instrument,6a7f7d2d-6d6d-4bd2-b814-0f8e4df3896a
+1029,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,HPLC,High-Performance Liquid Chromatograph,66caadfa-f3e1-4491-918a-5db7c07f8e19
+1030,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,Hawkeye 2DS,Hawkeye 2D-S Stereo Probe,f6fb2b75-e58c-4073-bcfb-9bee0b5e48ec
+1031,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,Hawkeye FCDP,Hawkeye Fast Cloud Droplet Probe,faf4c184-ea6b-40fb-803e-25cfa43c4de6
+1032,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,INCUBATOR,,d984900c-fb06-4e06-9400-3d51b868663c
+1033,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ION CHROMATOGRAPHS,,b116ce39-0740-423e-89cc-111c14439f7c
+1034,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,IONIZATION CHAMBER,,68c246e3-ae56-4976-9fe2-7300cfa7d97a
+1035,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,IR CO2 ANALYZER,Infrared Carbon Dioxide Analyzer,e553e68d-bc64-4b5b-b4e5-c01cf3fc68d9
+1036,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,IRGA,Infrared Gas Analyzers,d069d617-1506-4b3c-bda2-55397c232f7f
+1037,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LACE,Lightweight Airborne Chromatograph Experiment,2c133c21-9b0a-42e6-94ac-0f148fe5aeef
+1038,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LEE,Low Energy Electrons,fe37b7a7-b6ca-4880-8dcf-16973cd8ecc8
+1039,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LGR,Los Gatos Research CO/CO2/H2O Analyzer,e4f6292b-6823-48b9-85ef-df8e7f911c6e
+1040,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LICOR GAS EXCHANGE SYSTEM,,f1cabbcf-e278-49a1-8c6f-2ee656e9a914
+1041,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LICOR SOIL GAS CHAMBER,,f6fd5d33-b69c-4e75-9f97-be980d8f2d1b
+1042,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LIQUID CHROMATOGRAPHS,,950f43fd-6ae5-4843-92b4-90777ae8f0be
+1043,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,LOPC-PMS,Laser Optical Particle Counter,3e95f655-a6d2-4779-bd88-8d7c90f4a395
+1044,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,MABI,Multi-wavelength Absorption Black Carbon Instrument,217d0f36-a296-4c74-be15-b075ef0e8f27
+1045,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,MERCURY ANALYZERS,,5b02f9eb-6261-43c4-b403-25a4aa289e37
+1046,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,NDIR GAS ANALYZER,Nondispersive Infrared Gas Analyzer,2b2d61c1-30be-429d-8bc3-9ca8b81b4400
+1047,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,NEUTRON MONITORS,,4ee25aa6-e372-49db-8d5a-b9e1ccf76668
+1048,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,NM BARE,Bare neutron monitor (lead-free),27d770a5-fd5d-4eca-a1a3-285ed5f35ac2
+1049,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,NOAMI,Nitrogen Oxide Automatic Measuring Instrument,1fa24892-32e0-4c93-a6bf-23dc79301674
+1050,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OAMI,Oxidants Automatic Measuring Instrument,43bf80b9-854e-4e21-b36b-6b66f1f27687
+1051,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OC-EC Analyzer,Organic Carbon and Elemental Carbon Analyzer,ea17edb6-5c2d-4f17-bcf0-702fd2932024
+1052,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OXYGEN ANALYZERS,,feed45ef-ac50-4a63-bd94-1a8f2affaba6
+1053,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OXYGEN METERS,,fdcfecd6-9731-450e-94e8-5bc4c04e22a2
+1054,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OZONE DETECTORS,,686f0f1d-ed3c-4510-8bee-224f195013ab
+1055,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OZONE MONITORS,,861b4cd3-ffb6-4e6f-b3df-368d082ca812
+1056,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OZONE SENSOR,,03b03563-05d1-426f-9cc9-3410d4d5e214
+1057,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,OZONEMETERS,,f7a09d7f-59cd-495d-97ad-bc7a09a50b0d
+1058,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,P-SYSTEM,High Pressure Gas Sampling System,f079e001-14f8-4a4b-85a3-1d73b98d0e3d
+1059,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PAM,PORTABLE FLUORESCENCE ANALYZERS,972dae4e-73b2-46d1-8817-3789bef4e11b
+1060,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PAN ANALYZER,PEROXYACETYL NITRATE ANALYZER,37d788e3-1313-44a9-9446-03f863b457ff
+1061,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PCASP,Passive-Cavity Aerosol Spectrometer Probe,0ea6e92c-3970-4662-a960-b928fc46ec8b
+1062,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PH METERS,,5c38595e-5e7d-4513-9f0e-aa9b5f6b139f
+1063,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PHOTOSYNTHESIS CHAMBER,,b23f0161-64bb-45d7-b0c1-85aa9a1d2c8d
+1064,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,"PICARRO G2401-mc CO2, CH4, CO, H2O INSTRUMENT",,6e67cba9-163d-41f6-b9bc-177298e24f55
+1065,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PICARRO L2130-i Flight Ready Water Vapor Isotopic Analyzer,H2O WS-CRDS SPECTROMETER,df90c6d6-4201-4f3a-9792-22395447add6
+1066,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PILS,Particle Into Liquid Sampler,bfaf8b81-6ef6-49d3-bb38-8062985158a2
+1067,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PLANT STRESS MONITOR,,44d843af-0ffe-4f1b-9729-d239440bc20a
+1068,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PMS 2D-C PROBE,Particle Measuring Systems 2D-C Probe,965f5727-1ea6-44ad-915c-962614ba9253
+1069,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PMS 2D-P PROBE,Particle Measuring Systems 2D-P Probe,8b6b7c59-9eba-4b28-8d56-998b3681b237
+1070,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PMS 2D-S PROBE,Particle Measuring Systems 2D-S Probe,8b2daf2b-79d8-4a58-af0d-77fe1bc4191b
+1071,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,PMS,Particle Measuring System,9fb77604-82f9-4ad1-9995-c0a99df09629
+1072,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,POROMETER,,e0882651-d7f3-4a49-bce4-db48d7228875
+1073,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,ROCK-EVAL IV,Rock-Eval 6 Analyzer,7f96c0f8-d032-4055-95e6-2dcb4f3cc045
+1074,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,RPA,Retarding Potential Analyzer,6b018752-d66e-46d7-8fe7-76aa2c8e2e13
+1075,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SAMI,SO2 Automatic Measuring Instrument,25f8d5c2-1a32-4453-9421-65c5d9d3d114
+1076,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SFM,Spectrofluorometer,d57eaaed-a3e4-4d41-8fce-48ebaff1d5df
+1077,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SMPS,Scanning Mobility Particle Sizer,ad863cd5-c697-4221-9280-31ac395e80c6
+1078,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SOMMA,Single Operator Multiparameter Metabolic Analyzer,bfc1ba63-1ad4-43a1-9afc-0caa8b06cf89
+1079,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SOPA,Synchronous Orbit Particle Analyzer,67e485bb-e086-4fd1-9f04-519d13a51476
+1080,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SPECIFIC ION METERS,,329d1c70-96da-43fd-b053-a4fb67e09d69
+1081,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SPMAMI,Suspended Particulate Matter Automatic Measuring Instrument,1bed8644-6254-4b14-8409-07645044b10f
+1082,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SSIES,Ion Scintallation Monitor,e5e172d6-34e8-4cf7-8734-e5dbe487794f
+1083,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,STRIPPING VOLTAMMETRY,,e83fdef6-eca3-4ce2-b3b3-8e92c385836b
+1084,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,SWMS,Surface Water Monitoring System,276edf98-202b-4ebc-b1e0-8deb61614d51
+1085,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,TOGA,Trace Organic Gas Analyzer,6684e131-f3d0-4db9-8efc-1e19083b9e2a
+1086,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,TOTCAP,Tropospheric Ozone and Tracers from Commercial Aircraft Platforms,5f22a292-3c44-416a-ab29-fa9bfabb906b
+1087,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,TSI CPC-3010,TSI Condensation Particle Counter 3010 Manufactured by TSI Inc.,664b4f38-b657-42de-9e76-f300805b02ac
+1088,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,TSI CPC-3025,TSI Condensation Particle Counter 3025 Manufactured by TSI Inc.,3e507cc0-d6a2-4bd5-9598-70956268e9aa
+1089,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,UCATS-GC,Unmanned Chromatograph Airborne System for Atmospheric Trace Species - Gas Chromatography (UCATS-GC),b74e1bfe-67bf-4120-a399-56ebe124dfc8
+1090,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,UCN,Ultrafine Condensation Nucleus Counter,e3f31009-e95d-411f-b5ce-2e17e5905ac5
+1091,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,UHSAS,Ultra-High Sensitivity Aerosol Spectrometer,6bbff5f7-727a-4c21-b322-2c2ff16aca8d
+1092,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,WAS,Whole Air Sampler,ca207c43-257d-459f-98e4-0f93e7105dc2
+1093,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,WVISO,Water Vapor Isotopic Analyzer,fbdeb76e-eb59-44dc-a34c-7fdf196ae887
+1094,In Situ/Laboratory Instruments,Chemical Meters/Analyzers,,,,,3d25724b-832f-4a61-b0b2-4f2ccecdba94

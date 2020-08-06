@@ -1,0 +1,16 @@
+TYPE,PLATFORM,INSTRUMENT,INVESTIGATORS,MEASUREMENTS
+RS,Gulfstream-V,PRISM,"GIERACH,THOMPSON,MOUROULIS",Ocean color
+RS,KingAir B-200,DopplerScatt,PERKOVIC-MARTIN,Ocean surface current and wind
+RS,KingAir B-200,MOSES,MOLEMAKER,Sea surface temperature
+RS,Twin Otter DHC-6,MASS,"LENAIN,MELVILLE","Directional wave spectra, sea surface topography, sea surface temperature, ocean color"
+INSITU,R/V underway profiles,"Shipboard CTD, ADCP, uCTD, TSG, meteorology","SHCHERBINA,FARRAR,HODGES","Upper ocean temperature and salinity, ocean currents, meteorology (winds, air temperature, humidity, etc.) and chlorophyll"
+INSITU,R/V profiles,Shipboard biology,"OMAND,MAHADEVAN","Chlorophyll, oxygen, particulate organic and inorganic carbon, photosynthetically active radiation (PAR)"
+INSITU,Autonomous,Seagliders (5),"LENAIN,FARRAR","Ocean pressure, temperature and salinity, oxygen, chlorophyll fluorescence, backscatter, ocean current"
+INSITU,Autonomous,Saildrones (~15),"SHCHERBINA,DASARO","Ocean temperature, salinity, meteorology, surface fluxes, bio-optical properties, chlorophyll fluorescence, PAR"
+INSITU,Autonomous,Wave Gliders (4),SHCHERBINA,"Ocean temperature and salinity, meteorology, backscatter"
+INSITU,Drifting,Lagrangian Floats (5),RAINVILLE,"Ocean temperature and salinity, bio-optics"
+INSITU,Drifting,Drifters (100),ROCHA,"Ocean currents, sea surface temperature"
+INSITU,R/V profiles,Radiosondes (~100),ONEILL,"Atmospheric temperature, winds, moisture profiles"
+TOWER,Mounted on ASIT,Ka-band radar,SIQUERA,Ocean surface current and wind
+TOWER,Bottom mounted at base of ASIT,ADCP,FARRAR,Ocean current profiles
+TOWER,Mounted on ASIT,Polarimetric camera,ZAPPA,Wave slope cm-to-m scales

@@ -1,0 +1,83 @@
+{
+  "SMODE-KABR2": [
+    "RODRIGUEZ, SIQUERA"
+  ],
+  "SMODE-POLC2": [
+    "ZAPPA"
+  ],
+  "SMODE-DSCA2": [
+    "RODRIGUEZ, SIQUERA"
+  ],
+  "SMODE-PRSM0": [
+    "GIERACH, THOMPSON"
+  ],
+  "SMODE-PRSM1": [
+    "GIERACH, THOMPSON"
+  ],
+  "SMODE-PRSM2": [
+    "GIERACH, THOMPSON"
+  ],
+  "SMODE-MASS0": [
+    "LENAIN"
+  ],
+  "SMODE-MASS1": [
+    "LENAIN"
+  ],
+  "SMODE-MOSE0": [
+    "MOLEMAKER"
+  ],
+  "SMODE-MOSE1": [
+    "MOLEMAKER"
+  ],
+  "SMODE-MOSE2": [
+    "MOLEMAKER"
+  ],
+  "SMODE-MOSE3": [
+    "MOLEMAKER"
+  ],
+  "SMODE-DSCT0": [
+    "RODRIGUEZ"
+  ],
+  "SMODE-DSCT1": [
+    "RODRIGUEZ"
+  ],
+  "SMODE-DSCT2": [
+    "RODRIGUEZ"
+  ],
+  "SMODE-CTD00": [
+    "OMAND"
+  ],
+  "SMODE-UCTD0": [
+    "OMAND"
+  ],
+  "SMODE-UNOLS": [
+    "OMAND"
+  ],
+  "SMODE-BIOPT": [
+    "OMAND, MAHADEVAN"
+  ],
+  "SMODE-GLID3": [
+    "FARRAR"
+  ],
+  "SMODE-FLOAT": [
+    "SHCHERBINA"
+  ],
+  "SMODE-DRIFT": [
+    "SHCHERBINA"
+  ],
+  "SMODE-SDRON": [
+    "ROCHA"
+  ],
+  "SMODE-SONDE": [
+    "ONEILL"
+  ],
+  "SMODE-GLID1": [
+    "FARRAR"
+  ],
+  "SMODE-SUNA2": [
+    "MAHADAVAN"
+  ],
+  "SMODE-ECTD2": [
+    "MAHADAVAN"
+  ]
+}

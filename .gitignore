@@ -1,3 +1,13 @@
+.DS_Store
+.old/
+.dev/
+.docs/
+.notes/
+.vscode/
+.ipynb_checkpoints/
+ __pycache__/
+docs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,48 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+1288,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ACM,Acoustic Current Meter,3cd21eb5-54d0-48be-beb5-c7e9af18560d
+1289,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ACOUSTIC RECEIVERS,,b15d263b-6c51-4005-ba45-bfd2958fcd7d
+1290,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ACOUSTIC TAGS,,ed6cf3ed-3323-4946-9dd7-897581cc0a38
+1291,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ADCP,Acoustic Doppler Current Profiler,ca8de50f-b795-42b7-9301-8baffe2de0f3
+1292,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ARP,Acoustic Recording Package,8eeccae4-1938-47fa-b3df-6b7641a6f64d
+1293,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,AZFP,Acoustic Zooplankton Fish Profiler,832b400a-0b31-4200-923b-73314b983e12
+1294,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,GEOPHONES,,11572015-20da-4642-a3d9-af2ac25393a8
+1295,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,GLORIA,Geological Long-Range Inclined ASDIC,1d605dc5-d2ba-4a2f-877b-5bd9e4194424
+1296,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,HYDROPHONES,,8adf0af6-f62f-4559-a17b-d9d7cb1bba14
+1297,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,INFRASONIC MICROPHONES,,ebda5043-7bfd-4041-ade8-3f12fa6d0078
+1298,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,MBES,Multibeam Mapping System,465e0298-da06-4bd8-bc57-b167a5253793
+1299,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,MSBS,Multibeam Swath Bathymetry System,c00aa734-d7e6-405a-b346-d439a25d0cef
+1300,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,SIDE-SCAN SONAR,,c08fcc42-c060-4634-9ea8-1f5bf1a34c62
+1301,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,SODAR,Sound Detection and Ranging,16406252-49bf-4198-ab15-32253661135c
+1302,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,SONAR,Sound Navigation and Ranging,10040ca6-3809-4679-a41e-6a6efbb25ae8
+1303,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,SONOBUOYS,,ac87e18f-bf08-434d-9ed4-0e9be3baf152
+1304,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,SOSUS,Sound Surveillance System,5c455392-a50e-44da-9da6-f0038cd28acb
+1305,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,ULTRASONIC DEPTH SENSOR,Judd Communications Ultrasonic Depth Sensor,8aeaf436-641d-4d65-9568-6b4de1ff2c74
+1306,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,UPWARD LOOKING SONAR,,d9adb8d7-d64b-46ba-b8a2-4f4b46305e6f
+1307,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,WCMS,Water Column Mapping System,44a8a09a-d3f1-457d-8c0f-45ae3febb304
+1308,In Situ/Laboratory Instruments,Profilers/Sounders,Acoustic Sounders,,,,b56d53ea-511f-486f-b917-26000794ab51
+1309,In Situ/Laboratory Instruments,Profilers/Sounders,,,AIRGUN ARRAYS,,424afb3c-b8d2-444d-b884-27e002a10374
+1310,In Situ/Laboratory Instruments,Profilers/Sounders,,,AXCTD,Airborne eXpendable Conductivity Temperature Depth,3fba4d8d-b044-40d0-b671-b8724ccab26e
+1311,In Situ/Laboratory Instruments,Profilers/Sounders,,,BATHYPHOTOMETER,,c8f66dce-1c02-40e7-91fe-c22585e65435
+1312,In Situ/Laboratory Instruments,Profilers/Sounders,,,BATHYTHERMOGRAPHS,,92f66be9-30e6-4d0e-b4a8-631fe9341b25
+1313,In Situ/Laboratory Instruments,Profilers/Sounders,,,BBSS,Balloon-Borne Sounding System,9929fdb8-b981-4708-a32f-8563654b147f
+1314,In Situ/Laboratory Instruments,Profilers/Sounders,,,BOPS,Bio Optical Profiling System,70cb0f31-5c7e-48c1-a145-b7b99f0709a7
+1315,In Situ/Laboratory Instruments,Profilers/Sounders,,,CTD,"Conductivity, Temperature, Depth",01cc0beb-7c9a-40ed-ad86-0661b41aee53
+1316,In Situ/Laboratory Instruments,Profilers/Sounders,,,DOW,Doppler on Wheels,d39a10d2-e2fe-4e5f-b44f-44ef2966ccee
+1317,In Situ/Laboratory Instruments,Profilers/Sounders,,,EHAD,ER-2 High Altitude Dropsonde,23020cf5-9e71-406c-adae-7a3f7b11c308
+1318,In Situ/Laboratory Instruments,Profilers/Sounders,,,EPSONDE,,4bd00254-efbb-4ff0-95e1-9f354190598a
+1319,In Situ/Laboratory Instruments,Profilers/Sounders,,,LADCP,Lowered Acoustic Doppler Current Profiler,66f76605-67ef-4e76-9d96-7f1e2f9eeb80
+1320,In Situ/Laboratory Instruments,Profilers/Sounders,,,LONG STREAMERS,,98413950-cfb7-4b13-bd1f-b2e4dc102410
+1321,In Situ/Laboratory Instruments,Profilers/Sounders,,,MBT,Mechanical Bathythermographs,e55a85d0-2de9-4b4d-92d7-9cd5b0d9671a
+1322,In Situ/Laboratory Instruments,Profilers/Sounders,,,OFFI,Optical Free Fall Instrument,384cd160-ef82-4278-ae45-7c7d78dd7609
+1323,In Situ/Laboratory Instruments,Profilers/Sounders,,,PROFILERS,,ca25f854-b634-4831-826b-7dfe8845da42
+1324,In Situ/Laboratory Instruments,Profilers/Sounders,,,SBT,Select-Level Bathythermographs,2b412f3a-f86e-436c-8849-eba4d2ed6ca2
+1325,In Situ/Laboratory Instruments,Profilers/Sounders,,,SCANFISH,SHIP-TOWED UNDULATING VEHICLE,eb4177cd-fbe6-4bb5-947b-9951353da2ef
+1326,In Situ/Laboratory Instruments,Profilers/Sounders,,,SEISMIC REFLECTION PROFILERS,,db06e3f6-e765-4498-a292-9efeb2ad4c4f
+1327,In Situ/Laboratory Instruments,Profilers/Sounders,,,SMART-R,Shared Mobile Atmospheric Research and Teaching Radar,89a2c35a-38d1-4388-b9e1-d044821e992d
+1328,In Situ/Laboratory Instruments,Profilers/Sounders,,,STC,"Salinity, Temperature , Conductivity",21368def-717d-4132-a925-f797eee1c400
+1329,In Situ/Laboratory Instruments,Profilers/Sounders,,,STD,"Salinity, Temperature, Depth",ea2626ec-fc8d-47b1-9bad-7d69ce23f7b2
+1330,In Situ/Laboratory Instruments,Profilers/Sounders,,,THERMOSALINOGRAPHS,,4d3420c1-c7dc-4320-a315-026066debbd6
+1331,In Situ/Laboratory Instruments,Profilers/Sounders,,,WATERGUNS,,ff0257ad-3077-4829-b308-1211f488d469
+1332,In Situ/Laboratory Instruments,Profilers/Sounders,,,XBT,Expendable Bathythermographs,a76dd88f-8a2b-4bd2-867d-5b562b7b4f0d
+1333,In Situ/Laboratory Instruments,Profilers/Sounders,,,XCP,Expendable Current Profiler,f0a41463-88bc-4c13-aa75-4d46ef1c046e
+1334,In Situ/Laboratory Instruments,Profilers/Sounders,,,,,ffa3a835-903a-462a-adfb-fc0d25ba07d0

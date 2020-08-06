@@ -1,0 +1,38 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+1187,In Situ/Laboratory Instruments,Photon/Optical Detectors,Cameras,,CAMERA,,33de4965-928a-45d5-acfc-79e006842431
+1188,In Situ/Laboratory Instruments,Photon/Optical Detectors,Cameras,,,,69675373-ef6e-4f2d-8847-a0f499e29a15
+1189,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,AirHARP,Airborne Hyper-Angular Rainbow Polarimeter,b989ab29-6f44-4ae0-ae82-6f10a34682f7
+1190,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,BINOCULAR,BINOCULAR,e9ba8850-f934-46bc-a1ce-744179a38812
+1191,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,DENSIOMETERS,,684edd3f-3378-440e-9b8b-2e7c421741da
+1192,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,DIHM,Digital Inline Holographic Microscopy,396006e9-23ac-48f9-be9f-41cde27f9bbc
+1193,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,FD12P WEATHER SENSOR,Vaisala FD12P Weather Sensor,86a80842-6038-4ac0-b443-465ddb24d757
+1194,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,FIELD SCOPE,FIELD SCOPE,a280f263-8a40-4bbe-aae0-5c0665884a1c
+1195,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,INFRARED LASER SPECTROSCOPY,,ca21812d-4cee-4489-9571-9701cab22c20
+1196,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,IRIS,InfraRed Integrating Sphere,72e49dce-c936-4cfe-be92-156c34f73cf0
+1197,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,IceCube,A2 Photonic Sensors IceCube,b1376dd8-2add-4814-89f7-2ad520438f39
+1198,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,LBLSC,Low Background Liquid Scintillation Counter,a47d7eee-2e0d-47e7-979d-17a79720a8a7
+1199,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,MICROSCOPES,,99f640d4-6b01-4646-b4e2-315885e01bf4
+1200,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,ODM,Optical Disdrometer,bd629a09-0521-4220-b2d9-9ba5ba5985db
+1201,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,OPC,Optical Plankton Counter,a5475980-7a92-4664-8114-087141d2b7ce
+1202,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,PAR SENSORS,Photosynthetically Active Radiation Sensors,a3423d6a-ffd1-4269-9a31-08106418a986
+1203,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,PETROGRAPHIC MICROSCOPES,,5b9da836-cd16-4dab-b1ff-be1588738ef8
+1204,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,PHASE CONTRAST MICROSCOPES,,496dfd2e-441f-49ec-ba0e-b80bc03a8308
+1205,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,PHOTOSYNTHETRON,,b645849d-c7fd-4fa5-9d23-7671a0a68d35
+1206,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,PIV,Partical Image Velocimetry,f138394c-f106-4f0f-b8b0-1ef9ecc3f7c2
+1207,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,RSP-1,Research Scanning Polarimeter - 1,aa1dea38-ecf4-433f-afdf-d38d653f215e
+1208,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,RSP-2,Research Scanning Polarimeter - 2,8d33aeea-d885-4a45-89da-1dd407cbed05
+1209,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,SCANNING ELECTRON MICROSCOPES,,04e586f0-569b-467d-b9ca-b43bc6802f4b
+1210,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,SECCHI DISKS,,c5824666-8c74-404a-9303-c67fc0c4bd8f
+1211,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TEM,TRANSMISSION ELECTRON MICROSCOPY,e5ab49d5-5f99-43d6-85bd-8db629f7bc7b
+1212,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,THEODOLITE,,02c7de7e-4a26-4bb8-800f-07bff27fed08
+1213,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TLPCS,Thermoluminescence Photon Counting System,4472cb27-6e0b-4b25-92e0-b0fb8a3070fa
+1214,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TLS,Terrestrial Laser Scanner,c41e423b-6343-4380-9b6b-e74b2a8485ba
+1215,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TOC,Total Organic Carbon Analyzer,58ac7544-7271-4957-a70a-ea7c1a1ae094
+1216,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TRANSPARENCY METER,,e0333132-bbed-4b09-a453-75afc4afae6d
+1217,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TUNABLE DIODE LASER,,127997fe-4551-41d1-9a4b-c7ad233fdde2
+1218,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,TURBIDITY METERS,,b2e9c2ee-8112-43a8-911c-6cbb8f5215bb
+1219,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,USIM,Underwater Spectral Irradiance Meter,4feec751-591b-4735-a8ca-e49a15dda0c4
+1220,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,VISUAL CENSUS TRANSECTS,,2ca6fb57-094a-4190-8b28-914c48ea2782
+1221,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,VISUAL OBSERVATIONS,,0982484f-4bb9-41dd-8841-931435cc138d
+1222,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,ZAPS,Zero Angle Photon Spectrophotometer,1ada7c52-7016-4edb-8148-3715c446992b
+1223,In Situ/Laboratory Instruments,Photon/Optical Detectors,,,,,8143e95e-a438-4a2a-82b2-6d7ae079fba7

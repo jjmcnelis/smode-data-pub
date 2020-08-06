@@ -1,0 +1,777 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+206,Earth Remote Sensing Instruments,Passive Remote Sensing,Altimeters,Pressure Altimeters,PRS Altimeter,Paroscientific Pressure Altimeter,499d9aed-4f71-4d5d-acbb-eb434f6e413b
+207,Earth Remote Sensing Instruments,Passive Remote Sensing,Altimeters,Pressure Altimeters,,,eee4d2e4-f229-49af-a3cb-ebd540aa14d5
+208,Earth Remote Sensing Instruments,Passive Remote Sensing,Altimeters,,,,2aa41630-56f3-4be1-bb8f-bf99e5485dec
+209,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Composition Analyzer,MMS HPCA,Hot Plasma Composition Analyzer,ffddbe98-056e-46d8-9fc1-27f6807ce0a7
+210,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Composition Analyzer,,,d9fca203-ace2-4d3e-8e5c-2c556ba3cf4b
+211,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Gun Detector,MMS EDI,Electron Drift Instrument,c3c1bb15-f06f-4e94-9351-01c402bd73ca
+212,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Gun Detector,,,1df05f75-d41f-4acd-bd8b-e6262d9c3f49
+213,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,ASM,Absolute Scalar Magnetometer,b7bc737c-15de-4b67-9bc3-5fa7c2b651d5
+214,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,CS-3,LDEO Scintrex CS-3 Cesium Magnetometer,c1573a94-789a-4510-a8e4-b358f62180e6
+215,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,GEOMET 823A,Geometrics 823A Magnetometer,f2da3a4c-b2f9-42c7-932f-899375f733bc
+216,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,MGF,Magnetic Field Instrument,eb47a4c5-5ab5-4803-9395-f58de828499c
+217,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,MMS DFG,Digital Fluxgate Magnetometers,277ba2c1-6625-4e5e-8e87-3907ff6178f1
+218,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,MMS SCM,Search Coil Magnetometer,20ee59ce-5b73-490f-a7f9-68436314a525
+219,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,MSS AFG,Analog Fluxgate Magnetometer,d6c2bb9d-071b-4a74-8ba4-84e1ac268ed8
+220,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,SSM,SQUID Superconducting Magnetometers,3cc96a71-b8c6-4b4e-abd2-585fd7bc00fe
+221,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,VFM,Vector Field Magnetometer,03d748ff-7398-4ea8-87e7-38d0ef3e6167
+222,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,VSM,Vibrating Sample Magnetometers,1300915c-2564-4859-9e6c-8b2257adfadc
+223,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,MAGNETOMETERS,,,deac2632-5c17-4d15-ae92-c61ebc5a405a
+224,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Particle Detectors,MMS FEEPS,Fly's Eye Energetic Particle Sensor,04fd88ee-5d49-487a-b6d9-f2fc43050543
+225,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Particle Detectors,,,b9689a31-2752-45af-81ed-58d662a495bc
+226,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Probes,MMS ADP,Axial Double Probe,0ec93d14-49bb-42be-9042-063384a221c4
+227,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Probes,MMS SDP,Spin-plane Double Probe,78af5114-336b-4e5b-98bc-59db351bdcef
+228,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Probes,,,a172d205-122a-4a8b-b73a-52c1d44d6aaa
+229,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Spectrometers,MMS EIS,Energetic Ion Spectrometer,9c9a60bf-0ac1-4e54-92bd-b6a5284649da
+230,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Spectrometers,MMS FPI,Fast Plasma Instrument,bcc90341-d46c-4714-b987-620a26904c94
+231,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Spectrometers,NMS,Neutral Mass and Velocity Spectrometer,e0134cc6-79d0-492d-9e9a-6320e04ed972
+232,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,Spectrometers,,,717ba2ad-1580-46d5-8540-f59e9ec0dd56
+233,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,CER,Coherent Electromagnetic Radiation,1c03710e-1898-49ec-84bb-c064e7a358d0
+234,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,EFI,Electrical Field Instrument,5e95a04f-e746-4b55-b0f0-76631bb197fe
+235,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,FAI,FAI (Fast Auroral Imager) images the auroral emission in the near infrared (NIR) and visible (VIS) spectral range.,0c439fcf-b55c-430e-baee-ae047032df46
+236,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,MAGVAR,Magnetic Variometer,cfc5cf67-75e6-4cc4-9abe-ca2eda777ddc
+237,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,MTQ,Magnetic Torque Rod,99f75fc4-61dd-4d4e-8390-e64e0fef01ca
+238,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,NUCLEAR PRECESSION MAGNETOMETER,,42265517-3396-4f51-8016-89b9dd143a2a
+239,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,OVM,Overhauser Scalar Magnetometer,70fbd942-21f6-4ab5-98e6-f4897024ea6f
+240,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,PROTON MAGNETOMETER,,b1a1df43-48b0-4fa5-b6dc-dd3646803161
+241,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,RRI,Radio Receiver Instrument,f1f8384c-3846-443b-8bd1-18b7696aafd4
+242,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,SEI,Suprathermal Electron Imager,ee53dfb1-6495-405e-953b-63434a2ec27e
+243,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic Field/Electric Field Instruments,,,,449b7d65-85e6-43a5-b87b-1071dc9936b2
+244,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Accelerometers,ACC,Swarm Accelerometer,0bdca141-ccec-471e-9dd9-f47d3a94abf7
+245,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Accelerometers,EGG,Electrostatic Gravity Gradiometer,11c1598b-d484-4c26-83ae-bc12af957b84
+246,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Accelerometers,GRACE ACC,GRACE SuperSTAR Accelerometer,843cf5f8-b983-463c-8191-4fbdc943d765
+247,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Accelerometers,GRACE-FO ACC,GRACE-FO SuperSTAR Accelerometer,f6ae33f3-f492-4f32-9526-a7e289d542e7
+248,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Accelerometers,,,11208f10-6879-48ca-919c-88558391403b
+249,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Gravimeters,CMG-GT-1A,Canadian Micro Gravity GT-1A,c4c7ec2f-6edb-4564-b6aa-49bae3a8e900
+250,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,Gravimeters,,,a3fc8231-afa3-4137-a793-2860e2ab08a0
+251,Earth Remote Sensing Instruments,Passive Remote Sensing,Magnetic/Motion Sensors,,,,fe684c79-5d9f-406e-8f28-0dce3ad65acf
+252,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,APT Nimbus-1,Automatic Picture Transmission System on Nimbus-1,5d355667-2cdb-42c3-b003-72536268eb27
+253,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,APT Nimbus-2,Automatic Picture Transmission System on Nimbus-2,7eca5548-fc92-4adb-9e77-fe4a21bc6fb1
+254,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,ASC,All-Sky Camera,5fd2c0d2-50bb-4f70-a975-9e33e344c0e3
+255,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,AVCS Nimbus-1,Advanced Vidicon Camera System on Nimbus-1,40a7456b-a677-4636-ac2c-6214f0e2f105
+256,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,AVCS Nimbus-2,Advanced Vidicon Camera System on Nimbus-2,23f742b3-e172-4f52-bb38-e859fdb8b16e
+257,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,AVCS,Advanced Vidicon Camera System,9b1a9aa9-65ed-466d-bb24-e00c110b5a2f
+258,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,AWIFS,Advanced Wide Field Sensor,86402184-15ee-435c-933f-d70eb986c715
+259,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,BJ-1 PAN,BJ-1 Panchromatic Imager,0596301b-c30a-4d3b-b0bc-6340ba0ab487
+260,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CAMERAS,,b434201b-4969-4a7e-8749-ba5b7c537c2f
+261,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CC GLORY,Cloud Camera on GLORY,1d0575e9-fde5-41b2-adfc-85b129a50673
+262,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD (CBERS 1),,7a2c0877-ad80-43a3-b732-3e45e64a3b65
+263,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD (CBERS 2),,f3f4a032-8c88-4de6-b212-d3bb36f1e056
+264,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD (CBERS 2B),,a6a2f2fb-2ce2-4478-afb0-855bd6c7b8f6
+265,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD IMAGER,,38266f66-47af-4e1c-870e-8b9c20a4c9e9
+266,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD LINEAR ARRAY,,bb5470c8-8dc4-49de-9024-722a13f9885a
+267,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD1 (HuanJing 1A),,5f23cc05-b83e-4f1b-8ebc-b76903947f5e
+268,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD1 (HuanJing 1B),,bde63ed6-0984-4705-801c-45c82546da6f
+269,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD2 (HuanJing 1A),,3a52de1f-9020-4008-be76-566b0c3a9ef5
+270,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CCD2 (HuanJing 1B),,03f8378f-16de-466c-816f-352990d5aaf4
+271,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CIPS,Cloud Imaging and Particle Size,315dd090-e866-4746-9a27-5d4579b974e1
+272,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,COBAN,COBAN Multi-Band Camera,c4ef00f2-ccfe-49cd-922a-685d8894baf9
+273,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,CPI,Cloud Particle Imager,080d3032-aef9-4b1a-bab9-43ecbc12480c
+274,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,EOC,Electro-Optical Camera,a6c03baf-042d-412e-af18-3c5bd6fa8770
+275,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,EPIC,Earth Polychromatic Imaging Camera,4ee9c6ac-88c3-4b1e-b269-1736ac220955
+276,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,GIS,GeoEye Imaging System,992cb370-d2d0-4a9f-a4d4-179f140f505a
+277,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,GRACE SCA,Star Camera Assembly,38312ec1-55a7-488e-9253-fe779a2ff457
+278,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,GRACE-FO SCA,GRACE-FO Star Camera Assembly,cf6b8783-02c7-4aae-9c46-08468a6c61c8
+279,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRCCD,High Resolution CCD Imager,46938545-abfb-4c16-80d7-fd886420508b
+280,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRC,High Resolution Camera,4a0a0d09-63c9-4c2e-ab46-25727248df27
+281,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRG-1,High Resolution Geometrical Instrument,58faa563-84f4-4c0f-8c06-d6f75d8afb0f
+282,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRG-2,High Resolution Geometrical Instrument,91c8e5fe-b933-4166-b118-dc54718c5147
+283,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRPC,High Resolution Panchromatic Camera,81957191-3585-40a3-891b-bbd15e14a31d
+284,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRS,High Resolution Stereoscopic Instrument,a4e5d987-10c4-4788-a1ac-8c8494be04ef
+285,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,HRTC,High Resolution Technological Camera,a91c14e8-8417-4a08-a3b3-a42e825bd6f2
+286,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,Headwall,Headwall Hyperspectral Camera,4836842d-fcbe-41a1-8481-8edf9fed2307
+287,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,IDCS Nimbus-3,Image Dissector Camera System on Nimbus-3,56d237d3-4b34-4c75-8c9e-5d20dffd48b1
+288,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,IDCS Nimbus-4,Image Dissector Camera System on Nimbus-3,d3c105ae-a9a1-47ea-bc0d-d1fce3d77198
+289,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,IRIS-XSAT,IRIS on X-Sat,fc9dc282-5557-44bb-8041-ba6ea8e3baa1
+290,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,IRS (HuanJing 1B),,6b7c232c-1f9c-464d-adc2-fa226617eb0a
+291,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,LFC,Large Format Camera,947cfe79-f076-4b9d-a8a0-a3f15073fa70
+292,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,LLLTV,Low Light Level TV,5b431302-22c1-4485-90bb-6ed5bf5558b6
+293,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MS-THEOS,Multispectral Camera,3e2eef5b-8257-462f-bfff-8f260d041a73
+294,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MSC,Multi-Spectral Camera,bf3e5771-7ca2-4083-a5e2-9be6a28fe588
+295,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MULTI-SPECTRAL,Multispectral Camera,0ff265ba-785f-498b-bee3-407c4317ac87
+296,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MULTILENS CAMERAS,,afe65518-f572-438f-a56e-e5bb6c400739
+297,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MUXCAM,Multi-Spectral Camera,c30e0992-f685-4253-bf3f-5be733eef7bb
+298,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,MX-T,Mx Multispectral Camera,c9f1f236-bf07-42ba-b694-a766a0e3e925
+299,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,NAOMI,New AstroSat Optical Modular Instrument,a3200684-34e6-4007-a247-111725a111f8
+300,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,OCPS,Orbiter Camera Payload System,a51a9037-73b7-4764-98db-e99838442b7f
+301,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,PANMUX,PanMux Camera,57566b7c-2e79-4b4a-90cd-1feca61eaa04
+302,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,PAN,IRS Panchromatic Camera,ad85a45a-06c4-43f5-9e98-9a4b5e31c7f6
+303,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,PASS,Payload Autonomous Star Sensor,14c1a460-556d-4526-a758-08d828057350
+304,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,PVI,Precipitation Video Imager,899b268d-9cdb-4215-af8b-b29b9d7c20f7
+305,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,QUICKBIRD/BHRC-60,Quickbird Ball High Resolution Camera 60,9cd4b512-57e4-4369-9070-8618a92fb8ce
+306,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,RBV,Return Beam Vidicon,19b1f097-50a4-4a8b-9a2e-8b02fdc80855
+307,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,RSI,Remote Sensing Instrument,90818762-d67c-4404-8563-5938c0493d2d
+308,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,SCS,Star Camera System,c45c4e30-e253-4329-8838-8991a53f494f
+309,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,SLIM-6,SLIM-6 Imager,6a3c8a54-48ae-4357-8bbc-bd2c48ede3a7
+310,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,SSCC,Spin Scan Cloud Camera,d636a1de-d66c-4c9e-9767-4d3746a75d46
+311,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,Schmidt-Cassegrain Telescope,Schmidt-Cassegrain Telescope,f50dc982-9fe2-4a45-aaac-9bb691239d8c
+312,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,Sky View Camera,Sky View Camera,594771b6-eeb7-4930-9b54-b1407a537ac8
+313,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,THEOS PAN,THEOS Panchromatic Imager,2c5a8a67-5e8d-4f2b-971d-928ff967c653
+314,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,VIDEO CAMERA,,2a852a66-f1d9-4d84-b97b-c92638b34c2a
+315,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,WAC,Wide Angle Camera,811e6b87-a49b-4b5a-be4d-98a6ba77c722
+316,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,WFC,Wide Field Camera,627146f7-ff09-4265-a967-f3d202f23d52
+317,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,"WFI (CBERS 1,2)",Wide Field Imager,f59c308e-274f-4cb7-8c81-89e53ba1cc69
+318,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,"WFI (CBERS 3,4)",Wide Field Imager,7176f246-b8a4-4fc9-a028-d2384cd2ba89
+319,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,WV110,WorldView-110 camera,001d8e8c-e9b1-4418-9941-f41321c2c500
+320,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,WV60,WorldView-60 camera,d8ff2cc4-d922-4661-8bba-fd78c7672ce9
+321,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Cameras,,,d322ae9d-bde0-448f-948d-777aef096eb6
+322,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,JRE (CARMEN-3 + LPT),CARMEN-3,CARacterization and Modeling of ENvironment-3,03d2c9e4-e102-4488-b764-bca16d5aae2b
+323,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,JRE (CARMEN-3 + LPT),LPT,Light Particle Telescope,b7c3f2fb-0fdd-465d-9107-f1c7369c72f2
+324,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,JRE (CARMEN-3 + LPT),,,4fd10be3-7cd3-4f49-810e-61924a2453a4
+325,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,NEPHELOMETERS,TSI-3562 Nephelometer,TSI-3562 Nephelometer Manufactured by TSI Inc. for Aerosol Scattering Measurement,75c9c28f-8098-46d0-ae34-01241acee7ff
+326,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,NEPHELOMETERS,,,c39f54a3-efd0-4596-8d5b-fe7ab519d13f
+327,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Passive Remote Sensing,CMT,China Mapping Telescope,8e7b55f3-c7ef-4f25-9c84-a75166b382c8
+328,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Passive Remote Sensing,,,c38e16d1-61f9-4189-a3c9-33e2015db137
+329,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,AEPI,Atmospheric Emissions Photometric Imaging,eb12ba15-e041-49de-b804-9dd4d56910ab
+330,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,AIRBORNE TRACKING SUNPHOTOMETER,,0f885790-928e-427d-a9b5-8e78e49d3c11
+331,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,DMT SP2,Single Particle Soot Photometer Manufactured by Droplet Measurement Technologies,1ed4313f-af3f-4b93-be52-7cae4cd30c64
+332,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,DOBSON SPECTROPHOTOMETERS,,42ed0bb1-99f7-4ec0-9546-cd6fd84452a3
+333,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,MAAP,Multi-Angle Absorption Photometer,88912b20-4ad5-4441-b0c4-880b407ade3f
+334,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,MASP,Mobile Automatic Scanning Photometer,728fb833-a404-4b27-bc13-93290aedc047
+335,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,MSBSP,Multi-Spectral Band Sun Photometer,ac85aed3-e8bb-4a4c-8ce6-8de68e0f03d2
+336,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,MSP,Meridian Scanning Photometer,b2659aca-16d3-4c5f-9846-e8affdcaafa6
+337,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,PHOTOMETERS,,806d0bc3-8d08-4418-800b-972292f3db99
+338,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,POAM III,Polar Ozone and Aerosol Measurement III,06079669-cd05-4ccc-a635-0fa7785d6ac8
+339,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,POAM II,Polar Ozone and Aerosol Measurement II,5e498269-5d5c-4006-b692-f031ff3e160e
+340,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,PSAP,3-Wavelength Particle Soot Absorption Photometer Manufactured by Radiance Research,30a951ea-1c81-4a7c-a520-8c9f744cf879
+341,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,SPECTROPHOTOMETERS,,3f7c8cc2-e3c3-4dfd-a17f-9d480f1f7179
+342,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,SUN PHOTOMETERS,,4a210bf2-d6e5-459d-a555-d0d05155006b
+343,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,SXM-2,Multichannel Sun Photometer,37dd08bb-0cdf-4b73-96c1-2bcade9a07fc
+344,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,TAP,Tricolor Absorption Photometer,0bb6dac1-2f8a-4eba-9bbd-7b5b2f730185
+345,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,TCTE,Total Solar Irradiance (TSI) Calibration Transfer Experiment,8c77977d-a149-46a2-8140-7f0df90a7123
+346,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,TIP,Tiny Atmospheric Photometer,2435bd13-980a-42ad-98f8-9eac9457bce4
+347,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,TRANSMISSOMETERS,,e590b4fe-229e-4b11-9ed5-e37a2b10038a
+348,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,Photometers,,,f66daf4f-4d71-49a0-9d3d-205dc7f1faed
+349,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,11.5um Radiometer,Nimbus 4 Temperature-Humidity Infrared Radiometer - 11.5 um,7bf9f69e-3bc7-45ad-9224-969676d36d78
+350,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,ALAE,Atmospheric Lyman-Alpha Emissions,b4279b96-58ea-4e69-8cb2-e0956a8a8648
+351,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,APS GLORY,AEROSOL Polarimetry SENSOR,1a881d2e-13c0-4c7b-a27e-5fed2b5f1d40
+352,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,CAMBOT,Continuous Airborne Mapping By Optical Translator,62da1828-7b49-454f-999a-e91c6c40dd94
+353,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,CEILOMETERS,,fe7c93d2-1460-4292-9dda-2338c3f6120d
+354,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,DMS,Digital Mapping System,2d580f50-3951-4601-9b08-7fbea94eebef
+355,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,GFC RADIOMETER,Gas Filter Correlated Radiometer,b58d7d73-ea9e-4af3-8363-51bd6547b94f
+356,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,GLM,Geostationary Lightning Mapper,ec7681c4-fbcd-4c58-8f0b-5a9b59b0b56d
+357,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,GSD,Germanium Semiconductor Detector,93687d67-fcb3-48bf-b37f-ff6722a1687f
+358,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,HPGE,Hyperpure Germanium,4830f3e8-b4f3-4574-88d0-b52a27d52eff
+359,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,MICROTOMOGRAPHY,,29e65a9f-41bf-4c53-bff6-98472d5f4f47
+360,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,MINARAD RST-10,,c21aefc3-6e3d-4a92-b576-ad872e4c6de3
+361,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,MONOCHROMATORS,,da3ff603-9639-4081-9160-4cf5309f4dd4
+362,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,NO2 LIF,"NO2 Laser Induced Fluorescence Sensor developed by University of California, Berkeley",3974be5a-2650-479c-a5f0-59a340f525d1
+363,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,OCM-2,Ocean Colour Monitor-2,715bd84e-47a5-4da8-baf4-a283c46ccadf
+364,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,OPC,Optical Particle Counter,b3771e7c-efaf-4867-8380-1d629f2eb66b
+365,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,OPS,Optical Sensor,baafc73b-3728-49ab-8a90-87d9af82fdbe
+366,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,OSA,Optical Sensor Assembly,5ae3becd-81d4-485a-8910-e153dc9c02a5
+367,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,OTD,Optical Transient Detector,3a8a9d74-05f4-4e0c-9e4e-f5bc2acccfe7
+368,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,PARTICLE DETECTORS,,11d3fac2-d6ca-458f-9f40-2adf3193076a
+369,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,PAS,Photoelectric Aerosol Sensor,3e0e841f-e791-456a-a15a-c6b5d1a537e7
+370,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,PIN DIODE,,18c04845-1b2c-4373-9cee-da6298092bf1
+371,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,POLARIMETERS,,f17d0ef3-2f14-4276-9361-cbd9deb97110
+372,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,Pleiades High Resolution,Pleiades High Resolution Optical Instrument,6c58b909-9cdc-4fed-9432-ba35940eed10
+373,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,SBI,Solar Bolometric Imager,6fac8911-0000-4c2b-aefa-a6bcbff97805
+374,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,SCINTILLATION COUNTERS,,414c48df-6fe2-4657-8a72-1b1eacb055c4
+375,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,SILICON PHOTODIODES,,959af52d-2698-43a2-8e8e-37f4a92c5489
+376,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,SUNSHINE RECORDERS,,674d52b5-35a8-4f3a-8b11-28c37a893ba5
+377,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,Visibility Sensor,Visibility Sensor,6497f9c7-d8a6-46d7-9fea-68f612b835ff
+378,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,WSI,Whole-Sky Imager,6cd74e61-e205-49bb-9ebb-78b06db5f531
+379,Earth Remote Sensing Instruments,Passive Remote Sensing,Photon/Optical Detectors,,,,72227178-bb4c-4ff5-98a3-f976aa3f3714
+380,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Beidou,Beidou P,China's Satellite Navigation System Payload,5cb6bed4-b046-4156-8daf-296d803f7505
+381,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Beidou,Beidou RECEIVERS,,ab691c1b-9cca-461b-a726-6df04da70576
+382,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Beidou,Beidou,China's Satellite Navigation System,78c56202-f84a-470f-8de6-287b3f39b2bb
+383,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Beidou,GNSS RECEIVER,,1e11acdb-0f09-4562-9558-db3a80f9bbb0
+384,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Beidou,,,43d17037-c574-4abc-9831-d9c5064e00f7
+385,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GLONASS,GLONASS P,GLObal NAvigation Satellite System Payload,594d2d10-aad3-41bc-a3a7-7cb67a4db34e
+386,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GLONASS,GLONASS RECEIVERS,,bd926f5e-a39d-4f8d-9e6c-0b7f353f210e
+387,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GLONASS,GLONASS,GLObal NAvigation Satellite System,5a28b2d0-0d67-459a-ac83-b440d9498a06
+388,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GLONASS,GNSS RECEIVER,,db5ceeef-82dc-418e-936d-8dfcd534d158
+389,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GLONASS,,,7954c30c-becb-4793-83ea-2c53ad0c6706
+390,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,BLACKJACK,Global Positioning System,8d6321dd-06d5-4d8a-a33a-00ee00afe41f
+391,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GAP,GPS Attitude and Positioning Experiment,02a50e11-e6ee-4b05-a157-32cf57a74adf
+392,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GNSS RECEIVER,,060f030c-1f31-4d72-b288-a4ec16295b60
+393,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GNSS-RO RECEIVER,Global Navigation Satellite System Radio Occultation (CLARREO),48765b60-1c92-428a-a73d-1cba4811dc03
+394,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GPS CLOCKS,,2ecf8017-d760-45ca-b32d-c1ff7c4897f2
+395,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GPS RECEIVERS,,029feed6-79dc-4316-b8ac-be8f1e557f89
+396,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GPS/IMU,Global Positioning System/Inertial Measurement Unit,c6962bbc-9332-48fb-96d7-0e2cb14fb4d9
+397,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GPSP,Global Positioning System Payload,688f088b-7ae9-45c3-abc4-cdb881a8fec3
+398,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GPS,Global Positioning System,e5fde4c4-15cd-4278-b922-005488df096f
+399,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,GRAS,Global navigation satellite system Receiver for Atmospheric Sounding,69f341d1-e29f-4bb9-b3b7-27ce4533f2ad
+400,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,KTC,UTIG Kinematics GPS Time Coder,1c1a851e-95d2-4d8f-85f5-cf970f384038
+401,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,NASA POS/AV,NASA Applanix POS/AV,af3d0b82-108d-4995-adb6-7f095fbc2953
+402,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,RO,GPS Radio Occultation Receiver,4aab0210-9532-48c3-b636-c184584260b1
+403,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,SSTI,Satellite-to-Satellite Tracking Instrument,d5ac2829-12b3-41c0-8ec1-c00ec8ad1a0d
+404,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,TRSR,Turbo Rogue Space Receiver-,e7c3b01c-0739-487b-adbb-59d84c559375
+405,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,UAF GPS/IMU,University of Alaska Fairbanks Positional/Avionics System,4f133467-ad2a-47e6-8f3e-3b44b07e8cb9
+406,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,UTIG GPS,University of Texas Global Positioning System,5d787285-fdce-4c64-994d-b6cd52d0d62e
+407,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,UTIG RTNav,university of Texas Real-Time Position and Attitude System,5cd87492-48a9-4378-addb-dcddce502412
+408,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,GPS,,,47d0c7c0-683c-42a9-b53b-53b684972b52
+409,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Galileo,GNSS RECEIVER,,8a6adca1-c79e-44fd-9ae8-b466ae4d51d9
+410,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Galileo,Galileo P,Europe's European Satellite Navigation System Payload,824e503e-5993-42f3-b7c6-dc6755c2060d
+411,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Galileo,Galileo RECEIVERS,,0696d322-094f-4fa3-8015-b94effe9cbda
+412,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Galileo,Galileo,Europe's European Satellite Navigation System,1a66ab14-1844-49ac-ae76-ad8c489c821a
+413,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Galileo,,,bf71449f-834e-4183-9006-cf94f7eb5520
+414,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,IRNSS,GNSS RECEIVER,,6be16901-cc53-490e-b77c-a72b5dbf83bb
+415,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,IRNSS,IRNSS P,India's Regional Navigation Satellite System Payload,dfbee37a-ab88-48a9-b47b-647d0e11393d
+416,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,IRNSS,IRNSS RECEIVERS,,6a803deb-f682-402d-a4fe-eaa572d8c90a
+417,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,IRNSS,IRNSS,India's Regional Navigation Satellite System,62f8ee0d-2f4e-4e6d-87ee-6b16150e0033
+418,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,IRNSS,,,4ddf95f4-82a3-4402-b17c-12388347f659
+419,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,GRACE LRR,Laser Retro-Reflector,be0d7200-fd15-41e0-99c9-76675ba81bf6
+420,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LASER REFLECTOR,,cf662901-ea76-459a-b8e7-1f5df16d48e4
+421,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LASER TRACKING REFLECTOR,,36ea978b-6de3-4115-9094-87364cf1217f
+422,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LASER TRACKING SITE,,db819ac2-b841-4885-84a1-5aa8ddaec248
+423,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LRA,Laser Retroreflector Array,7bf72fe4-8e07-490b-88ec-84d63a57416d
+424,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LRR,Laser Retro-Reflector,4b941002-170e-413b-aee4-860155b891e3
+425,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,LT (SEASAT 1),SEASAT 1 Laser Tracking,ab5ca508-7ae5-4ede-8c04-5998af821ff7
+426,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,Laser_RF,Laser Range Finder,0be9c8a4-d29d-4046-ad10-4ca80c765ee6
+427,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,RIS,Retroreflector in Space,fa074e59-230b-495e-8e56-f71e22033ee7
+428,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,SLR,Satellite Laser Ranging,bc24693a-c946-4704-8475-9688ce2f4a13
+429,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,SWARM-LRR,,d1deab09-3edf-493b-a7ef-a3811b89e59d
+430,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,TLRS,Transportable Laser Ranging Systems,e9b42200-2667-48df-a63f-4e5ea9a7ef46
+431,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Laser Ranging,,,942876b3-fbd5-43d9-9e1f-170682f7b5b3
+432,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,QZSS,GNSS RECEIVER,,c4d536ad-fb99-46b4-a1d1-f8b4e19da1b3
+433,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,QZSS,QZSS P,Quasi-Zenith Satellite System Payload,431b8ff0-551a-47dc-ac1a-a745ef27830a
+434,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,QZSS,QZSS RECEIVERS,,8e6991d1-cbb3-451e-84bb-e592e07f022a
+435,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,QZSS,QZSS,Quasi-Zenith Satellite System,c6a6369a-e95b-450d-b5aa-46e0034d5fea
+436,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,QZSS,,,3910e051-f05b-4f1c-937e-c3e4f249847e
+437,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radar,SDPTR,Satellite Doppler Positioning Transit Receivers,ea344ac5-1b12-47dc-ba33-c2e950a3378a
+438,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radar,SUPERSTAR,Space Triaxial Accelerometer for Research Missions,312862a1-759b-4a87-8115-aa1443395e88
+439,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radar,,,195f58c2-8ba2-4bcd-87e4-2c8d26997b3f
+440,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,ARGOS,ARGOS Data Collection and Position Location System,b8b3168c-ba08-4ee6-8971-23974521ea28
+441,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,DORIS,Doppler Orbitography and Radiopositioning Integrated by Satellite,9bfd9ff7-b838-4834-bd47-0127384c79f7
+442,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,HAIRS,High Accuracy Inter-satellite Ranging System,de43af49-b240-40e2-b412-9ba68c15ed7f
+443,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,INS,Inertial Navigation System,3077c378-f568-4923-a54f-b704f486c131
+444,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,LORAN,Long Range Navigation,3025a319-131e-4f26-b55c-3cfb122f39eb
+445,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,PTT,Platform Transmitter Terminal,bf9011ca-b6b1-4fdc-a210-4cc3a48e0411
+446,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,RADIO BURST RECEIVERS,,4ddc6f63-c206-4ed1-9312-d61c03f96d4b
+447,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,TELEMETER,,52b14925-b490-4104-9493-efad527585cf
+448,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,USO,Ultra-Stable Oscillator,06beae62-5db5-4e77-9326-0ee1debf2622
+449,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,Radio,,,7561d126-2baf-4583-a6cc-f8159ebf8e94
+450,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,SBAS,GNSS RECEIVER,,be02e58f-ce2f-448f-8a81-74bcc4eb7056
+451,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,SBAS,SBAS P,Satellite-Based Augmentation System Payload,e5099d68-1165-4af4-bc2b-24e94c744ce3
+452,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,SBAS,SBAS RECEIVERS,,c453aa33-edaf-48a0-8070-6aafffe9a777
+453,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,SBAS,SBAS,Satellite-Based Augmentation System,33d79df4-817b-432d-a41e-67b48f3c2cab
+454,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,SBAS,,,50731a19-972c-4337-b964-378d623f3c03
+455,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,A-DCS,Advanced Data Collection System,d8b985fa-87b9-4cf2-a7fc-4395b11a9f49
+456,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,ACS,Advanced Stellar Compass 2 (Boom),9ac10b20-f4d8-4014-8385-bf80a68e6cfd
+457,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,AIRCRAFT MOTION SENSOR,AIRCRAFT MOTION SENSOR,ac739385-29c5-4cc8-a170-c28dcb00f8a5
+458,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,COMPASSES,,1edddcf6-ce7e-4056-a829-dcc29b5edb16
+459,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,DIGITAL BEACON RECEIVER,,07f78cd4-9f41-40d8-b6a6-9d3f5f635a20
+460,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,DORIS GROUND STATION BEACON,,f80d590c-9099-49fc-bc45-af5397a4a049
+461,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,GNSS,GNSS RECEIVERS,41e9430e-97ad-4f89-8908-f3eb481591b1
+462,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,GYROS,,01992a08-d5a3-4eb6-8b46-7e3caa395022
+463,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,IPU,Instrument Processing Unit,a904ebc2-37ae-49ba-8655-f691dbb443c3
+464,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,NASDAT,NASA Airborne Science Data and Telemetry System,0bdff346-7b1c-496d-87c5-6cd2c3e54e90
+465,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,OPTICAL BEACON,,0d8c65c6-a8f3-4a72-a958-7aa1487a9b78
+466,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,PASSIVE OPTICAL TRACKING,,59725d26-d9d6-4604-b7fb-6ae0d257d373
+467,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,PRARE,Precise Range and Range-Rate Equipment,d3415c4b-e95a-45c4-b3a2-1d9f622ddd81
+468,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,RADIO TRANSPONDERS,,f7d7f4ee-9414-4022-b66e-876476188bbc
+469,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,RF ANTENNA,,e8157021-d184-4972-a42e-4829ce641a3c
+470,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SARR,Search and Rescue Repeater,18403ff3-3d2d-4ad4-a25d-d098f4c17c21
+471,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SARSAT,Search and Rescue Satellite Aided Tracking System,753dc941-ab3e-4690-80f0-cad586822f0a
+472,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SCA,Spatial Coordinate Apparatus,fc1107e4-4cb5-4e98-88cd-41d78ae2a86f
+473,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SDTA,Satellite Drag Tracking Apparatus,4158be33-fc11-416b-a9a8-ea9f90a898fb
+474,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SFERICS DETECTOR,,b3c4b521-4014-43b4-af9b-395d67dc9e1e
+475,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,SLR Station,,57ff6e42-aa9e-45c1-9d61-5d65891911f1
+476,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,THR,THRuster activation system,e8a927c5-e5a8-43c8-91d4-2ca3785ef019
+477,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,TRANSPONDERS,,3ceae8e3-4f8d-49d7-b07a-d779b5fb33c2
+478,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,VLBI Station,,cc335159-45d6-4ecc-b1b8-0be773bd5379
+479,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,VLF RECEIVERS,,6a4b960f-f7b0-477d-a8dd-ba55b5110966
+480,Earth Remote Sensing Instruments,Passive Remote Sensing,Positioning/Navigation,,,,596a5700-b3fd-4261-b8f8-a054d052e3fe
+481,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES I-M SOUNDER,sndrD1,,5b02ddd7-e12c-4d1a-bb2c-1f700735e5ba
+482,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES I-M SOUNDER,sndrD2,Sounder Detector 2,a3c1afe9-f2a2-485e-a200-7e0f40fd9e85
+483,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES I-M SOUNDER,sndrD3,Sounder Detector 3,a37427f4-a538-45f1-b145-9cca1accb7c9
+484,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES I-M SOUNDER,sndrD4,Sounder Detector 4,5d425a5b-bc05-40fb-a316-da5d86a17b1f
+485,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES I-M SOUNDER,,,a0636d91-0d30-441e-8f47-03b2672af3f2
+486,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES N-P SOUNDER,sndrD1,Sounder Detector 1,ddd54504-4204-4401-89b0-7320c26ed646
+487,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES N-P SOUNDER,sndrD2,Sounder Detector 2,cf80505f-ae80-4822-b6b6-5da31961a635
+488,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES N-P SOUNDER,sndrD3,Sounder Detector 3,89093575-ccfd-460d-b582-ecb159fe00dd
+489,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES N-P SOUNDER,sndrD4,Sounder Detector 4,ca98377d-f9b6-4665-b4e8-ee54c99585b2
+490,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,GOES N-P SOUNDER,,,29798184-84cd-4339-917f-04343556d63c
+491,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,AERI,Atmospheric Emitted Radiance Interferometer,bc80cf73-5369-4dfb-be7c-1733c85951a5
+492,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,GLISTIN-A,Glacier and Land Ice Surface Topography Interferometer,6306cc51-41a4-4b1a-af8f-e60adfb656f0
+493,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,HIS,High Resolution Interferometer Sounder,82af9cb6-cc72-435d-adbe-4a823aabbbcd
+494,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,IASI,Infrared Atmospheric Sounding Interferometer,93e3734d-78db-43b3-8e13-9dbed088f5cb
+495,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,MIPAS,Michelson Interferometer for Passive Atmospheric Sounding,334b0c35-71bc-4a04-aa14-e0cd35e465a7
+496,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,MIRAS,2-D Passive L-Band Microwave Interferometer,8df8e3d1-6e77-4146-bd7e-59d64564595b
+497,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,NAST-I,NPOESS Aircraft Sounder Testbed-Interferometer,ed368a9d-d2c6-40f0-9e71-2ed972e95045
+498,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Interferometers,,,290dea0f-84a5-4397-bd44-cba490e06676
+499,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Radio Sounders,CHAMP-BLACKJACK,,1e586f28-8ac6-4cd6-8c81-6a188dc6b6d6
+500,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Radio Sounders,GPS SONDE,,82307626-ad8a-471c-b47e-d645b6bba9a2
+501,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Radio Sounders,SACC-BLACKJACK,,18efb4b9-414b-43a4-98ea-6edafafdecaa
+502,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,Radio Sounders,,,0aac1404-4b73-4349-b690-6af0092c8021
+503,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AEM,Airborne Electromagnetic Profiler,3a45d262-7ff0-4f69-8e31-48f56a7edb82
+504,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AIRS,Atmospheric Infrared Sounder,a9bd961e-1063-4f37-99b6-ecd77aa9eb40
+505,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AMMS,Advanced Microwave Moisture Sounder,61e68c34-0c98-4a6c-ac2b-bdba0423081c
+506,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AMSU-A,Advanced Microwave Sounding Unit-A,2a393a42-ecf9-4137-b1ea-1c25692384b4
+507,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AMSU-B,Advanced Microwave Sounding Unit-B,8be17733-c145-421c-b402-bf3fd0797e15
+508,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,ATMS,Advanced Technology Microwave Sounder,9a68e783-b54c-41f2-82ce-da975af38359
+509,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,ATOVS,ADVANCED TIROS-N OPERATIONAL VERTICAL SOUNDER (ATOVS),09bc6a40-b0eb-476a-b750-7aa8af59e0f0
+510,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,AVAPS,Airborne Vertical Atmosphere Profiling Systems,147ad93c-4291-4aa6-a309-04094251772d
+511,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,CLASS,C-LORAN Atmospheric Sounding System,9da230c7-0b08-4dfa-afca-e5fcf4be0bf2
+512,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,CRIMSS,Cross-track Infrared and Advanced Technology Microwave Sounders,62af3234-bd3e-4bf9-969e-623a58d30cac
+513,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,CrIS,Cross-track Infrared Sounder,5ad54972-6d91-4860-aea4-7914fe7ef823
+514,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,DC8 DROPSONDES,,ce651ad4-5446-4d14-8d15-e09eea62d8fc
+515,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,DIGISONDES,,36bad2be-728a-4797-b913-f204d5f8902a
+516,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,DROPSONDES,,68e079d2-303e-408c-932b-d98d2a3385e7
+517,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,DROPWINDSONDES,,5b12e8dc-d093-47f5-b041-d8fb93bbe458
+518,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HAMSR,High Altitude MMIC Sounding Radiometer,587475a9-9426-4c49-b8aa-da1dcb11aaaa
+519,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIRDLS,High-Resolution Dynamics Limb Sounder,25f07bd1-a78c-4d22-a84f-daa45aa00402
+520,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIRS/2,High Resolution Infrared Radiation Sounder/2,c20c443f-9351-433e-b375-cf4c6c29ab60
+521,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIRS/3,High Resolution Infrared Radiation Sounder/3,afe060cb-ce16-4d82-88b6-14e82aaa2fda
+522,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIRS/4,High Resolution Infrared Radiation Sounder/4,ad956eec-c8e9-41fe-bc21-7d4b077447b9
+523,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIRS,High Resolution Infrared Radiation Sounder,ee79f1d4-3a73-408f-beea-945b869b3abf
+524,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HIWRAP,High-Altitude Imaging Wind and Rain Airborne Profiler,a507052f-e4a9-4210-84c5-0a5b9868d249
+525,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,HSB,Humidity Sounder for Brazil,e257079e-3775-4f95-b42d-b2e4ffab00e8
+526,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,IKFS,IR-Fourier spectrometer,4bd33158-b070-4673-8f23-772e1d6a47b6
+527,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,INSAT-3D SOUNDER,,59ef9227-bc9d-4687-91de-f35a60ae34a8
+528,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,IRAS,InfraRed Atmospheric Sounder,e291609f-474d-4cb5-b02c-f8054605d56f
+529,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,IRFS-2,Infrared Fourier Spectrometer-2,c3673c5c-4210-42bc-b0ca-a5cd320de100
+530,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,ISAMS,Improved Stratospheric And Mesospheric Sounder,aad9c18b-486a-476c-a51d-0042d22c2efd
+531,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,ISS,Integrated Sounding System,d68c91e3-4c9e-4ef9-b02d-a9b0f4f7e59a
+532,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,LIMS,Limb Infrared Monitor of the Stratosphere,62178728-5beb-49e8-b63f-ff7dd98df2ee
+533,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MACAWS,Multicenter Airborne Coherent Atmospheric Profiling Wind Sensor,b8d36404-e132-4401-a176-b61704be3bde
+534,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MAS/ATLAS,Millimeter-wave Atmospheric Sounder,c4ed5cfc-b7c3-4a6f-822c-35e81a39cc0e
+535,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MHS,Microwave Humidity Sounder,b03b32d3-1750-4564-b192-8fa4b303b80a
+536,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MLS,Microwave Limb Sounder,2b326777-12dc-4765-ab6f-2f7306d3519f
+537,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MOPITT,Measurements of Pollution In The Troposphere,3d148e55-a196-4779-ad6e-71a6acb5ec92
+538,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MSU,Microwave Sounding Unit,e14163b0-c667-41ea-96a4-e9ce6fcfe041
+539,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MTP,Microwave Temperature Profiler,a4569574-019d-4b81-827b-a5d1388addde
+540,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MWHS,MicroWave Humidity Sounder,ca27055f-12d7-4445-a3b8-bbd2925af14d
+541,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,MWTS,MicroWave Temperature Sounder,89cc57b0-0963-4266-a549-bf5a9e17446e
+542,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,NAST-MTS,NPOESS Aircraft Microwave Temperature Sounder,229ea366-e078-42f0-8349-e5ac23bd040b
+543,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,NAST-M,NPOESS Aircraft Sounder Testbed-Microwave Radiometer,c0399262-e7e1-48aa-996e-c69380576b27
+544,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,NOAA PROFILER,,03a649bc-c35c-4b9a-965d-6c4eb79841c3
+545,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,OMEGASONDE,,54677c8a-4cfc-45ed-8f0c-2c9a6380d226
+546,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,OSIRIS,Optical Spectrograph and Infrared Imaging System,598b6dc4-aff0-4e14-b7b7-039e58560dd0
+547,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,OZONESONDES,,413d8f2d-88bf-415b-91ff-74590a205ad3
+548,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,RADIOSONDES,,c79ff20c-08c1-41f5-8f68-13c1b6d34ba8
+549,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,RAWINSONDES,,ab3f8fdd-fec8-4c56-b9e4-481f93cb85b9
+550,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,ROCKETSONDES,,528c5616-a58a-4589-ad13-6833e329e6a3
+551,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,RTOVS,REVISED TIROS-N OPERATIONAL VERTICAL SOUNDER (RTOVS),1ed90de3-8468-488b-97f6-843c9f000975
+552,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,S-HIS,Scanning High-resolution Interferometer Sounder,e90b119b-ed2d-42ea-b526-c3a8d74b569a
+553,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SABER,Sounding of the Atmosphere using Broadband Emission Radiometry,c2d99bbb-bdc8-4c15-ade8-10a3843ac8d7
+554,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SAMS,Stratospheric and Mesospheric Sounder,88b88e80-fc8a-4724-825f-47eeac7f6ff3
+555,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SAPHIR,,77ed5ad1-0bc7-4aaf-8373-18294829021f
+556,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SBUS,Solar Backscatter Ultraviolet Sounder,8cdf5ebf-d2a8-4f73-9c13-82fd1eb7b3ce
+557,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SHIS,Scanning High-Resolution Interferometer Sounder,7cf5a975-8c60-45e6-b6bf-8f9a83ea07c5
+558,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SLS,Submillimeter Limb Sounder,e809e82b-acfd-4371-80d7-7637a47e08ce
+559,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SOUNDERS,,874099d6-64f7-422a-acbf-8d44dc133f56
+560,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SSH-2,Infrared Temperature and Moisture Sounder,d91baf20-cfc4-425f-aa8d-3824671ca006
+561,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SSM/T-2,Special Sensor Microwave/Temperature Profiler,33690bf4-5877-4ff4-b0a1-f8c4c94b79a7
+562,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SSM/T,Special Sensor Microwave/Temperature,eff0bf28-0b98-4ad8-9d00-e83aa9a6245e
+563,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SSULI,Special Sensor Ultraviolet Limb Imager,f719a2fe-11eb-4d78-80de-2b2493c29a43
+564,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,SSU,Stratospheric Sounding Unit,46421a95-3e0a-4cac-af85-8140c2b99774
+565,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TCISS,TOGA COARE Integrated Sounding System,01962d1c-4089-4221-977d-0de0ea2835d4
+566,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TEMPERATURE PROFILERS,,c4a0f956-d9eb-4fdb-8671-0b5fbe3037ba
+567,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TETHERSONDES,,f0a78244-9158-4b58-aac2-0859ff2a7441
+568,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TIROS-N,TIROS-N OPERATIONAL VERTICAL SOUNDER,47b1f007-ab9b-41ca-abdf-fcaa2b5b83dc
+569,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TOU,Total Ozone Unit,c3d768e8-f6b5-4628-938d-b6c45b176a3a
+570,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,TOVS,TIROS Operational Vertical Sounder,9541cd1b-aac3-4cdd-8ad9-613d9f832e02
+571,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,UMKEHR OBSERVATIONS,,3a0822e8-e6fa-4782-af0f-d6999b9beb28
+572,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,VAS,VISSR Atmospheric Sounder,8311d9c1-5930-493f-8a84-e0ba9be70e2e
+573,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,VTPR,Vertical Temperature Profile Radiometer,03143a81-5fc4-4762-bf1e-e39e60970f09
+574,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,WIND PROFILERS,,ef12b762-306e-480b-ba32-3e41a37aff59
+575,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,WVSS,Water Vapor Sensing System,38d4a708-487f-4b16-927f-fd5f19e477d0
+576,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,XSV,Expendable Sound Velocity Profilers,41703169-78fa-4da7-b1e2-02e978a3f03a
+577,Earth Remote Sensing Instruments,Passive Remote Sensing,Profilers/Sounders,,,,4190ebdc-e89a-4f3f-bc74-b2af4c68d009
+578,Earth Remote Sensing Instruments,Passive Remote Sensing,Pyrometers,Infrared Pyrometers,KT15 Pyrometer,Heitronics KT15 Infrared Pyrometer,47aef999-3e01-4a9f-815b-8c7b853c6e8c
+579,Earth Remote Sensing Instruments,Passive Remote Sensing,Pyrometers,Infrared Pyrometers,KT19 Pyrometer,Heitronics KT19 Infrared Radiation Pyrometer,b8e1857c-ea38-4341-a01b-2879e63ac2d8
+580,Earth Remote Sensing Instruments,Passive Remote Sensing,Pyrometers,Infrared Pyrometers,,,9669f608-8f98-46d3-a74e-6b9750d3e5e7
+581,Earth Remote Sensing Instruments,Passive Remote Sensing,Pyrometers,,,,644b9652-4b71-493e-8ceb-25697a1a6514
+582,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,DESIS,DLR Earth Sensing Imaging Spectrometer,7c6ddfcd-00e3-4194-be91-9a9648f9d30b
+583,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,HICO,Hyperspectral Imager for the Coastal Ocean,0ef776ed-5347-4dd8-a700-ff77a5ad9a97
+584,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,HYPERION,HYPERSPECTRAL IMAGER,949e0309-4367-4349-8d62-a6ad8054a94a
+585,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,HYSI-T,Hyper Spectral Imager,a18ddcfa-9dc5-4bc3-be90-8088f26688bd
+586,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,,,d0341489-930a-4aa8-a3d3-ab851816058c
+587,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AATSR,Advanced Along-Track Scanning Radiometer,e18daa03-d76a-435d-83c3-d9c60b3fe437
+588,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AA,Charge Coupled Device-based Pushbroom Aft Viewing Camera A,d612e2b3-6625-411a-800f-51aa5343d55c
+589,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ABI,Advanced Baseline Imager,12a671f6-d18d-405a-9ff5-432ef2b94135
+590,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AF,Charge Coupled Device-based Pushbroom Fore Viewing Camera A,f3e24783-42cf-4080-8a6b-f8420722b987
+591,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AHI,Advanced Himawari Imager,228edef6-d682-40eb-8b41-e37c78b9e7c5
+592,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AIMR,Airborne Imaging Microwave Radiometer,79657c54-716d-4500-8a45-47201e8a4daa
+593,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AIRMISR,Airborne Multi-angle Imaging SpectroRadiometer,c9659679-1a9c-4c90-bc5f-62f0278c5d92
+594,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AIRMSPI,Airborne Multiangle SpectroPolarimetric Imager,c075c75b-4e28-4ace-9347-f2b8f95db18f
+595,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AIRSAFE,,4e7f5d0e-4d2a-4a03-bd89-6361cc46f207
+596,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AIS,Arizona Imager Spectrograph,97038277-b048-40fd-ab36-8bb04a92adf0
+597,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ALI,Advanced Land Imager,16da019f-39a2-4ccf-9dbc-b4de1e14c6cd
+598,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AMSR-E,Advanced Microwave Scanning Radiometer-EOS,736038ef-c1ae-47c7-a50e-729474eeb3b1
+599,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AMSR2,Advanced Microwave Scanning Radiometer 2,92d834e1-689c-4d12-8c4a-74ee4cf75b36
+600,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AMSR,Advanced Microwave Scanning Radiometer,cf664bfd-5313-4472-9979-53b7e810287c
+601,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AN,Charge Coupled Device-based Pushbroom Nadir Viewing Camera A,f2b8a443-cf0a-4ece-bdb4-ba3d24dfb69e
+602,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AOCI,Airborne Ocean Color Imager,4c03dcf4-6630-4b27-b4c6-ee69ac490f7d
+603,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ASPECT,AIRBORNE SPECTRAL IMAGERY OF ENVIRONMENTAL CONTAMINANTS TECHNOLOGY,284594aa-8f07-41db-927c-f84980da2877
+604,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ASTER,Advanced Spaceborne Thermal Emission and Reflection Radiometer,c811bdaf-649f-4e23-b495-940d64e675f4
+605,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ATSR-2,Along-Track Scanning Radiometer 2,1640dd94-3432-4f48-ae9b-7966137e027b
+606,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ATSR,Along Track Scanning Radiometer and Microwave Sounder,39ac1813-238f-4fa3-b0cb-fe08a7dcadc4
+607,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVHRR-2,Advanced Very High Resolution Radiometer-2,600b228b-165c-4f80-96e2-7ee2d9989680
+608,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVHRR-3,Advanced Very High Resolution Radiometer-3,87c44e15-54c8-407d-a881-8035a2d5512b
+609,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVHRR,Advanced Very High Resolution Radiometer,e64e83bd-02b3-4a47-830d-00e1aa4b04d3
+610,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVIRIS-NG,Airborne Visible InfraRed Imaging Spectrometer - Next Generation,57854209-ce09-4dc9-90e2-5c4e1060fdad
+611,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVIRIS,Airborne Visible and Infrared Imaging Spectrometer,d67afd03-3b79-419c-9289-5dde713ab904
+612,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVNIR-2,Advanced Visible and Near-Infrared Radiometer Type 2,835fb659-6a25-44a7-8c5a-7698fe785472
+613,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,AVNIR,Advanced Visible and Near-Infrared Radiometer,574fd149-e30a-4762-8a43-34bc2fcfdc8c
+614,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,BA,Charge Coupled Device-based Pushbroom Aft Viewing Camera B,e827d04c-bf67-4877-91a7-b39b819d5168
+615,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,BF,Charge Coupled Device-based Pushbroom Fore Viewing Camera B,b8cf268c-8fb7-4686-866a-4acf7dc7b0ed
+616,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,BJ-1 MSI,BJ-1 Multispectral Imager,7e5f9494-c191-4f20-984f-15ceb88b29d1
+617,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,CASI-1500,Compact Airborne Spectrographic Imager Model 1500,a159e29b-f717-401b-97e6-b1ed8d2e2acc
+618,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,CASI,Compact Airborne Spectrographic Imager,895234ca-e7fe-4343-ac53-52786aa0b811
+619,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,CA,Charge Coupled Device-based Pushbroom Aft Viewing Camera C,1ca9aabd-bc50-4dd6-b81b-fe70cb50ea1b
+620,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,CF,Charge Coupled Device-based Pushbroom Fore Viewing Camera C,96b31d3d-5ba0-47ea-9dd1-8a7d5f25597b
+621,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,COSMIR,Conical Scanning Millimeter-wave Imaging Radiometer,5d8a5307-5574-4dd6-b923-8a29d158f008
+622,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,COSSIR,Conical Scanning Sub-mm wave Imaging Radiometer,4bf480ae-5266-4812-a4b4-15043764b745
+623,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,CZCS,Coastal Zone Color Scanner,5989cded-9b05-400f-a40f-a4b05bae5ddd
+624,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,DAEDALUS TMS,Daedalus Thematic Mapper Simulator,0f772f93-307a-42d1-8381-fcd5d77c493e
+625,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,DA,Charge Coupled Device-based Pushbroom Aft Viewing Camera D,cc1e1545-49f0-4ced-aeef-b38cd02546bd
+626,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,DF,Charge Coupled Device-based Pushbroom Fore Viewing Camera D,67f1d110-c312-492d-a18e-0726da4cd0ef
+627,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ECOSTRESS,ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station,1138ec18-a2a5-4cff-84bc-ce5fdfe29f0a
+628,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ENLS,Earth Network Lightning Sensor,9d259111-dc99-4ca1-a4f3-d461c1d26636
+629,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ESMR,Electrically Scanning Microwave Radiometer,a943a6f3-7115-4da4-be2d-61a4ddfec5f8
+630,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ETM+,Enhanced Thematic Mapper Plus,4dbe7764-a2ea-4a19-b754-696c35ac3205
+631,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,EarthCARE MSI,EarthCARE Multi-Spectral Imager,081f9b6e-d0a0-4f1d-ad8a-638189418480
+632,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,FEGS,Fly's Eye GLM Simulator,d621a1c7-3d21-4c8d-833d-237f3e494b05
+633,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,FLORIS,,f6fcdea4-fdbd-4eaa-b696-2db4a893fbbc
+634,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GERB,Geostationary Earth Radiation Budget,beada4de-1b76-4354-b140-774d7fe70189
+635,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GLI,Global Imager,4f6f33c8-388f-46ea-99bc-66fa1582c647
+636,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GMI,Global Precipitation Measurement Microwave Imager,7cac33c5-a557-4fee-b564-000c5e7f2817
+637,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOCI,Geostationary Ocean Color Imager,7a5528bc-32da-43e1-9790-23c91b4484ed
+638,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES I-M Imager,,536bf692-3335-4ccc-8b77-53ba15ba054c
+639,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES N-P Imager,,612ba79f-ccc7-4ee1-b520-1f9573119b17
+640,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-10 Imager,Geostationary Operational Environmental Satellite 10-Imager,d0e5bb89-a379-4341-976a-58a2f8feaf4f
+641,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-11 Imager,Geostationary Operational Environmental Satellite 11-Imager,3773a427-32d9-4fef-a549-d0f56a4d18ff
+642,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-12 Imager,Geostationary Operational Environmental Satellite 12-Imager,b1de62e1-48c6-430b-80c9-e0d639b5153f
+643,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-14 Imager,,55461d90-0015-4d73-8ccc-16b25d9c925c
+644,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-15 Imager,Geostationary Operational Environmental Satellite 15-Imager,3c56938d-eb2f-4cc1-97ed-d0d0865f679b
+645,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-16 Imager,Geostationary Operational Environmental Satellite 16-Imager,5183cd58-f9e6-4669-9f6e-2b66ca589408
+646,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-8 Imager,,9279c31b-d81d-4d48-a0b5-f9aa92f58f2d
+647,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GOES-9 Imager,Geostationary Operational Environmental Satellite 9-Imager,ec243b2f-f4af-414e-86c8-47ba2c395d0e
+648,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GSA,Hyperspectral imaging equipment,10deaf31-ae63-43a6-90b8-994487a71edb
+649,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,GUVI,Global Ultraviolet Imager,8a7c1795-8625-484d-8f62-6d7204d211b9
+650,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,Geoton-L1 (1),Geoton-L1,05ddbe55-9c47-4ebb-9f2b-168c8731057e
+651,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,Geoton-L1 (2),Geoton-L1,5787cc42-b51a-44ca-862e-7132b1e0d5c8
+652,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HRDI,High Resolution Doppler Imager,efad471f-d7d6-473f-bca2-1e17372b3fdf
+653,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HRTS,High Resolution Telescope and Spectrograph,6dd795c0-5af9-43b0-95c5-3e1ec3d1f29e
+654,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HRVIR,High Resolution Visible and Infrared,d1917f5c-0f50-4b7b-adb5-08cd7a6510d3
+655,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HRV,High Resolution Visible Imaging System,3d84cea2-1361-46fc-b0e2-eab9cc393258
+656,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HiRAIS,High Resolution Advanced Imaging System,d7fbb6b1-1925-4a32-b399-c578435db47c
+657,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,HiRI,High-Resolution Imager,069b927b-486b-49e2-a1c2-4508185e113f
+658,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,IIR,Imaging Infrared Radiometer,ac3071cf-e97e-4789-ad85-d2e33e502e2a
+659,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,IMAGING RADIOMETERS,,fc4227aa-66df-48a4-9712-f75a1b24fcd1
+660,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,IRMSS,Infrared Multispectral Scanner,52f1a056-aba7-42e7-a99d-6c38319cd78b
+661,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,IRS (CBERS),Infrared System (CBERS 3 and 4),396af9f0-50d9-4b4c-b4cc-c58aef015471
+662,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,IRS,Infrared Radiometer/Spectrometer,71d4cffb-853d-40c9-8e01-793e71805b31
+663,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,ISO,Imaging Spectrometric Observatory,0e1c7819-2a62-4303-a2c2-6ea7b0599cbc
+664,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,JAMI,Japanese Advanced Meteorological Imager,0d967f3a-04c1-4dac-85f9-e0ffc54c2425
+665,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,K1-VHRR,KALPANA-1 VERY HIGH RESOLUTION RADIOMETER,33b662f6-eee9-4aa2-bfc8-2bf758615223
+666,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,KMSS,Multispectral Imager (VIS) system,e549f821-0712-41c2-a558-0f55f6c8ba80
+667,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LAC,LAC (Linear Etalon Imaging Spectrometer Array (LEISA) Atmospheric Corrector,3e488a04-58da-4ef3-b30c-a8bb21a79630
+668,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LIP,Lightning Instrument Package,291dd78f-67de-417f-a26d-6df02bafe8e7
+669,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LISS-III,Linear Imaging Self Scanning Sensor III,3a3c2498-8e0e-4138-b5a2-7c2a80e1b598
+670,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LISS-II,Linear Imaging Self Scanning Sensor II,a78d42f1-cc25-4f10-8b4c-0e6c29dea046
+671,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LISS-IV,Linear Imaging Self Scanning Sensor IV,7903c432-f65f-4b92-bb9e-96cd3036fd1d
+672,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LISS-I,Linear Imaging Self Scanning Sensor I,cde74f5c-0ce2-442b-8b60-0ab30f6882c6
+673,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LIS,Lightning Imaging Sensor,447cb532-a56a-4d8a-b367-40aebcc1648d
+674,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,LMA,Lightning Mapping Array,47fa86bf-3472-4539-bb2e-a08020dc2090
+675,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MADRAS,Microwave Analysis and Detection of Rain and Atmospheric Systems,4de23942-39b8-4a1f-88b7-4be7ee4dfb24
+676,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MAS,MODIS Airborne Simulator,fe2b617a-4571-4442-9a64-51ef8deb0306
+677,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MEIS,Multispectral Electro-optical Imaging Sensor,a359cad7-3543-4427-9516-e006146c8d55
+678,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MERIS,Medium Resolution Imaging Spectrometer,fc3f3ca6-1578-47b2-9d99-bc35ca85e0ba
+679,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MERSI,MEdium Resolution Spectral Imager,d29f5cab-9782-4d06-9349-cee6652a2f97
+680,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MESSR,Multispectral Electronic Self-Scanning Radiometer,7ac6447e-331d-40d5-9118-903222aaed55
+681,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MFR,Multichannel Flux Radiometer,1c645150-c046-4652-8f68-11167a19ba91
+682,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MIMR,Multifrequency Imaging Microwave Radiometer,faab4948-8041-4617-89b0-cabef0bc57c6
+683,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MISR,Multi-Angle Imaging SpectroRadiometer,6f912d59-3932-4f05-8924-20628d508b84
+684,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MIS,Microwave Imager/Sounder,19b481f1-44a8-44f7-b395-ea3e45f71c97
+685,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MLA,Multi-Linear Array,49c18248-f7db-4874-829e-31222af91350
+686,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MODIS,Moderate-Resolution Imaging Spectroradiometer,2878f334-35dc-47a7-a3ae-8c5da1adccd3
+687,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MOMS-01,Modular Optoelectronic Multispectral Scanner,78035802-3615-494c-8ec0-cc040feae6e8
+688,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MOMS-02,Modular Optoelectronic Multispectral Stereo Scanner,79241b91-40b5-4a81-96c5-f92ab39584bd
+689,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MOP VIS/IR,MOP Imaging Radiometer,ef9ac5ea-ac53-4a8b-b9b1-fabbbd148c3c
+690,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MOS,Modular Optoelectronic Scanner,b5b0b14b-df0c-4884-9423-01a018da7efb
+691,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MRI,Medium Resolution Imager,a8cd4c4e-9442-4d08-af4d-af7d544c2d39
+692,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSC,FireBIRD Multi-Spectral Camera,e9d9df16-ebbf-4f6d-838f-225716619ff9
+693,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSIR,Multispectral Imaging Radiometer,958fcf8b-6022-4cc9-88bb-4ce6c63c9c66
+694,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSIS,Multispectral Imaging System,534f6bde-acc9-4ba3-b3d9-06cd61060026
+695,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSR,Microwave Scanning Radiometer,da65c47c-1ebb-456c-bf3a-b300ce9edf3d
+696,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSS_RS,Multispectral imaging system,41249ca9-3c20-4dc7-a5ad-bf314b7dd542
+697,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSS,Multispectral Scanner,0c5b0ed1-205b-497d-84b5-9ea87b5ad7b1
+698,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSU-E,Multichannel High Resolution Electronic Scanner,e05116d2-cff4-4d23-9e6c-0e5843006160
+699,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSU-GS,Multispectral scanning imager-radiometer,d03771c4-d795-4066-86d2-40e200df134b
+700,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSU-MR,Low-resolution multispectral scanning imager-radiometer,7adab01b-cdf2-4e08-9844-23604b6e07eb
+701,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MSU-SK,Multichannel Middle Resolution Conical Scanner,dae61eb2-5733-4255-abd8-03c1f415e7e3
+702,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MTVZA,Scanning microwave imager-sounder,31fb513e-d4d6-43c2-9e77-363ebe603ff0
+703,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MVIRI,Meteosat Visible Infra-Red Imager,7cd2fc64-dc09-47a9-8f79-6c540299ec1d
+704,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MVI,Multiband Vegetation Imager,12e12fd9-0d3e-47fc-b818-cbbeb3f35413
+705,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,MWRI,MicroWave Radiation Imager,1b0cf705-a6e1-4a96-aac1-5c8d505be6a7
+706,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,NS-001 TMS,NS-001 Thematic Mapper Simulator,4270e59d-8fbe-4b75-ab05-616d3b38fa4e
+707,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OCE,Ocean Color Experiment,cd74d049-ae8b-4510-a2ae-618e9b470296
+708,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OCM,OCEAN COLOR MONITOR,07b92ff1-218f-49a8-81ac-1f36ad58d1b4
+709,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OCTS,Ocean Color and Temperature Scanner,ff49e220-7ca6-44c9-80df-b48b31a62cb6
+710,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OLCI,Ocean and Land Colour Imager,65ed042c-df53-4afb-8b6a-1ea16958015d
+711,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OLI,Operational Land Imager,e8a6f9ad-e376-495c-869e-3467526b49ec
+712,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,OLS,Operational Linescan System,47a49789-181d-43d0-8591-a0fe494f86d2
+713,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PHyTIR,Prototype HyspIRI Thermal Infrared Radiometer,1ce6f43e-8bee-4b3a-9a0e-3ea2a9f5e7b3
+714,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PIP,Precipitation Imaging Probe,477652cd-2ed0-4d78-b821-5fc4f5ae7a11
+715,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PLA,Panchromatic Linear Array,c1e7af7f-5610-4714-a79c-b1573a32cf01
+716,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,POLDER-1,Polarization/Directionality of the Earth's Reflectance-1,ecfc7717-1c5f-48ba-bc42-f37daaace47c
+717,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,POLDER-2,Polarization/Directionality of the Earth's Reflectance-2,8f95953c-8c1b-44b1-8ca5-d1322e34e70d
+718,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,POLDER-3,Polarization/Directionality of the Earth's Reflectance-3,b8616a2e-4fef-4d9b-98fb-5681dd70cf4a
+719,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,POLDER,POLarization and Directionality of the Earth's Reflectances,d58f0c56-376f-45b9-a4d3-aa14bb1f455a
+720,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PORTOS,Radiometer Hyper-frequence Multi-frequence,6cb001d7-fc1c-4e20-9b81-a1573ad77221
+721,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PRISM,Panchromatic Remote-sensing Instrument for Stereo Mapping,15f02273-9e95-43d7-a2b0-e6cf8f569f69
+722,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PROBA.CHRIS,PROBA CHRIS,0b9dfb8a-828f-4416-aee1-4fe685fb106b
+723,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PSR,Polarimetric Scanning Radiometer,f1312494-d94b-4280-8ebf-bd9a4a53fc47
+724,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PSS_RS,Panchromatic imaging system,baf5be91-ebf6-423c-9c57-ec5fa544adf1
+725,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PSS,Panchromatic imaging system,9455d12c-dd20-4cf2-af29-38ea1f484937
+726,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PanCam,Panchromatic Camera,15d09d38-78d5-484c-93b4-3bf27e036dff
+727,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,PlanetScope,,ccae4c79-b985-4be6-b146-5c1a1a395e03
+728,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,REFLECTED SOLAR SUITE,Reflected Solar Instrument Suite (CLARREO),10104271-f13c-4d3c-af22-f17fc100fb26
+729,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,REIS,RapidEye Earth Imaging System,a77c855f-9c33-4200-802f-4ff5aea226db
+730,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SEAWIFS,Sea-Viewing Wide Field-of-View Sensor,769780b8-ba0e-4cd2-9575-88953c1010a0
+731,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SENSE,,75a145eb-0fed-4011-90db-286010e10fb0
+732,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SEVIRI,Spinning Enhanced Visible and Infrared Imager,c087ba2c-2ea3-4907-9477-ad9233c9f921
+733,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SGLI,Second Generation Global Imager,8891b8a8-a469-411f-8f84-71a94da19f02
+734,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SHMSA-SR,Medium resolution wide capture multispectral optical sensor,beee83ac-12f6-4fe0-a8d6-386ce41be39d
+735,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SHMSA-VR,High resolution wide capture multispectral optical sensor,72f5b059-bc48-4ed2-960f-62b83b74782a
+736,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SLAP,Scanning L-band Active Passive,752d166c-5834-4fdc-968c-f69425b31ae5
+737,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SLIM6-22,Surrey Linear Imager - 6 channel - 22m resolution- SLIM-6-22,24b58da6-ac1a-46d1-bbd3-6cdb0a0e1707
+738,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SMAP L-BAND RADIOMETER,SMAP L-Band Radiometer,fee5e9e1-10f1-4f14-94bc-c287f8e2c209
+739,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SMMR,Scanning Multichannel Microwave Radiometer,6d529763-54c7-4f14-8f0a-988af122c6fe
+740,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SR,Scanning Radiometer,fa8e9486-0e46-42c7-b774-08f6a2153f31
+741,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SSC,Snow/Cloud Discriminator Special Sensor C,e9764a4c-745e-43ac-b8bd-101ef391f014
+742,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SSM/I,Special Sensor Microwave/Imager,c5058bd9-6183-4c0a-a6aa-611540ba1196
+743,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SSMIS,Special Sensor Microwave Imager/Sounder,44d87436-a753-4d0c-80f6-7e6b48795575
+744,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,STRATOS,,9a8265a0-1ff1-47ac-9204-f839ab508471
+745,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,Sentinel-2 MSI,Sentinel-2 Multispectral Imager,fc57a9a0-a287-4bcf-a517-20811b55596b
+746,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,Sentinel-3 MWR,Sentinel-3 Microwave Radiometer,d81fc4e3-c0b4-4205-82b2-ef2161c169a3
+747,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,SkySat Camera,,bd5a9e8c-72db-4244-9455-53b0f19950b4
+748,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,THEOS MSI,THEOS Multi Spectral Imager,adb2a7a9-92d0-4e24-9c29-b3f2218437a5
+749,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,THEOS MS,THEOS Multi Spectral Imager,682ca0b2-2fa9-4a5f-b110-a5e0ee72e73f
+750,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TIRS,Thermal Infrared Sensor,58207caf-121d-4f88-bd79-11cafefa3f5b
+751,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TIR,Thermal Infrared Radiometer,3b2904fa-bc88-4a86-b917-59ea09afdd6f
+752,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TMI,TRMM Microwave Imager,1449ce31-3588-45cd-88b5-55e24d677210
+753,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TMS,Thematic Mapper Simulator,a20a82f0-ff1a-4a48-a052-b9b429899ab4
+754,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TM,Thematic Mapper,bfc07fb2-ca22-48e6-8171-84527b0faae7
+755,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TROPOMI,TROPOspheric Monitoring Instrument,74ee2866-0e9e-4c20-8003-0621af6552f3
+756,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,TSI,TOTAL SKY IMAGER,9bb2d7ab-a86d-49e7-8a84-e036ca793d48
+757,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,UAF Scanner,University of Alaska Fairbanks Lidar Scanner,71dcdb88-420a-4498-afa6-59e74bd0a220
+758,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VGT-P,Vegetation Instrument - PROBA,88094b8c-c68c-4e4f-a4d9-1d5b6e15ba5b
+759,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VHRI,Very High Resolution Imager,c6ff04f5-a31f-4c9f-9c37-82f053905736
+760,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VHRR,Very High Resolution Radiometer,212f750c-5342-44a8-8dcd-fe9dc4d98a19
+761,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VIIRS,Visible-Infrared Imager-Radiometer Suite,dd7c719e-5767-4ceb-b83a-66c1401dab4a
+762,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VIRIS,Visible and Infrared Intelligent Spectrometer,4a2f52b5-d671-4c3e-bdfa-99ce98c3fbe2
+763,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VIRR,Visible and Infrared Radiometer,de910a53-ecb0-4450-961a-baac5300df07
+764,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VIRS,TRMM Visible Infrared Scanner,6467145c-2b45-4e0f-b131-eb945ee130f6
+765,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VISSR-GMS,Visible and Infrared Spin Scan Radiometer (GMS Series),3267ab9b-4e40-454c-ad9f-ec0832ff49ab
+766,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VISSR-METEOSAT,Visible and Infrared Spin Scan Radiometer (METEOSAT Series),10547cb0-9a39-4630-a244-abb244d8518f
+767,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VISSR,Visible and Infrared Spin Scan Radiometer,5bf2b441-7c1e-4511-a8b8-281c988e88ea
+768,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VNIR,Visible and Near Infrared Radiometer,22dc2a25-e81e-4408-bcf2-a47ef28d7f7f
+769,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,VTIR,Visible and Thermal Infrared Radiometer,2b334efc-b3b7-4551-8ed5-80753d46032c
+770,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,WAF-P,Wide-Angle Fabry-Perot,28a3ae40-6383-47e3-a1b8-a9f6503c5fd5
+771,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,WIFS,Wide Field Scanner,3bfc3d3d-48cb-44a8-91fe-5ed91a18aa85
+772,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Imaging Spectrometers/Radiometers,,,944b7691-af37-4fb4-9393-c114e7997829
+773,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,FPI,Fabry-Perot Interferometer,e2b390c8-5d95-4f81-a6e8-6780e40fc4f0
+774,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,GRACE INTERFEROMETER,,ad46b854-7c4a-47f6-b134-808f1e1a1dd8
+775,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,HALOE,Halogen Occultation Experiment,87173192-e3eb-438f-b5fe-b10c2c89e3fe
+776,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,IMG,Interferometric Monitor for Greenhouse Gases,06aac8ed-49ff-41d0-9960-f18d9cd0f0ae
+777,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,INTERFEROMETERS,,781660ad-1e2f-410d-b77c-6b1ed498d43d
+778,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,IRIS,Infrared Interferometer Spectrometer,bd05b815-2c9a-405f-86f2-fc9abb529908
+779,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,KaRIn,Ka-band Radar Interferometer,e5c4d64f-fb76-40e1-84f0-d3019b70642d
+780,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,MARK IV INTERFEROMETER,,29bb0fb9-dd17-48e2-b414-9b8c6f39f02a
+781,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,MICHELSON INTERFEROMETER,,c940ded8-8ddc-4fea-8bf7-5fb100cdf093
+782,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,SIRIS,Stratospheric Infrared Interferometer Spectrometer,55b35143-89d0-4c87-961e-7ded204a0d72
+783,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,WINDII,Wind Imaging Interferometer,070eb17a-33d1-4255-bc7a-e4168c8e9e56
+784,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Interferometers,,,992ffede-af18-49a9-8acb-2cd333860efe
+785,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,2.3um Radiometer,Correlation Spectrometer at 2.3 um,c83f5d9a-2dca-4c8c-b099-d4fab1773da9
+786,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,2.4um Radiometer,Correlation Spectrometer at 2.4 um,7182c726-b019-4b03-93ae-12b66867a386
+787,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,4.7um Radiometer,Correlation Spectrometer at 4.7 um,1f08e989-bc85-4cea-ab1f-7774c89d3836
+788,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ADMIRARI,ADvanced MIcrowave RAdiometer for Rain Identification,8464f59d-5a48-4c3c-ae7f-ba052f323d7c
+789,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,AMMR,Airborne Multichannel Microwave Radiometer,3dd67068-9e9f-4a5c-ae4b-799fbb0332ec
+790,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,AMPR,Advanced Microwave Precipitation Radiometer,862550bd-0d5e-41db-83aa-38630b4459a8
+791,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,AMR-2,Advanced Microwave Radiometer-2,ddd0f410-c84f-4c72-b6ed-7efbcbf3c244
+792,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,AMR,Advanced Microwave Radiometer,9a6159cf-328f-4871-9213-6c402cab5971
+793,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,AQUARIUS_RADIOMETER,Aquarius Radiometer,16ad0bd4-7fe9-48b0-9145-2155bf3d0cc2
+794,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ASUR,Airborne SUbmillimeter Radiometer,deb0fd7e-2b42-4795-ba3f-aa5243cefbd5
+795,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,BBHSR,Broad Spectral Bandpass Hemispherical Solar Radiometer,bd8f369d-a91f-48c3-b044-03195a870682
+796,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,BBR,Broadband Radiometer,f3c9a235-939d-4898-94f3-3dea5ad187e1
+797,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,BRTS,Background Radiometric Temperature Sensors,ecb13ab0-c56c-4c40-bf30-05429c764e1f
+798,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,BSR,Broadband Solar Radiometer,6631b88e-494d-4879-ab41-60a6c0108d21
+799,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,C-STAR,Conically-Scanning Two-look Airborne Radiometer,1b6265cd-b638-4ed1-97b9-9cc8f65f9449
+800,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CAR,Cloud Absorption Radiometer,2ee6a227-a510-4dcd-8068-3e0ad14ede9b
+801,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES SCANNER,Clouds and the Earth's Radiant Energy System Scanner,62155a85-7249-4de7-a1d7-042bae2f2e2b
+802,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM1,Clouds and the Earth's Radiant Energy System - Flight Model 1,52e34405-124d-485e-859b-63f34609b812
+803,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM2,Clouds and the Earth's Radiant Energy System - Flight Model 2,815656a4-1382-4e05-94f9-5d4709e036f4
+804,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM3,Clouds and the Earth's Radiant Energy System - Flight Model 3,b4d51bd0-047f-4365-98cf-acfe4370eec0
+805,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM4,Clouds and the Earth's Radiant Energy System - Flight Model 4,b1a560d0-e9cb-4ce3-9c06-c354bcf1833f
+806,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM5,Clouds and the Earth's Radiant Energy System - Flight Model 5,858856b1-d6a9-4135-b9ac-bec7d70de8d2
+807,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-FM6,Clouds and the Earth's Radiant Energy System - Flight Model 6,b6bcacb0-f88c-440e-9401-61dfb8aa2e0d
+808,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,CERES-PFM,Clouds and the Earth's Radiant Energy System - Prototype Flight Model,a23f09aa-48e0-42a4-b7e1-9f25ada6ba47
+809,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ERB-SCANNER,,7ee2c846-ce0d-48a4-8117-d805acd2bd7a
+810,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ERBE WFOV Nonscanner,Earth Radiation Budget Experiment Wide Field of View Nonscanner,d583f653-7a8d-414a-aff7-7d9006a138cc
+811,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ERBE,Earth Radiation Budget Experiment,e432d8db-ec9c-44fa-9942-d6b1eb993126
+812,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ERB,Earth Radiation Budget,7c85939e-c2a5-4a04-b67c-6779bc7f9a85
+813,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ERM,Earth Radiation Measurement,216db434-5ef4-4d3b-9c30-7510dc04621c
+814,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,ESTAR,Electronically Scanned Thinned Array Radiometer,055fb569-9674-474f-b841-f89c30b7ecef
+815,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,GBMR,Ground Based Passive Microwave Radiometer,4d76ff74-2e45-4e20-bb9d-41cf0f5dcc6d
+816,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,GOES-13 Imager,,72f8d1ce-375c-416b-a8c9-1aa5cd2101b6
+817,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HCMR,Heat Capacity Mapping Radiometer,d023b35a-a688-4872-9580-1001b2aca22d
+818,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HFOVR,Hemispherical Field of View Radiometer,561ac4d5-7545-4271-ae17-bb00d35fed8e
+819,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HIRAD,Hurricane Imaging Radiometer,8a90b95a-6b6a-403f-9481-58303aaeada2
+820,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HRIR Nimbus-1,High-Resolution Infrared Radiometer on Nimbus-1,36e951f1-902a-44ba-b4fa-14b2f6950347
+821,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HRIR Nimbus-2,High-Resolution Infrared Radiometer on Nimbus-2,7bcbff2e-f2fa-44de-9025-3d82080b3728
+822,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HRIR Nimbus-3,High-Resolution Infrared Radiometer on Nimbus-3,0a387f6a-9281-4ece-a2d9-79fc462638e0
+823,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HRIR,High-Resolution Infrared Radiometer,8d1de077-bdb4-4530-8c23-a1ee9fa74968
+824,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,HRR,High Resolution Radiometer,383877d8-1789-4a05-ac12-51c1765315cd
+825,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,IKAR,Multichannel Microwave Radiometric System,ce6c83ba-ea2a-4651-8c55-8232248b500c
+826,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,INFRARED RADIOMETERS,,b087f1d4-ad8d-4b15-b908-599b1560c355
+827,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,JASON-1 Microwave Radiometer,JASON-1 Microwave Radiometer,f88cf612-f536-44a8-b1be-f5936f4a38ea
+828,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,LRIR,Limb Radiance Inversion Radiometer,dcbdea47-3a76-428f-b58c-f9203a960b59
+829,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MAPIR,Marshall Airborne Polarimetric Imaging Radiometer,a9acad98-de3f-4c93-b2b6-c795136ab06e
+830,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MFR/SSH,MULTICHANNEL FILTER RADIOMETERS/SPECIAL SENSOR H (SSH),def2dfaa-ab01-4b32-b1b2-ea3f3fdc9ef2
+831,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MFRSR,Multifilter Rotating Shadowband Radiometer and Broadband Pyranometer,e060e0ba-0168-4d2b-a41f-3a83cee49f00
+832,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MIR,Millimeter Imaging Radiometer,32b8a132-9f49-4dc2-80bc-c48c9d36043d
+833,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MMR,Modular Multiband Radiometer,3d368ab3-07c6-49b9-b4b2-41dbeb4814e3
+834,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MRIR NIMBUS-2,Medium-Resolution Infrared Radiometer on NIMBUS-2,acdc388a-802f-4fa8-8f37-f95ad95a645e
+835,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MRIR NIMBUS-3,Medium-Resolution Infrared Radiometer on NIMBUS-3,a1b43096-d002-4e81-b4e7-b0ec20af9c79
+836,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MRIR,Medium Resolution Infrared Radiometer,0d4c0029-9a3c-47f7-b949-b42657dd822d
+837,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MRM,Miniaturized Radiation Monitor,43e9f45d-542b-4c76-9be6-1663399c9725
+838,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MR,MICROWAVE RADIOMETER,a0e116bb-56d8-4739-a83a-db7c4935fe72
+839,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MTSAT 1R Imager,,63437bc6-f068-4d54-8b46-53e27ab00b8c
+840,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MTSAT 2 Imager,,6d22671d-ff01-4b11-944b-5cb68f4e0c5e
+841,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MULTICHANNEL FILTER RADIOMETERS,,a9f6f54c-cc25-4a27-888b-a47b134f8663
+842,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MULTIFILTER RADIOMETER,,79e79dea-54f1-454d-9def-c05973de6208
+843,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,MWR,Microwave Water Radiometer,24536b41-a968-4626-9516-7cf4c158334c
+844,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,NFOVR,Narrow Field of View Radiometer,cde1ad93-a609-4f47-b11d-2dab1bba5eff
+845,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,NISTAR,National Institute of Standards and Technology Advanced Radiometer,b59f2392-310f-4542-bf7e-17c84f0c3242
+846,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,NMLR,Nebraska Multiband Leaf Radiometer,5c18b944-5015-4450-a16a-1179620b5aa5
+847,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,PARABOLA,Portable Apparatus Rapid Acquisition Bidirectional Observ Land and Atmos,cc237196-3891-40fb-b502-01fb09dae72f
+848,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,PMR,Pressure Modulated Radiometer,b1c3e433-935f-48c4-8f3d-9957ecd846f5
+849,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,RADIOMETERS,,184150ce-100e-485b-87db-839615af3d1a
+850,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,RAMS,Radiation Measurement System,e37f56fd-0a8c-4cbe-a903-8ae4358d3df4
+851,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,RSP,Research Scanning Polarimeter,88c74b6f-9713-4266-a7d4-b00182706c79
+852,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SCMR,Surface Composition Mapping Radiometer,77e2a8be-5470-4d34-9509-28fd0dc94558
+853,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SCR,Selective Chopper Radiometer,494ce358-a27e-41da-8858-17d224715ddd
+854,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SIPS,Smart Instrument Points,47d8a63b-98da-4aea-84ed-929ee0cc8b0e
+855,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SLSTR,Sea and Land Surface Temperature Radiometer,7204c4d5-b7d0-41af-ba90-61d47c6dc610
+856,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SMR,Sub-Millimeter Radiometer,c143ee20-1d14-4003-9043-f028c19f0265
+857,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,STEP FREQUENCY RADIOMETERS,,90b33fac-349c-4c13-9819-d295833a97a7
+858,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,SWIR,Short Wavelength Infrared Radiometer,b10f1d54-aa57-4e9d-8876-a1c5c3785660
+859,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,TDDR,Total-Direct-Diffuse Multichannel Radiometer,770216a2-85bc-4f52-9a5b-120a0c1f5796
+860,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,THIR,Temperature-Humidity Infrared Radiometer,5995cecc-a5da-4dd7-b78b-228454239292
+861,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,TMRS2,Tower Mounted Radiometer System 2,18b3f136-732e-4e1b-92fd-ca2a7f560330
+862,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,TMR,TOPEX Microwave Radiometer,c1a69b2c-52ff-4eb3-8e29-f1aaf5c0733c
+863,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,TNR,Thermopile Net Radiometer,5be26ec2-f2c1-4a9e-8a31-ee58d236712b
+864,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,WINDSAT,WindSat,75bd4312-5e45-4943-be24-343f42ee5c82
+865,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Radiometers,,,5b753e40-b3f1-426a-8d92-ffee1d675468
+866,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ACE-FTS,Fourier Transform Spectrometer,79db06d1-7b80-4f8d-8466-ac7cbed4926a
+867,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ACES,Airborne Cavity Enhanced Spectrometer,03f9c0b1-4dcd-4293-8bfa-5fe0608ab332
+868,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ACSM,Aerosol Chemical Speciation Monitor,8a106157-e0a0-4a3e-bed1-4ce3b8e06151
+869,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,AERS,Atmospheric/Emitted Radiation Sensor,30926fb0-7796-4ac1-9d8e-7cd1e4a4b7d1
+870,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,AES,Atmospheric Emission Spectrometer,6980f340-0c50-4d14-8d4e-7b0359e0aad6
+871,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ATMOS,Atmospheric Trace Molecule Spectroscopy,8932ecfa-bdcd-443d-8d21-30d9aa935f36
+872,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,AURORAL SPECTROGRAPH,,5ece73d7-9b45-4df4-a149-b637ea3ca577
+873,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,Aerodyne CAPS,Aerodyne Cavity Attenuated Phase-Shift Spectrometers,3235f243-ac44-4dbd-a94a-e413e98927ac
+874,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,BUV,Backscatter Ultraviolet,aa0da1eb-b50b-408b-8541-59b8dea64019
+875,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,CAMS,Compact Atmospheric Multispecies Spectrometer,f05736cc-2cac-4df5-8e03-cd572f8f1197
+876,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,CAPS,"Cloud, Aerosol, Precipitation Spectrometer",1bd248bb-0029-4bb3-ab6f-dafbcafa192b
+877,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,CLAES,Cryogenic Limb Array Etalon Spectrometer,4456d205-404e-48c0-8fe8-5e3eaf5ecfea
+878,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,CLOUD TOP SPECTROMETER,,81e1ee64-0668-4369-a8a1-4dd21f7ab880
+879,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,COSPEC,Correlation Spectrometer,51233a6a-ba89-4a05-8692-0934edbadcba
+880,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,CPSPD,Cloud Particle Spectrometer with Polarized Detection,05919a1b-a95d-4bb5-a597-55150efbb568
+881,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,DFGAS,"Difference Frequency Generation Absorption Spectrometer developed by University of Colorado, Boulder",73242f79-660e-4202-98b9-80111fe44e22
+882,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,DMT UHSAS,Ultra-High Sensitivity Aerosol Spectrometer Manufactured by Droplet Measurement Technologies,2dc89734-7e34-4bf8-83c8-0e3d75f850e8
+883,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,DOAS,Differential Optical Absorption Spectrometers,2a1ec50d-e931-49d3-b45d-fc5108c4f92b
+884,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,EB SPECTROMETER,Ebert-Fastie Spectrometer,399fa153-9fe9-4774-8764-bd98810f2cd9
+885,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FCAS II,Focused Cavity Aerosol Spectrometer II,67ea269c-cccd-405a-8911-177b947ec93d
+886,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FCAS,Focused Cavity Aerosol Spectrometer,5f247d6b-9402-47e5-8ee7-33920a7752ae
+887,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FIRSC,Far-Infrared Sensor for Cirrus,badb0356-46e0-47b8-9697-0e068358c91e
+888,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FOURIER TRANSFORM SPECTROMETERS,,1536cab4-190b-4a58-8185-b183b124e76c
+889,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FPS,Fabry-Perot Spectrometer,9f8cb294-2481-45b3-a3e4-76026fe1567a
+890,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FSSP,Forward Scattering Spectrometer Probe,ea9c102c-6987-445e-a869-c853d2d8e912
+891,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,FTIR SPECTROMETER,Fourier Transform Infrared Spectrometer,aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2
+892,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,GOLD,Global-scale Observations of the Limb and Disk,b68224a0-262d-4001-94b8-e10a3fd7e799
+893,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,GOME-2,Global Ozone Monitoring Experiment-2,5eaf2209-904b-49c8-b99f-1e8550cf95d0
+894,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,GOME,Global Ozone Monitoring Experiment,a0b0fd02-9952-4110-bac9-940a1b6e996f
+895,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,GOMOS,Global Ozone Monitoring by Occultation of Stars,3074a6af-8f37-40b8-9538-7a0d892d8763
+896,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,GRILLE,Grille Spectrometer,d1fa64b3-b413-4930-bc16-4f364e54f093
+897,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,HARP,HIAPER Airborne Radiation Package,8f368c9f-5dd7-42f6-8cd1-086c23ef6cdd
+898,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,HUPCRS,Harvard University Picarro Cavity Ring Down Spectrometer (HUPCRS),6312933a-1109-44a7-80c4-67d55cbbc722
+899,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ILAS II,Improved Limb Atmospheric Spectrometer-II,7dcfb92b-2372-41df-8f5a-787f983065b5
+900,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,ILAS,Improved Limb Atmospheric Spectrometer,b5f54e44-f6fc-4abc-afb2-b098f8ef061c
+901,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,INFRARED INSTRUMENT SUITE,Infrared Instrument Suite (CLARREO),e446f7ff-cc80-43d1-95bf-a7278203bb78
+902,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,IRM,Imaging and Rapid-scanning Ion Mass Spectrometer,a96885e0-9dc1-4edb-bc29-1cdb320d50f2
+903,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,LPSP,Multichannel High Resolution UV and Visible Spectrometer,e999ce1b-d55c-40b8-a3c3-c4e93b34529d
+904,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,LWCC,Liquid Waveguide Capillary Cells,706feedf-c671-44e8-9c37-284517cc0cbe
+905,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MAESTRO,Measurements of Aerosol Extinct in the Stratos.and Tropos. Retr. by Occultation,f19de526-fe67-4c5e-8b9c-f7d5123e2ebc
+906,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MAGNETO OPTICAL FILTER,,b8be465a-8266-4f75-be28-55657a63de60
+907,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MAMS,Multispectral Mapping Atmospheric Sensor,bacafa70-2fbe-4869-98bd-ba2b4a49d5f2
+908,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MAPS,Measurement of Air Pollution from Satellite,bc9a1191-24df-4d8c-afa7-da5948f79d20
+909,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MASPR,Multiple-Angle Aerosol Spectrometer Probe,fd5678a0-5d76-4cde-90da-4316bf535212
+910,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MIMS,Magnetic Ion-Mass Spectrometer,c6e97a0f-910e-4402-b283-e4a985fdbf28
+911,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,MMRS,Multispectral Medium Resolution Scanner,3b47c92b-f424-486b-9c3a-24fa004c0b90
+912,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,N-MASS,Nucleation-Mode Aerosol Size Spectrometer,2ef354d6-de14-42f5-99ec-73fbc9dac4de
+913,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,NEAR-INFRARED SPECTROMETER,,81ec51b3-31eb-4c2c-b196-582d29d8fbc5
+914,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,NOAA-O3,Dural Channel UV Absorption Spectrometer (NOAA-O3),53917e58-9617-44b8-9e93-07d9672b5cac
+915,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OCO SPECTROMETERS,Orbiting Carbon Observatory Spectrometers,1a9cdda7-cf98-43c9-a877-b65f0ce86ba8
+916,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OCO-2,Orbiting Carbon Observatory - 2,b2fbdd42-4bd8-4462-8a00-1e81e1281fa8
+917,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OCO-3,Orbiting Carbon Observatory - 3,d2903b14-616d-4425-b9ac-40e5c954821f
+918,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OMI,Ozone Monitoring Instrument,6a1e1356-a04f-47d2-a1b7-34475c7a5f9a
+919,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OMPS-N,Ozone Mapping and Profiler Suite - Nadir,91923fed-61c3-4125-b69d-1eeccafce52c
+920,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OMPS,Ozone Mapping and Profiler Suite,6af7a52e-094d-4ba7-9174-ed967260939c
+921,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,OSS,Open-Source Neutral Mass Spectrometer,0252ac58-9091-4879-85e0-dc765d636e62
+922,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,PARTICLE SPECTROMETERS,,f8dee1bb-7104-47b8-ba1e-549b79a38853
+923,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,PES (SSJ/3),Precipitating Electron Spectrometer,78b5d442-f4e5-4e41-8eb2-809c87ec44ac
+924,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,PES,Photoelectron Spectrometer,5f9b8637-15f5-4072-8194-0a8b3b34cd1d
+925,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,RSMS,Rapid Single-particle Mass Spectrometer,0182b483-26de-4ba5-b0dd-2d44a5daeab2
+926,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SAGE III,Stratospheric Aerosol and Gas Experiment III,b9f2cf4a-c2f0-4e78-847f-71fbbbce2f24
+927,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SAGE II,Stratospheric Aerosol and Gas Experiment II,85882054-d455-492f-976e-d2ea12f35578
+928,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SAGE I,Stratospheric Aerosol and Gas Experiment I,8394197b-b391-45fe-bce4-dc156f8fe447
+929,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SCARAB,The Scanner for Radiation Budget,e3bb4369-8b1d-4c16-b2f1-5745058bee86
+930,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SCIAMACHY,Scanning Imaging Absorption Spectrometer for Atmospheric Chartography,782ba9cb-0707-4680-a446-9b7f0ff6477d
+931,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SIRS,Satellite Infrared Spectrometer,339fea8e-c365-4296-82e6-75759e3fc410
+932,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SOFIE,Solar Occultation for Ice Experiment,5057855a-7e45-47d8-ae4b-92b9c63a3deb
+933,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SPEC HVPS,SPEC High Volume Precipitation Spectrometer,756151d4-36d6-427e-99c1-cb012196a3ef
+934,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SPECTROGRAPHS,,21af6b5d-4da2-495f-885b-b7a7efa170e0
+935,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SPECTROMETERS,,ff8b57b5-881e-4ec3-8c1d-83c839dcbeea
+936,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,SSJ,Electron Spectrometer Special Sensor J (SSJ),a759efc0-0eb4-4e41-84f3-c6f49cca12ce
+937,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TANSO-CAI-2,Thermal And Near infrared Sensor for carbon Observation-Cloud and Aerosol Imager-2,e1d8d749-9818-4ddf-8f61-14ef63b6ce7b
+938,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TANSO-CAI,,e0f71e02-6540-4207-ba18-aacf55057144
+939,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TANSO-FTS-2,Thermal And Near infrared Sensor for carbon Observation-Fourier Transform Spectrometer-2,da57ac0a-e5ab-47f4-996f-06c12e1a4a62
+940,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TANSO-FTS,Thermal And Near Infrared Sensor For Carbon Observation,246e1807-5a25-4fee-8f2a-4f902c94146e
+941,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TEAMS,Time of Flight Energy Angle Mass Spectrometer,1c527672-f2ad-4b8a-aa83-25d5abf916f4
+942,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TES,Tropospheric Emission Spectrometer,5207aaad-b875-40ed-b2cc-69c1b112fe37
+943,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TIMS,Thermal Infrared Multispectral Scanner,1b947dd3-35e8-46a7-9dda-78789e06d767
+944,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,TOMS,Total Ozone Mapping Spectrometer,605a23e9-6d45-48dd-815f-4359f7b81627
+945,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,USB4000 Hemi,OceanOptics USB4000 Spectrometer (Hemispherical),24b5c870-6a34-4473-b992-7b045a6839fa
+946,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,USB4000 Tele,OceanOptics USB4000 Spectrometer (2º Telescope optics),5ab06add-f445-4dce-b20f-da107bb8ff45
+947,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,UV OZONE DETECTORS,Ultraviolet Ozone Detectors,2d17f6d1-6a60-48e7-aa37-d3942286e6a1
+948,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,UV SPECTROMETER,Ultraviolet Ozone Spectrometer,62bffa21-68c7-44e6-bfaf-71412901af4d
+949,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,UVNO,Ultraviolet Nitric Oxide Spectrometer,74164619-dfe3-4235-ab39-43bf33fb4bb9
+950,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,VEGETATION-1,VEGETATION INSTRUMENT 1 (SPOT 4),0ea7e68a-6e72-4fca-88b0-1cacbd6182d4
+951,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,VEGETATION-2,VEGETATION INSTRUMENT 2 (SPOT 5),c0c7a50a-52c3-42e1-a702-bb39bb5ace08
+952,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,VISIBLE SPECTROMETER,,c28a3be2-f739-49c1-8621-2be3905f91f5
+953,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,WATS,Wind and Temperature Spectrometer,6408232b-6537-449c-9ec3-999129deb2f9
+954,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectrometers,,,055a79c7-61db-4250-abad-f1e09909f14c
+955,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectroradiometers,ASAS,Advanced Solid-state Array Spectroradiometer,da9cf145-0986-42b4-9ae4-c8b65932ee77
+956,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectroradiometers,CAFS,CCD-based Actinic Flux Spectroradiometer,3888f804-5a7a-4179-aa36-80e84d4e8c73
+957,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectroradiometers,SAFS,Scanning Actinic Flux Spectroradiometer,5a28269b-4c23-4e12-a42d-58220dca7eb3
+958,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectroradiometers,SPECTRORADIOMETERS,,937585ae-67a1-44a5-b88a-612667d353ea
+959,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,Spectroradiometers,,,8c02cd6b-89d0-423e-b96f-4b4fba94f5d2
+960,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,,3D-IMAGER,,7d8a1068-e9a0-4698-89c4-d136a08fffa4
+961,Earth Remote Sensing Instruments,Passive Remote Sensing,Spectrometers/Radiometers,,,,2e38423f-a5e6-411a-88d3-8fdc00aaf30a
+962,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,PYRGEOMETERS,CG4,CG-4 PYRGEOMETER (CG4),86d56006-93bf-4cbc-9c1f-8a3ca2fea45a
+963,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,PYRGEOMETERS,Pyrgeometer,Pyrgeometer,be3f59cc-d501-45d3-b4be-ac24e10c9eb0
+964,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,PYRGEOMETERS,,,7bf2a88f-52e6-4903-abe8-3765a3e8c6ae
+965,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,ACTINOMETER,Radiation Thermocouple Actinometer,2f239f48-f42e-4129-a3f2-c7a9861c5583
+966,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,BOLOMETERS,,b8da0692-df8a-4f81-9256-50cce6000301
+967,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,FAN-ASPIRATED RADIATION SHIELD,,529b7330-c88f-426a-ae2b-7aa640beb5f2
+968,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,FLIR,Forward Looking Infrared Imager,1e9749cb-84f8-49d9-8af9-2df5f1b7c20c
+969,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,GFE-3R DOSIMETER,Radiation Dosimeter (SSJ*),55c84391-ef1c-4318-9a8f-c2072e5a864a
+970,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,PYRANOGRAPHS,,c35d861f-7877-4cfa-9a55-e1722047efc6
+971,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,PYRANOMETERS,,6bab9a56-28b2-44f3-9673-d9cd0bee44bc
+972,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,PYRHELIOMETERS,,7a59245f-a074-470f-8b93-8ba7a6177afb
+973,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,PYRRADIOMETERS,,a9f8dd0d-94ff-48fa-ba0f-ec5b89519bbf
+974,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,RRS,Reflected Radiation Sensor,43d8f22f-2c9a-4aac-bc11-c2f08ce4623c
+975,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,SOLARIMETERS,,97aedd07-23eb-4983-8712-188d6949b3ce
+976,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,SPACE RADIATION DOSIMETER,,bf168eb9-97ed-4396-8013-13e4a35c3697
+977,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,SREM,Space Radiation Environment Monitor,063d678b-bc2b-4bb1-b695-210c5d97049c
+978,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,SSFR,Solar Spectral Flux Radiometers,528625c1-18bf-4e66-baf6-21b26980f39d
+979,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,TD-LIF,"Thermal Dissociation Laser Induced Fluorescents developed by University of California, Berkley",e910e0c5-5cd3-420c-be6e-c909f487ed6c
+980,Earth Remote Sensing Instruments,Passive Remote Sensing,Thermal/Radiation Detectors,,,,5440f386-8dac-4779-91a6-e610a06ab6f5
+981,Earth Remote Sensing Instruments,Passive Remote Sensing,,,,,4f81c61c-f100-4bc4-9664-d9b70d2f162f

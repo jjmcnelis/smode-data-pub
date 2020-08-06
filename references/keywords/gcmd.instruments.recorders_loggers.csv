@@ -1,0 +1,41 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+1344,In Situ/Laboratory Instruments,Recorders/Loggers,,,2DVD,Two-dimensional Video Disdrometer (2DVD),0648b8de-c21e-4707-8148-c37b66c86207
+1345,In Situ/Laboratory Instruments,Recorders/Loggers,,,ALTUS DATA COLLECTION SYSTEM,,709e6e72-0f04-4847-8eed-bb0cfd7ca9d7
+1346,In Situ/Laboratory Instruments,Recorders/Loggers,,,APU,Autonomous Parsivel Unit (APU),b301234c-2e9d-4266-9f32-74e323fffa7c
+1347,In Situ/Laboratory Instruments,Recorders/Loggers,,,AWIN,Automatic Weigh and Identification Nest-System,2c839e60-aa49-4854-92f7-1c149177c45b
+1348,In Situ/Laboratory Instruments,Recorders/Loggers,,,AWS,Automated Weather System,2fc6cda0-bc5f-4614-95f2-0abadee5d476
+1349,In Situ/Laboratory Instruments,Recorders/Loggers,,,BR,Benndorf Recorder,b892aed3-2fcb-476a-86ae-a5d35cf6defc
+1350,In Situ/Laboratory Instruments,Recorders/Loggers,,,CLOCKS,,8742da0d-37b0-4807-8f6b-fc9fd0a82c39
+1351,In Situ/Laboratory Instruments,Recorders/Loggers,,,CPR,Continuous Plankton Recorder,1d185518-66d4-49cf-9c35-e8fa7740b66d
+1352,In Situ/Laboratory Instruments,Recorders/Loggers,,,CSR,Compressive Strength Recorder,08ed1af5-b984-40d8-bedc-3c9d9e77c11a
+1353,In Situ/Laboratory Instruments,Recorders/Loggers,,,DADS,DC-8 DATA ACQUISITION AND DISTRIBUTION SYSTEM,f724bf90-7f0a-472f-950f-747201f7c711
+1354,In Situ/Laboratory Instruments,Recorders/Loggers,,,DENDROMETERS,,34929d50-da72-4ed0-90dd-b4b72153c9b4
+1355,In Situ/Laboratory Instruments,Recorders/Loggers,,,DIGITIZER,,bbf6e856-4ca2-452b-9e47-3ee9bdd4010a
+1356,In Situ/Laboratory Instruments,Recorders/Loggers,,,DISDROMETERS,,c8b93e51-f52c-439f-8307-46ae6edb8389
+1357,In Situ/Laboratory Instruments,Recorders/Loggers,,,GLS,Geolocating Light Logger System,8fb78564-566c-462a-88c2-8857f89a4194
+1358,In Situ/Laboratory Instruments,Recorders/Loggers,,,GTR,Gunther and Tegetmeyer Recorder,00c994a8-64eb-4263-a3fa-85fd902bb91b
+1359,In Situ/Laboratory Instruments,Recorders/Loggers,,,HATDL,HOBO XT Air Temperature Logger,ae6487a4-eda6-4480-96a6-40f06f9c90b7
+1360,In Situ/Laboratory Instruments,Recorders/Loggers,,,HKTLM,Housekeeping Telemetry Data used to monitor ENVISAT functions,e18c90cb-7dfe-4135-83c8-97a393c1d057
+1361,In Situ/Laboratory Instruments,Recorders/Loggers,,,HKTM,Housekeeping Telemetry,8f4238da-89a6-4498-95d7-e23f3ccd5e8b
+1362,In Situ/Laboratory Instruments,Recorders/Loggers,,,ICATS,Information Collection and Transmission System,c00e5c26-4a6b-4e1a-90fe-2e6e9625724f
+1363,In Situ/Laboratory Instruments,Recorders/Loggers,,,IMU,INERTIAL MEASUREMENT UNIT,16268fa7-9efd-403d-9bcb-fc622d535ff6
+1364,In Situ/Laboratory Instruments,Recorders/Loggers,,,JW DISDROMETER,Joss-Waldvogel Disdrometer,3d579721-c916-4e6d-aa13-2633ea0a7fac
+1365,In Situ/Laboratory Instruments,Recorders/Loggers,,,MMS,Meteorological Measurement System,abbbe80b-be42-436f-a387-a5368aca9121
+1366,In Situ/Laboratory Instruments,Recorders/Loggers,,,NAVREC,ER-2 NAV RECORDER,84b4d4c6-3477-4616-92a4-bca59ad62a26
+1367,In Situ/Laboratory Instruments,Recorders/Loggers,,,OBDH,OnBoard Data Handling System,c050b29e-dea3-4d49-8f1f-db858ab87cbf
+1368,In Situ/Laboratory Instruments,Recorders/Loggers,,,OPTICAL DUST LOGGERS,DOWNHOLE OPTICAL DUST AND ASH LOGGERS,904d513b-585a-45c8-a568-a574fac7e954
+1369,In Situ/Laboratory Instruments,Recorders/Loggers,,,PDS,NASA P3-B Aircraft Data System developed by NASA LaRC,7566c63e-dfb9-4af2-8a15-7a30dde73b0c
+1370,In Situ/Laboratory Instruments,Recorders/Loggers,,,Passive Acoustic Recorder,,e455f0cf-b95e-4b05-9aab-fb0a2bfae36f
+1371,In Situ/Laboratory Instruments,Recorders/Loggers,,,RTMM,Real Time Mission Monitor,b103e3e4-093f-4ddb-a93b-29e0e950cc50
+1372,In Situ/Laboratory Instruments,Recorders/Loggers,,,SALINOMETERS,,ed79ec7b-a2df-4948-9877-b75e1fcb8782
+1373,In Situ/Laboratory Instruments,Recorders/Loggers,,,STILLING WELL,,a17e3ad4-d8f4-4f0d-86bd-777faf5ef2c7
+1374,In Situ/Laboratory Instruments,Recorders/Loggers,,,TAMMS,Turbulent Air Motion Measurement System,172007bb-2b5d-478a-8875-2aa653b9103d
+1375,In Situ/Laboratory Instruments,Recorders/Loggers,,,TEMPERATURE LOGGERS,,aa58ecd2-c726-48c5-86a3-ec592f6dc95e
+1376,In Situ/Laboratory Instruments,Recorders/Loggers,,,TNK,cold gas TaNK system,05be4881-c1ea-43fb-ab51-fd1196f61616
+1377,In Situ/Laboratory Instruments,Recorders/Loggers,,,Tally Counter,Tally Counter,e37e2077-0af4-483f-80f5-67f21ec5004d
+1378,In Situ/Laboratory Instruments,Recorders/Loggers,,,UNDERWATER VIDEO CAMERA,,0e775789-4ce9-4a71-857b-1cfdcfc9331b
+1379,In Situ/Laboratory Instruments,Recorders/Loggers,,,VOPC,Video Optical plankton Counter,9ed30338-eced-4102-b6e8-4a3b2affd490
+1380,In Situ/Laboratory Instruments,Recorders/Loggers,,,VPR,Video Plankton Recorder,48e65023-3282-4774-9174-5141435579c3
+1381,In Situ/Laboratory Instruments,Recorders/Loggers,,,WELL LOGGING TOOLS,,6a61127a-80e8-48ec-88d4-7e64ea689164
+1382,In Situ/Laboratory Instruments,Recorders/Loggers,,,WL/CR,WATER LEVEL/CLIMATE RECORDERS,0fad63bc-18ed-4a01-96ef-786a29de50fc
+1383,In Situ/Laboratory Instruments,Recorders/Loggers,,,,,ebfff02c-2e5a-476e-aafb-c00167bf2daa

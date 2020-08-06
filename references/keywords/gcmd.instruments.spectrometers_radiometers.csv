@@ -1,0 +1,44 @@
+,Category,Class,Type,Subtype,Short_Name,Long_Name,UUID
+1444,In Situ/Laboratory Instruments,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,,Field Spectroradiometer,,618d5de2-7915-4710-b1a2-09ed87a1debc
+1445,In Situ/Laboratory Instruments,Spectrometers/Radiometers,Hyperspectral Spectrometers/Radiometers,,,,ba49c933-5787-4e1f-a408-bc4af632e00a
+1446,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,4STAR,"Spectrometers for Sky-Scanning, Sun-Tracking Atmospheric Research",b0f93e6a-c766-4957-8762-5c7709487459
+1447,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,ALPHA-SPECTROMETERS,,233ee693-0e56-4d65-9790-830b3756dcb7
+1448,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,AMS,AEROSOL MASS SPECTROMETER,e3c7cce6-f46a-4c8b-81ea-3007bc792778
+1449,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,BGO,Bismuth Germanate Scintillator,d768b855-c464-4112-8c65-4edfa7ebbfeb
+1450,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,BIOMETER,BIOMETER,f49292f8-6010-42cd-a2fb-fabef80c71d4
+1451,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,BLIP,Boundary Layer Instrument Package,271b6866-10a0-4469-a1d1-0894bd1d14ec
+1452,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,CAS,Cloud and Aerosol Spectrometer,d1be0e72-acd4-4fae-90b2-2eba8b91861f
+1453,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,CFA,COLOR FILTER ARRAY,dc3731dc-f7bd-420b-a311-592f8836f462
+1454,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,CHEMILUMINESCENCE,,8f04fca0-2c0a-4265-8590-219d5c24e5b0
+1455,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,CIT-ToF-CIMS,Chemical Ionization Time-of-Flight Mass Spectrometer,8936f1d7-6fee-4a67-8c64-661eb8c836e1
+1456,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,COLORIMETERS,,69ccced6-f07e-4225-b1a0-fea6720a9ee8
+1457,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,DACOM,"Differential Absorption CO, CH4, N2O Measurements",534d85ff-0437-455e-b45b-fe3038aef23b
+1458,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,FIMS,Fast Integrated Mobility Spectrometer,d37362b4-6ebd-4494-b5fe-d2cc549a7fdf
+1459,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,FPDR-PDI,Flight Probe Dual Range Phase Doppler Interferometer,80493fab-ac58-4bc4-bd63-7da014e81b00
+1460,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,GC-EI-TOF,Gas Chromatography Electron Impact Mass Spectrometer,6594cfe7-b40d-4f91-b9e7-dd90b74d22f8
+1461,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,GCAS,Geostationary Coastal and Air Pollution Event (GEO-CAPE) Airborne Simulator,3cc591bb-9544-49e1-94c6-8d0aa0119113
+1462,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,GroundMSPI,Ground-Based Multiangle SpectroPolarimetric Imager,fe7b2ae5-ac9c-497c-9678-f37f13b14ed9
+1463,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,HAMSTRAD,H2O ANTARCTICA MICROWAVE STRATOSPHERIC AND TROPOSPHERIC RADIOMETER,d3a60685-20f2-4258-80ff-e5de153f2da7
+1464,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,HR-2014i,,fd8d30cf-1e2b-41e9-bb4e-ba5063bc7d9d
+1465,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,HSRL-2,,abdf08cd-03c5-4497-87a4-65493584e2c7
+1466,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,ICP-ES,INDUCTIVELY COUPLED PLASMA EMISSION SPECTROSCOPY,d43d3993-bee5-4b6f-9d28-68eb72f125ac
+1467,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,ICP-MS,Inductively Coupled Plasma Mass Spectrometer,616bdf0f-8797-496b-af3d-50974baa470c
+1468,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,IRMS,ISOTOPIC RATIO MASS SPECTROMETER,a939b8df-475b-4ea5-9e03-192ef969521a
+1469,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,LA-ICP-MS,Laser Ablation Inductively Coupled Plasma Mass Spectrometer,3e3d658f-1326-42b4-b3a8-3f897a8a2a42
+1470,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,MASS SPECTROMETERS,,09c35c61-d1ed-4591-b4d5-c539a2a0aec2
+1471,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,MC-ICP-MS,Multi Collector Inductively Coupled Plasma Mass Spectrometers,7f7ff5dd-5dd0-4e48-a9da-cc9d93418ef8
+1472,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,NET RADIOMETERS,,aa0f2b35-e7f2-47fe-a782-6c8040d5eb57
+1473,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,OPTSPEC,Optical Spectrometer,55facbdc-d4ed-4ee2-a74d-911b084c8ff8
+1474,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,PARTICLE SPECTROMETERS,,d87a2454-21ba-4218-a50a-33ddc9ec31c5
+1475,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,POSSSUM,Profiler Of Snow Specific Surface area Using SWIR reflectance Measurement,9bfce406-fc85-473e-b40a-2764c6a95371
+1476,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,PTI,Photothermal Interferometer,0db71d4f-2329-4adf-9e90-0a1af3458b1d
+1477,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SAOZ,Systeme d Analyse par Observation Zenithale,2ef83cb4-6573-4e56-9f80-aadbac6137e2
+1478,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SATI,Spectral Airglow Temperature Imager,26745635-1a01-4060-bbea-3b8134e1baee
+1479,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SIMS,Secondary Ion Mass Spectrometers,dc965068-fe7b-42bd-84cf-9b251b2397ea
+1480,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SKIYMET,All-Sky Interferometric Meteor Radar,abdf6205-bd05-4431-83bb-fa3f9a481cca
+1481,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SKY-RADIOMETER,,6bf351aa-7aad-4c9a-b2f5-b47bfe27f530
+1482,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,SpEx,Spectral Aerosol Extinction,337c284f-3158-48e5-8050-5d2744ba77a7
+1483,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,TD-GC-MS,Thermal Desoprtion Gas Chromatograph Mass Spectrometer,195f7965-459d-49e4-aad1-b1f23fa035da
+1484,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,WISPER,Water Isotope Spectrometer for Precipitation and Entrainment Research,39745f6d-fb59-4343-8060-5b391ce6e3be
+1485,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,XRF,X-Ray Fluorescence Spectrometer,665b8764-0c0a-4df7-96f1-4ddae0c6de18
+1486,In Situ/Laboratory Instruments,Spectrometers/Radiometers,,,,,ecd58f82-8f96-45e1-9547-dd4a02291bd9
