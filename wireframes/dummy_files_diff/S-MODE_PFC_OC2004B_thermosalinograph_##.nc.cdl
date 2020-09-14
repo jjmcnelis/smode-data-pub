@@ -1,0 +1,500 @@
+*** 
+--- 
+***************
+*** 6,33 ****
+  		time:long_name = "Time of Underway Salinity Profiling System measurement" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01T00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+  	double longitude(time) ;
+! 		longitude:_FillValue = NaN ;
+  		longitude:long_name = "Longitude of Underway Salinity Profiling System measurement" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+- 		longitude:axis = "X" ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "coordinate" ;
+  	double latitude(time) ;
+! 		latitude:_FillValue = NaN ;
+  		latitude:long_name = "Latitude of Underway Salinity Profiling System measurement" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+- 		latitude:axis = "Y" ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "coordinate" ;
+  	double speed_over_ground(time) ;
+! 		speed_over_ground:_FillValue = NaN ;
+  		speed_over_ground:long_name = "Speed Over Ground of Underway Salinity Profiling System measurement" ;
+  		speed_over_ground:valid_max = 20. ;
+  		speed_over_ground:valid_min = 0. ;
+--- 6,31 ----
+  		time:long_name = "Time of Underway Salinity Profiling System measurement" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01 00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+  	double longitude(time) ;
+! 		longitude:_FillValue = -9999. ;
+  		longitude:long_name = "Longitude of Underway Salinity Profiling System measurement" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "referenceInformation" ;
+  	double latitude(time) ;
+! 		latitude:_FillValue = -9999. ;
+  		latitude:long_name = "Latitude of Underway Salinity Profiling System measurement" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "referenceInformation" ;
+  	double speed_over_ground(time) ;
+! 		speed_over_ground:_FillValue = -9999. ;
+  		speed_over_ground:long_name = "Speed Over Ground of Underway Salinity Profiling System measurement" ;
+  		speed_over_ground:valid_max = 20. ;
+  		speed_over_ground:valid_min = 0. ;
+***************
+*** 38,44 ****
+  		speed_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		speed_over_ground:coordinates = "time longitude latitude" ;
+  	double course_over_ground(time) ;
+! 		course_over_ground:_FillValue = NaN ;
+  		course_over_ground:long_name = "Course Over Ground of Underway Salinity Profiling System measurement" ;
+  		course_over_ground:valid_max = 360. ;
+  		course_over_ground:valid_min = 0. ;
+--- 36,42 ----
+  		speed_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		speed_over_ground:coordinates = "time longitude latitude" ;
+  	double course_over_ground(time) ;
+! 		course_over_ground:_FillValue = -9999. ;
+  		course_over_ground:long_name = "Course Over Ground of Underway Salinity Profiling System measurement" ;
+  		course_over_ground:valid_max = 360. ;
+  		course_over_ground:valid_min = 0. ;
+***************
+*** 49,55 ****
+  		course_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		course_over_ground:coordinates = "time longitude latitude" ;
+  	double pressure_2m(time) ;
+! 		pressure_2m:_FillValue = NaN ;
+  		pressure_2m:long_name = "Pressure at 2m of Underway Salinity Profiling System measurement" ;
+  		pressure_2m:valid_max = 10. ;
+  		pressure_2m:valid_min = 0. ;
+--- 47,53 ----
+  		course_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		course_over_ground:coordinates = "time longitude latitude" ;
+  	double pressure_2m(time) ;
+! 		pressure_2m:_FillValue = -9999. ;
+  		pressure_2m:long_name = "Pressure at 2m of Underway Salinity Profiling System measurement" ;
+  		pressure_2m:valid_max = 10. ;
+  		pressure_2m:valid_min = 0. ;
+***************
+*** 60,66 ****
+  		pressure_2m:coverage_content_type = "physicalMeasurement" ;
+  		pressure_2m:coordinates = "time longitude latitude" ;
+  	double pressure_3m(time) ;
+! 		pressure_3m:_FillValue = NaN ;
+  		pressure_3m:long_name = "Pressure at 3m of Underway Salinity Profiling System measurement" ;
+  		pressure_3m:valid_max = 10. ;
+  		pressure_3m:valid_min = 0. ;
+--- 58,64 ----
+  		pressure_2m:coverage_content_type = "physicalMeasurement" ;
+  		pressure_2m:coordinates = "time longitude latitude" ;
+  	double pressure_3m(time) ;
+! 		pressure_3m:_FillValue = -9999. ;
+  		pressure_3m:long_name = "Pressure at 3m of Underway Salinity Profiling System measurement" ;
+  		pressure_3m:valid_max = 10. ;
+  		pressure_3m:valid_min = 0. ;
+***************
+*** 71,77 ****
+  		pressure_3m:coverage_content_type = "physicalMeasurement" ;
+  		pressure_3m:coordinates = "time longitude latitude" ;
+  	double density_2m(time) ;
+! 		density_2m:_FillValue = NaN ;
+  		density_2m:long_name = "Density at 2m of Underway Salinity Profiling System measurement" ;
+  		density_2m:valid_max = 1030. ;
+  		density_2m:valid_min = 1010. ;
+--- 69,75 ----
+  		pressure_3m:coverage_content_type = "physicalMeasurement" ;
+  		pressure_3m:coordinates = "time longitude latitude" ;
+  	double density_2m(time) ;
+! 		density_2m:_FillValue = -9999. ;
+  		density_2m:long_name = "Density at 2m of Underway Salinity Profiling System measurement" ;
+  		density_2m:valid_max = 1030. ;
+  		density_2m:valid_min = 1010. ;
+***************
+*** 82,88 ****
+  		density_2m:units = "kg m-3" ;
+  		density_2m:coverage_content_type = "physicalMeasurement" ;
+  	double density_3m(time) ;
+! 		density_3m:_FillValue = NaN ;
+  		density_3m:long_name = "Density at 3m of Underway Salinity Profiling System measurement" ;
+  		density_3m:valid_max = 1030. ;
+  		density_3m:valid_min = 1010. ;
+--- 80,86 ----
+  		density_2m:units = "kg m-3" ;
+  		density_2m:coverage_content_type = "physicalMeasurement" ;
+  	double density_3m(time) ;
+! 		density_3m:_FillValue = -9999. ;
+  		density_3m:long_name = "Density at 3m of Underway Salinity Profiling System measurement" ;
+  		density_3m:valid_max = 1030. ;
+  		density_3m:valid_min = 1010. ;
+***************
+*** 93,99 ****
+  		density_3m:units = "kg m-3" ;
+  		density_3m:coverage_content_type = "physicalMeasurement" ;
+  	double salinity_2m(time) ;
+! 		salinity_2m:_FillValue = NaN ;
+  		salinity_2m:long_name = "Salinity at 2m of Underway Salinity Profiling System measurement" ;
+  		salinity_2m:valid_max = 42. ;
+  		salinity_2m:valid_min = 2. ;
+--- 91,97 ----
+  		density_3m:units = "kg m-3" ;
+  		density_3m:coverage_content_type = "physicalMeasurement" ;
+  	double salinity_2m(time) ;
+! 		salinity_2m:_FillValue = -9999. ;
+  		salinity_2m:long_name = "Salinity at 2m of Underway Salinity Profiling System measurement" ;
+  		salinity_2m:valid_max = 42. ;
+  		salinity_2m:valid_min = 2. ;
+***************
+*** 104,110 ****
+  		salinity_2m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_2m:coordinates = "time longitude latitude" ;
+  	double salinity_3m(time) ;
+! 		salinity_3m:_FillValue = NaN ;
+  		salinity_3m:long_name = "Salinity at 3m of Underway Salinity Profiling System measurement" ;
+  		salinity_3m:valid_max = 42. ;
+  		salinity_3m:valid_min = 2. ;
+--- 102,108 ----
+  		salinity_2m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_2m:coordinates = "time longitude latitude" ;
+  	double salinity_3m(time) ;
+! 		salinity_3m:_FillValue = -9999. ;
+  		salinity_3m:long_name = "Salinity at 3m of Underway Salinity Profiling System measurement" ;
+  		salinity_3m:valid_max = 42. ;
+  		salinity_3m:valid_min = 2. ;
+***************
+*** 115,121 ****
+  		salinity_3m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_3m:coordinates = "time longitude latitude" ;
+  	double uncorrected_salinity_5m(time) ;
+! 		uncorrected_salinity_5m:_FillValue = NaN ;
+  		uncorrected_salinity_5m:long_name = "Uncorrected Salinity at 5m of Underway Salinity Profiling System measurement" ;
+  		uncorrected_salinity_5m:valid_max = 42. ;
+  		uncorrected_salinity_5m:valid_min = 2. ;
+--- 113,119 ----
+  		salinity_3m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_3m:coordinates = "time longitude latitude" ;
+  	double uncorrected_salinity_5m(time) ;
+! 		uncorrected_salinity_5m:_FillValue = -9999. ;
+  		uncorrected_salinity_5m:long_name = "Uncorrected Salinity at 5m of Underway Salinity Profiling System measurement" ;
+  		uncorrected_salinity_5m:valid_max = 42. ;
+  		uncorrected_salinity_5m:valid_min = 2. ;
+***************
+*** 126,132 ****
+  		uncorrected_salinity_5m:coverage_content_type = "physicalMeasurement" ;
+  		uncorrected_salinity_5m:coordinates = "time longitude latitude" ;
+  	double temperature_2m(time) ;
+! 		temperature_2m:_FillValue = NaN ;
+  		temperature_2m:long_name = "Temperature at 2m of Underway Salinity Profiling System measurement" ;
+  		temperature_2m:valid_max = 32. ;
+  		temperature_2m:valid_min = -1. ;
+--- 124,130 ----
+  		uncorrected_salinity_5m:coverage_content_type = "physicalMeasurement" ;
+  		uncorrected_salinity_5m:coordinates = "time longitude latitude" ;
+  	double temperature_2m(time) ;
+! 		temperature_2m:_FillValue = -9999. ;
+  		temperature_2m:long_name = "Temperature at 2m of Underway Salinity Profiling System measurement" ;
+  		temperature_2m:valid_max = 32. ;
+  		temperature_2m:valid_min = -1. ;
+***************
+*** 137,143 ****
+  		temperature_2m:coverage_content_type = "physicalMeasurement" ;
+  		temperature_2m:coordinates = "time longitude latitude" ;
+  	double temperature_3m(time) ;
+! 		temperature_3m:_FillValue = NaN ;
+  		temperature_3m:long_name = "Temperature at 3m of Underway Salinity Profiling System measurement" ;
+  		temperature_3m:valid_max = 32. ;
+  		temperature_3m:valid_min = -1. ;
+--- 135,141 ----
+  		temperature_2m:coverage_content_type = "physicalMeasurement" ;
+  		temperature_2m:coordinates = "time longitude latitude" ;
+  	double temperature_3m(time) ;
+! 		temperature_3m:_FillValue = -9999. ;
+  		temperature_3m:long_name = "Temperature at 3m of Underway Salinity Profiling System measurement" ;
+  		temperature_3m:valid_max = 32. ;
+  		temperature_3m:valid_min = -1. ;
+***************
+*** 148,154 ****
+  		temperature_3m:coverage_content_type = "physicalMeasurement" ;
+  		temperature_3m:coordinates = "time longitude latitude" ;
+  	double uncorrected_temperature_5m(time) ;
+! 		uncorrected_temperature_5m:_FillValue = NaN ;
+  		uncorrected_temperature_5m:long_name = "Uncorrected Temperature at 5m of Underway Salinity Profiling System measurement" ;
+  		uncorrected_temperature_5m:valid_max = 32. ;
+  		uncorrected_temperature_5m:valid_min = -1. ;
+--- 146,152 ----
+  		temperature_3m:coverage_content_type = "physicalMeasurement" ;
+  		temperature_3m:coordinates = "time longitude latitude" ;
+  	double uncorrected_temperature_5m(time) ;
+! 		uncorrected_temperature_5m:_FillValue = -9999. ;
+  		uncorrected_temperature_5m:long_name = "Uncorrected Temperature at 5m of Underway Salinity Profiling System measurement" ;
+  		uncorrected_temperature_5m:valid_max = 32. ;
+  		uncorrected_temperature_5m:valid_min = -1. ;
+***************
+*** 159,165 ****
+  		uncorrected_temperature_5m:coverage_content_type = "physicalMeasurement" ;
+  		uncorrected_temperature_5m:coordinates = "time longitude latitude" ;
+  	double downwelling_longwave_infrared_radiation(time) ;
+! 		downwelling_longwave_infrared_radiation:_FillValue = NaN ;
+  		downwelling_longwave_infrared_radiation:long_name = "Downwelling Longwave (infrared) Radiation" ;
+  		downwelling_longwave_infrared_radiation:valid_max = 600. ;
+  		downwelling_longwave_infrared_radiation:valid_min = 0. ;
+--- 157,163 ----
+  		uncorrected_temperature_5m:coverage_content_type = "physicalMeasurement" ;
+  		uncorrected_temperature_5m:coordinates = "time longitude latitude" ;
+  	double downwelling_longwave_infrared_radiation(time) ;
+! 		downwelling_longwave_infrared_radiation:_FillValue = -9999. ;
+  		downwelling_longwave_infrared_radiation:long_name = "Downwelling Longwave (infrared) Radiation" ;
+  		downwelling_longwave_infrared_radiation:valid_max = 600. ;
+  		downwelling_longwave_infrared_radiation:valid_min = 0. ;
+***************
+*** 170,176 ****
+  		downwelling_longwave_infrared_radiation:coverage_content_type = "physicalMeasurement" ;
+  		downwelling_longwave_infrared_radiation:coordinates = "time longitude latitude" ;
+  	double downwelling_shortwave_solar_radiation(time) ;
+! 		downwelling_shortwave_solar_radiation:_FillValue = NaN ;
+  		downwelling_shortwave_solar_radiation:long_name = "Downwelling Shortwave (solar) Radiation" ;
+  		downwelling_shortwave_solar_radiation:valid_max = 1500. ;
+  		downwelling_shortwave_solar_radiation:valid_min = 0. ;
+--- 168,174 ----
+  		downwelling_longwave_infrared_radiation:coverage_content_type = "physicalMeasurement" ;
+  		downwelling_longwave_infrared_radiation:coordinates = "time longitude latitude" ;
+  	double downwelling_shortwave_solar_radiation(time) ;
+! 		downwelling_shortwave_solar_radiation:_FillValue = -9999. ;
+  		downwelling_shortwave_solar_radiation:long_name = "Downwelling Shortwave (solar) Radiation" ;
+  		downwelling_shortwave_solar_radiation:valid_max = 1500. ;
+  		downwelling_shortwave_solar_radiation:valid_min = 0. ;
+***************
+*** 181,187 ****
+  		downwelling_shortwave_solar_radiation:coverage_content_type = "physicalMeasurement" ;
+  		downwelling_shortwave_solar_radiation:coordinates = "time longitude latitude" ;
+  	double relative_humidity(time) ;
+! 		relative_humidity:_FillValue = NaN ;
+  		relative_humidity:long_name = "Relative Humidity" ;
+  		relative_humidity:valid_max = 100. ;
+  		relative_humidity:valid_min = 0. ;
+--- 179,185 ----
+  		downwelling_shortwave_solar_radiation:coverage_content_type = "physicalMeasurement" ;
+  		downwelling_shortwave_solar_radiation:coordinates = "time longitude latitude" ;
+  	double relative_humidity(time) ;
+! 		relative_humidity:_FillValue = -9999. ;
+  		relative_humidity:long_name = "Relative Humidity" ;
+  		relative_humidity:valid_max = 100. ;
+  		relative_humidity:valid_min = 0. ;
+***************
+*** 192,198 ****
+  		relative_humidity:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity:coordinates = "time longitude latitude" ;
+  	double cumulative_rain(time) ;
+! 		cumulative_rain:_FillValue = NaN ;
+  		cumulative_rain:long_name = "Cumulative Rain" ;
+  		cumulative_rain:valid_max = 100. ;
+  		cumulative_rain:valid_min = 0. ;
+--- 190,196 ----
+  		relative_humidity:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity:coordinates = "time longitude latitude" ;
+  	double cumulative_rain(time) ;
+! 		cumulative_rain:_FillValue = -9999. ;
+  		cumulative_rain:long_name = "Cumulative Rain" ;
+  		cumulative_rain:valid_max = 100. ;
+  		cumulative_rain:valid_min = 0. ;
+***************
+*** 203,209 ****
+  		cumulative_rain:coverage_content_type = "physicalMeasurement" ;
+  		cumulative_rain:coordinates = "time longitude latitude" ;
+  	double wind_direction(time) ;
+! 		wind_direction:_FillValue = NaN ;
+  		wind_direction:long_name = "True Wind Direction at about 17 m above sea level (direction wind came from)" ;
+  		wind_direction:valid_max = 360. ;
+  		wind_direction:valid_min = 0. ;
+--- 201,207 ----
+  		cumulative_rain:coverage_content_type = "physicalMeasurement" ;
+  		cumulative_rain:coordinates = "time longitude latitude" ;
+  	double wind_direction(time) ;
+! 		wind_direction:_FillValue = -9999. ;
+  		wind_direction:long_name = "True Wind Direction at about 17 m above sea level (direction wind came from)" ;
+  		wind_direction:valid_max = 360. ;
+  		wind_direction:valid_min = 0. ;
+***************
+*** 214,220 ****
+  		wind_direction:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction:coordinates = "time longitude latitude" ;
+  	double wind_speed(time) ;
+! 		wind_speed:_FillValue = NaN ;
+  		wind_speed:long_name = "Wind Speed" ;
+  		wind_speed:valid_max = 50. ;
+  		wind_speed:valid_min = 0. ;
+--- 212,218 ----
+  		wind_direction:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction:coordinates = "time longitude latitude" ;
+  	double wind_speed(time) ;
+! 		wind_speed:_FillValue = -9999. ;
+  		wind_speed:long_name = "Wind Speed" ;
+  		wind_speed:valid_max = 50. ;
+  		wind_speed:valid_min = 0. ;
+***************
+*** 225,231 ****
+  		wind_speed:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed:coordinates = "time longitude latitude" ;
+  	double ship_heave(time) ;
+! 		ship_heave:_FillValue = NaN ;
+  		ship_heave:long_name = "Ship Heave" ;
+  		ship_heave:valid_max = 1.96 ;
+  		ship_heave:valid_min = -1.82533270122604 ;
+--- 223,229 ----
+  		wind_speed:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed:coordinates = "time longitude latitude" ;
+  	double ship_heave(time) ;
+! 		ship_heave:_FillValue = -9999. ;
+  		ship_heave:long_name = "Ship Heave" ;
+  		ship_heave:valid_max = 1.96 ;
+  		ship_heave:valid_min = -1.82533270122604 ;
+***************
+*** 236,242 ****
+  		ship_heave:coverage_content_type = "physicalMeasurement" ;
+  		ship_heave:coordinates = "time longitude latitude" ;
+  	double ship_pitch(time) ;
+! 		ship_pitch:_FillValue = NaN ;
+  		ship_pitch:long_name = "Ship Pitch Angle" ;
+  		ship_pitch:valid_max = 3.93533491404861 ;
+  		ship_pitch:valid_min = -3.92866468898443 ;
+--- 234,240 ----
+  		ship_heave:coverage_content_type = "physicalMeasurement" ;
+  		ship_heave:coordinates = "time longitude latitude" ;
+  	double ship_pitch(time) ;
+! 		ship_pitch:_FillValue = -9999. ;
+  		ship_pitch:long_name = "Ship Pitch Angle" ;
+  		ship_pitch:valid_max = 3.93533491404861 ;
+  		ship_pitch:valid_min = -3.92866468898443 ;
+***************
+*** 247,253 ****
+  		ship_pitch:coverage_content_type = "physicalMeasurement" ;
+  		ship_pitch:coordinates = "time longitude latitude" ;
+  	double ship_roll(time) ;
+! 		ship_roll:_FillValue = NaN ;
+  		ship_roll:long_name = "Ship Roll Angle" ;
+  		ship_roll:valid_max = 5.58933365877471 ;
+  		ship_roll:valid_min = -6.68800035941603 ;
+--- 245,251 ----
+  		ship_pitch:coverage_content_type = "physicalMeasurement" ;
+  		ship_pitch:coordinates = "time longitude latitude" ;
+  	double ship_roll(time) ;
+! 		ship_roll:_FillValue = -9999. ;
+  		ship_roll:long_name = "Ship Roll Angle" ;
+  		ship_roll:valid_max = 5.58933365877471 ;
+  		ship_roll:valid_min = -6.68800035941603 ;
+***************
+*** 258,264 ****
+  		ship_roll:coverage_content_type = "physicalMeasurement" ;
+  		ship_roll:coordinates = "time longitude latitude" ;
+  	double air_pressure(time) ;
+! 		air_pressure:_FillValue = NaN ;
+  		air_pressure:long_name = "Air Pressure" ;
+  		air_pressure:valid_max = 1020. ;
+  		air_pressure:valid_min = 1000. ;
+--- 256,262 ----
+  		ship_roll:coverage_content_type = "physicalMeasurement" ;
+  		ship_roll:coordinates = "time longitude latitude" ;
+  	double air_pressure(time) ;
+! 		air_pressure:_FillValue = -9999. ;
+  		air_pressure:long_name = "Air Pressure" ;
+  		air_pressure:valid_max = 1020. ;
+  		air_pressure:valid_min = 1000. ;
+***************
+*** 269,275 ****
+  		air_pressure:coverage_content_type = "physicalMeasurement" ;
+  		air_pressure:coordinates = "time longitude latitude" ;
+  	double air_temperature(time) ;
+! 		air_temperature:_FillValue = NaN ;
+  		air_temperature:long_name = "Air Temperature" ;
+  		air_temperature:valid_max = 40. ;
+  		air_temperature:valid_min = 0. ;
+--- 267,273 ----
+  		air_pressure:coverage_content_type = "physicalMeasurement" ;
+  		air_pressure:coordinates = "time longitude latitude" ;
+  	double air_temperature(time) ;
+! 		air_temperature:_FillValue = -9999. ;
+  		air_temperature:long_name = "Air Temperature" ;
+  		air_temperature:valid_max = 40. ;
+  		air_temperature:valid_min = 0. ;
+***************
+*** 287,298 ****
+  		:keywords = "EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > PRECIPITATION > PRECIPITATION RATE, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND SPEED, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND DIRECTION, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE" ;
+  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
+  		:conventions = "CF-1.8, ACDD-1.3" ;
+! 		:id = "PO.DAAC-SMODE-RVTSG" ;
+  		:uuid = "ccdf6e87-f99a-4907-a4b4-56fcc6be8ab2" ;
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "TBD" ;
+  		:platform = "In Situ Ocean-based Platforms > SHIPS > RV Oceanus" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Profilers/Sounders > > > THERMOSALINOGRAPHS" ;
+--- 285,296 ----
+  		:keywords = "EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > PRECIPITATION > PRECIPITATION RATE, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND SPEED, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND DIRECTION, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE" ;
+  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
+  		:conventions = "CF-1.8, ACDD-1.3" ;
+! 		:id = "PODAAC-SMODE-RVTSG" ;
+  		:uuid = "ccdf6e87-f99a-4907-a4b4-56fcc6be8ab2" ;
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "S-MODE_PFC_OC2004B_thermosalinograph_##.nc.cdl" ;
+  		:platform = "In Situ Ocean-based Platforms > SHIPS > RV Oceanus" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Profilers/Sounders > > > THERMOSALINOGRAPHS" ;
+***************
+*** 321,338 ****
+  		:sea_name = "Pacific" ;
+  		:geospatial_lat_min = 5.061344 ;
+  		:geospatial_lat_max = 18.6293995333687 ;
+! 		:geospatial_lat_units = "degrees" ;
+! 		:geospatial_lat_resolution = "0.1" ;
+  		:geospatial_lon_min = -157.110813733344 ;
+  		:geospatial_lon_max = -123.377014266668 ;
+! 		:geospatial_lon_units = "degrees" ;
+! 		:geospatial_lon_resolution = "0.1" ;
+  		:geospatial_vertical_min = 2. ;
+  		:geospatial_vertical_max = 5. ;
+! 		:geospatial_vertical_resolution = "1" ;
+! 		:geospatial_vertical_units = "m" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "x" ;
+! 		:time_coverage_end = "22-Sep-2016 23:59:55" ;
+! 		:date_created = "01-Sep-2020 14:19:07" ;
+  }
+--- 319,336 ----
+  		:sea_name = "Pacific" ;
+  		:geospatial_lat_min = 5.061344 ;
+  		:geospatial_lat_max = 18.6293995333687 ;
+! 		:geospatial_lat_units = "degrees_north" ;
+! 		:geospatial_lat_resolution = "0.1 degrees" ;
+  		:geospatial_lon_min = -157.110813733344 ;
+  		:geospatial_lon_max = -123.377014266668 ;
+! 		:geospatial_lon_units = "degrees_east" ;
+! 		:geospatial_lon_resolution = "0.1 degrees" ;
+  		:geospatial_vertical_min = 2. ;
+  		:geospatial_vertical_max = 5. ;
+! 		:geospatial_vertical_resolution = "1 meters" ;
+! 		:geospatial_vertical_units = "meters" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "YYYY-MM-DDTHH:MM:SS" ;
+! 		:time_coverage_end = "2016-09-22T23:59:55" ;
+! 		:date_created = "2020-09-01T14:19:07" ;
+  }
+

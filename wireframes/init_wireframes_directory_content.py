@@ -48,25 +48,20 @@ dummy_files_markup = listdir("dummy_files_markup/")
 # Loop the list of files and call ncdump.
 for f in files:
     print(f"\n# Call ncdump util [ {f} ]")
-    #print(f"ncdump -h '{f}' > '{dummy_files_dir}/{basename(f)}.cdl'")
     call(f"ncdump -h '{f}' > {dummy_files_dir}/{basename(f)}.cdl", shell=True)
-    #
-    # NOW DIFF FILES BETWEEN dummy_files AND dummy_files_markup, IF BOTH EXIST!
-    #
+
     # If marked up copy of this file exists, diff to `dummy_files_diff`:
     if f"{basename(f)}.cdl" in dummy_files_markup:
+        marked_up = join("dummy_files_markup/", f"{basename(f)}.cdl")
+        print(f" - Diff: {marked_up}\n")
 
         # Make it if there's not already a directory `dummy_files_diff`.
         if not isdir("dummy_files_diff"):
             mkdir("dummy_files_diff")
 
-        marked_up = join("dummy_files_markup/", f"{basename(f)}.cdl")
-
         # Read the from and to files for the diff.
         with open(f"{f}.cdl", "r") as ff, open(marked_up, "r") as tf:
             ffile, tfile = ff.readlines(), tf.readlines()
-
-        print(f" - Diff: {marked_up}\n")
 
         # Compare `f` to `markup` and write difference to file.
         with open(f"dummy_files_diff/{basename(f)}.cdl", "w") as d:

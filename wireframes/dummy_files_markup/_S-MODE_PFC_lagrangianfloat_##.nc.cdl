@@ -146,7 +146,7 @@ variables:
 		:keywords = "EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > TEMPERATURE PROFILES" ;
 		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
 		:conventions = "CF-1.8, ACDD-1.3" ;
-		:id = "PO.DAAC-SMODE-FLOAT" ;
+		:id = "PODAAC-SMODE-FLOAT" ;
 		:uuid = "ca63b056-e895-4723-9fb2-fc2fedc66c01" ;
 		:naming_authority = "gov.nasa" ;
 		:featureType = "timeSeries" ;
@@ -180,11 +180,11 @@ variables:
 		:sea_name = "Pacific" ;
 		:geospatial_lat_min = 7.85503149032593 ;
 		:geospatial_lat_max = 11.8912620544434 ;
-		:geospatial_lat_units = "degrees" ;
+		:geospatial_lat_units = "degrees_north" ;
 		:geospatial_lat_resolution = "0.1" ;
 		:geospatial_lon_min = -125.015312194824 ;
 		:geospatial_lon_max = -108.951736450195 ;
-		:geospatial_lon_units = "degrees" ;
+		:geospatial_lon_units = "degrees_east" ;
 		:geospatial_lon_resolution = "0.1" ;
 		:geospatial_vertical_min = 9.02827726415439e-05 ;
 		:geospatial_vertical_max = 160.111795419475 ;

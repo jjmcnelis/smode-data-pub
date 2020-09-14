@@ -1,0 +1,691 @@
+*** 
+--- 
+***************
+*** 7,36 ****
+  		time:comment = "Time from Ships Data Files" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01T00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+  	double latitude(time) ;
+! 		latitude:_FillValue = NaN ;
+  		latitude:long_name = "Latitude" ;
+  		latitude:comment = "Latitude from Ships Data Files" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+- 		latitude:axis = "Y" ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "coordinate" ;
+  	double longitude(time) ;
+! 		longitude:_FillValue = NaN ;
+  		longitude:long_name = "Longitude" ;
+  		longitude:comment = "Longitude from Ships Data Files" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+- 		longitude:axis = "X" ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "coordinate" ;
+  	double speed_over_ground(time) ;
+! 		speed_over_ground:_FillValue = NaN ;
+  		speed_over_ground:long_name = "Speed Over Ground from Ships Data Files" ;
+  		speed_over_ground:valid_max = 7.01995752416612 ;
+  		speed_over_ground:valid_min = 0.00121450605039624 ;
+--- 7,34 ----
+  		time:comment = "Time from Ships Data Files" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01 00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+  	double latitude(time) ;
+! 		latitude:_FillValue = -9999. ;
+  		latitude:long_name = "Latitude" ;
+  		latitude:comment = "Latitude from Ships Data Files" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "referenceInformation" ;
+  	double longitude(time) ;
+! 		longitude:_FillValue = -9999. ;
+  		longitude:long_name = "Longitude" ;
+  		longitude:comment = "Longitude from Ships Data Files" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "referenceInformation" ;
+  	double speed_over_ground(time) ;
+! 		speed_over_ground:_FillValue = -9999. ;
+  		speed_over_ground:long_name = "Speed Over Ground from Ships Data Files" ;
+  		speed_over_ground:valid_max = 7.01995752416612 ;
+  		speed_over_ground:valid_min = 0.00121450605039624 ;
+***************
+*** 41,47 ****
+  		speed_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		speed_over_ground:coordinates = "time longitude latitude" ;
+  	double course_over_ground(time) ;
+! 		course_over_ground:_FillValue = NaN ;
+  		course_over_ground:long_name = "Course Over Ground from Ships Data Files" ;
+  		course_over_ground:valid_max = 360. ;
+  		course_over_ground:valid_min = 0. ;
+--- 39,45 ----
+  		speed_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		speed_over_ground:coordinates = "time longitude latitude" ;
+  	double course_over_ground(time) ;
+! 		course_over_ground:_FillValue = -9999. ;
+  		course_over_ground:long_name = "Course Over Ground from Ships Data Files" ;
+  		course_over_ground:valid_max = 360. ;
+  		course_over_ground:valid_min = 0. ;
+***************
+*** 52,58 ****
+  		course_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		course_over_ground:coordinates = "time longitude latitude" ;
+  	double heading(time) ;
+! 		heading:_FillValue = NaN ;
+  		heading:long_name = "Heading from Ships Data Files" ;
+  		heading:valid_max = 360. ;
+  		heading:valid_min = 0. ;
+--- 50,56 ----
+  		course_over_ground:coverage_content_type = "physicalMeasurement" ;
+  		course_over_ground:coordinates = "time longitude latitude" ;
+  	double heading(time) ;
+! 		heading:_FillValue = -9999. ;
+  		heading:long_name = "Heading from Ships Data Files" ;
+  		heading:valid_max = 360. ;
+  		heading:valid_min = 0. ;
+***************
+*** 63,69 ****
+  		heading:coverage_content_type = "physicalMeasurement" ;
+  		heading:coordinates = "time longitude latitude" ;
+  	double eastward_current(time) ;
+! 		eastward_current:_FillValue = NaN ;
+  		eastward_current:long_name = "Eastward Current from ADCP Measurement" ;
+  		eastward_current:valid_max = 2. ;
+  		eastward_current:valid_min = -2. ;
+--- 61,67 ----
+  		heading:coverage_content_type = "physicalMeasurement" ;
+  		heading:coordinates = "time longitude latitude" ;
+  	double eastward_current(time) ;
+! 		eastward_current:_FillValue = -9999. ;
+  		eastward_current:long_name = "Eastward Current from ADCP Measurement" ;
+  		eastward_current:valid_max = 2. ;
+  		eastward_current:valid_min = -2. ;
+***************
+*** 74,80 ****
+  		eastward_current:coverage_content_type = "physicalMeasurement" ;
+  		eastward_current:coordinates = "time longitude latitude" ;
+  	double northward_current(time) ;
+! 		northward_current:_FillValue = NaN ;
+  		northward_current:long_name = "Northward Current from ADCP Measurement" ;
+  		northward_current:valid_max = 2. ;
+  		northward_current:valid_min = -2. ;
+--- 72,78 ----
+  		eastward_current:coverage_content_type = "physicalMeasurement" ;
+  		eastward_current:coordinates = "time longitude latitude" ;
+  	double northward_current(time) ;
+! 		northward_current:_FillValue = -9999. ;
+  		northward_current:long_name = "Northward Current from ADCP Measurement" ;
+  		northward_current:valid_max = 2. ;
+  		northward_current:valid_min = -2. ;
+***************
+*** 85,91 ****
+  		northward_current:coverage_content_type = "physicalMeasurement" ;
+  		northward_current:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_earth_18m(time) ;
+! 		wind_speed_relative_to_earth_18m:_FillValue = NaN ;
+  		wind_speed_relative_to_earth_18m:long_name = "Wind Speed relative to Earth at ~18m from Sonic Anemometers on the bow mast" ;
+  		wind_speed_relative_to_earth_18m:valid_max = 13.6921813602126 ;
+  		wind_speed_relative_to_earth_18m:valid_min = 0. ;
+--- 83,89 ----
+  		northward_current:coverage_content_type = "physicalMeasurement" ;
+  		northward_current:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_earth_18m(time) ;
+! 		wind_speed_relative_to_earth_18m:_FillValue = -9999. ;
+  		wind_speed_relative_to_earth_18m:long_name = "Wind Speed relative to Earth at ~18m from Sonic Anemometers on the bow mast" ;
+  		wind_speed_relative_to_earth_18m:valid_max = 13.6921813602126 ;
+  		wind_speed_relative_to_earth_18m:valid_min = 0. ;
+***************
+*** 96,102 ****
+  		wind_speed_relative_to_earth_18m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_earth_18m:coordinates = "time longitude latitude" ;
+  	double wind_direction_relative_to_earth(time) ;
+! 		wind_direction_relative_to_earth:_FillValue = NaN ;
+  		wind_direction_relative_to_earth:long_name = "Wind Direction relative to Earth from Sonic Anemometers on the bow mast" ;
+  		wind_direction_relative_to_earth:valid_max = 360. ;
+  		wind_direction_relative_to_earth:valid_min = 0. ;
+--- 94,100 ----
+  		wind_speed_relative_to_earth_18m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_earth_18m:coordinates = "time longitude latitude" ;
+  	double wind_direction_relative_to_earth(time) ;
+! 		wind_direction_relative_to_earth:_FillValue = -9999. ;
+  		wind_direction_relative_to_earth:long_name = "Wind Direction relative to Earth from Sonic Anemometers on the bow mast" ;
+  		wind_direction_relative_to_earth:valid_max = 360. ;
+  		wind_direction_relative_to_earth:valid_min = 0. ;
+***************
+*** 107,113 ****
+  		wind_direction_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_earth(time) ;
+! 		wind_speed_relative_to_earth:_FillValue = NaN ;
+  		wind_speed_relative_to_earth:long_name = "Wind Speed relative to Earth adjusted to 10m computed from ADCP measurements" ;
+  		wind_speed_relative_to_earth:valid_max = 13.0163613641973 ;
+  		wind_speed_relative_to_earth:valid_min = 0. ;
+--- 105,111 ----
+  		wind_direction_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_earth(time) ;
+! 		wind_speed_relative_to_earth:_FillValue = -9999. ;
+  		wind_speed_relative_to_earth:long_name = "Wind Speed relative to Earth adjusted to 10m computed from ADCP measurements" ;
+  		wind_speed_relative_to_earth:valid_max = 13.0163613641973 ;
+  		wind_speed_relative_to_earth:valid_min = 0. ;
+***************
+*** 118,124 ****
+  		wind_speed_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double neutral_wind_speed_relative_to_earth(time) ;
+! 		neutral_wind_speed_relative_to_earth:_FillValue = NaN ;
+  		neutral_wind_speed_relative_to_earth:long_name = "Neutral Wind Speed relative to Earth adjusted to 10m and neutral stratification computed from ADCP measurements" ;
+  		neutral_wind_speed_relative_to_earth:valid_max = 13.1644591886842 ;
+  		neutral_wind_speed_relative_to_earth:valid_min = 0. ;
+--- 116,122 ----
+  		wind_speed_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double neutral_wind_speed_relative_to_earth(time) ;
+! 		neutral_wind_speed_relative_to_earth:_FillValue = -9999. ;
+  		neutral_wind_speed_relative_to_earth:long_name = "Neutral Wind Speed relative to Earth adjusted to 10m and neutral stratification computed from ADCP measurements" ;
+  		neutral_wind_speed_relative_to_earth:valid_max = 13.1644591886842 ;
+  		neutral_wind_speed_relative_to_earth:valid_min = 0. ;
+***************
+*** 129,135 ****
+  		neutral_wind_speed_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		neutral_wind_speed_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_18m(time) ;
+! 		wind_speed_relative_to_water_18m:_FillValue = NaN ;
+  		wind_speed_relative_to_water_18m:long_name = "Wind Speed relative to water at ~18m from Sonic Anemometers on the bow mast" ;
+  		wind_speed_relative_to_water_18m:valid_max = 13.7852907180786 ;
+  		wind_speed_relative_to_water_18m:valid_min = 0. ;
+--- 127,133 ----
+  		neutral_wind_speed_relative_to_earth:coverage_content_type = "physicalMeasurement" ;
+  		neutral_wind_speed_relative_to_earth:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_18m(time) ;
+! 		wind_speed_relative_to_water_18m:_FillValue = -9999. ;
+  		wind_speed_relative_to_water_18m:long_name = "Wind Speed relative to water at ~18m from Sonic Anemometers on the bow mast" ;
+  		wind_speed_relative_to_water_18m:valid_max = 13.7852907180786 ;
+  		wind_speed_relative_to_water_18m:valid_min = 0. ;
+***************
+*** 140,146 ****
+  		wind_speed_relative_to_water_18m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_18m:coordinates = "time longitude latitude" ;
+  	double wind_direction_relative_to_water(time) ;
+! 		wind_direction_relative_to_water:_FillValue = NaN ;
+  		wind_direction_relative_to_water:long_name = "Wind Direction relative to water from Sonic Anemometers on the bow mast" ;
+  		wind_direction_relative_to_water:valid_max = 360. ;
+  		wind_direction_relative_to_water:valid_min = 0. ;
+--- 138,144 ----
+  		wind_speed_relative_to_water_18m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_18m:coordinates = "time longitude latitude" ;
+  	double wind_direction_relative_to_water(time) ;
+! 		wind_direction_relative_to_water:_FillValue = -9999. ;
+  		wind_direction_relative_to_water:long_name = "Wind Direction relative to water from Sonic Anemometers on the bow mast" ;
+  		wind_direction_relative_to_water:valid_max = 360. ;
+  		wind_direction_relative_to_water:valid_min = 0. ;
+***************
+*** 151,157 ****
+  		wind_direction_relative_to_water:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction_relative_to_water:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_2m(time) ;
+! 		wind_speed_relative_to_water_2m:_FillValue = NaN ;
+  		wind_speed_relative_to_water_2m:long_name = "Wind Speed relative to water adjusted to 2m computed from ADCP measurements" ;
+  		wind_speed_relative_to_water_2m:valid_max = 11.1033296585083 ;
+  		wind_speed_relative_to_water_2m:valid_min = 0. ;
+--- 149,155 ----
+  		wind_direction_relative_to_water:coverage_content_type = "physicalMeasurement" ;
+  		wind_direction_relative_to_water:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_2m(time) ;
+! 		wind_speed_relative_to_water_2m:_FillValue = -9999. ;
+  		wind_speed_relative_to_water_2m:long_name = "Wind Speed relative to water adjusted to 2m computed from ADCP measurements" ;
+  		wind_speed_relative_to_water_2m:valid_max = 11.1033296585083 ;
+  		wind_speed_relative_to_water_2m:valid_min = 0. ;
+***************
+*** 162,168 ****
+  		wind_speed_relative_to_water_2m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_2m:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_10m(time) ;
+! 		wind_speed_relative_to_water_10m:_FillValue = NaN ;
+  		wind_speed_relative_to_water_10m:long_name = "Wind Speed relative to water adjusted to 10m computed from ADCP measurements" ;
+  		wind_speed_relative_to_water_10m:valid_max = 13.1284875869751 ;
+  		wind_speed_relative_to_water_10m:valid_min = 0. ;
+--- 160,166 ----
+  		wind_speed_relative_to_water_2m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_2m:coordinates = "time longitude latitude" ;
+  	double wind_speed_relative_to_water_10m(time) ;
+! 		wind_speed_relative_to_water_10m:_FillValue = -9999. ;
+  		wind_speed_relative_to_water_10m:long_name = "Wind Speed relative to water adjusted to 10m computed from ADCP measurements" ;
+  		wind_speed_relative_to_water_10m:valid_max = 13.1284875869751 ;
+  		wind_speed_relative_to_water_10m:valid_min = 0. ;
+***************
+*** 173,179 ****
+  		wind_speed_relative_to_water_10m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_10m:coordinates = "time longitude latitude" ;
+  	double neutral_wind_speed_relative_to_water(time) ;
+! 		neutral_wind_speed_relative_to_water:_FillValue = NaN ;
+  		neutral_wind_speed_relative_to_water:long_name = "Neutral Wind Speed relative to water adjusted to 10m and neutral stratification computed from ADCP measurements" ;
+  		neutral_wind_speed_relative_to_water:valid_max = 13.3476314544678 ;
+  		neutral_wind_speed_relative_to_water:valid_min = 0. ;
+--- 171,177 ----
+  		wind_speed_relative_to_water_10m:coverage_content_type = "physicalMeasurement" ;
+  		wind_speed_relative_to_water_10m:coordinates = "time longitude latitude" ;
+  	double neutral_wind_speed_relative_to_water(time) ;
+! 		neutral_wind_speed_relative_to_water:_FillValue = -9999. ;
+  		neutral_wind_speed_relative_to_water:long_name = "Neutral Wind Speed relative to water adjusted to 10m and neutral stratification computed from ADCP measurements" ;
+  		neutral_wind_speed_relative_to_water:valid_max = 13.3476314544678 ;
+  		neutral_wind_speed_relative_to_water:valid_min = 0. ;
+***************
+*** 184,190 ****
+  		neutral_wind_speed_relative_to_water:coverage_content_type = "physicalMeasurement" ;
+  		neutral_wind_speed_relative_to_water:coordinates = "time longitude latitude" ;
+  	double air_temperature_16p5m(time) ;
+! 		air_temperature_16p5m:_FillValue = NaN ;
+  		air_temperature_16p5m:long_name = "Air Temperature" ;
+  		air_temperature_16p5m:comment = "Air Temperature at ~16.5m from calibrated WHOI and UConn Air Temperature Sensors on the bow mast" ;
+  		air_temperature_16p5m:valid_max = 28.7145162081041 ;
+--- 182,188 ----
+  		neutral_wind_speed_relative_to_water:coverage_content_type = "physicalMeasurement" ;
+  		neutral_wind_speed_relative_to_water:coordinates = "time longitude latitude" ;
+  	double air_temperature_16p5m(time) ;
+! 		air_temperature_16p5m:_FillValue = -9999. ;
+  		air_temperature_16p5m:long_name = "Air Temperature" ;
+  		air_temperature_16p5m:comment = "Air Temperature at ~16.5m from calibrated WHOI and UConn Air Temperature Sensors on the bow mast" ;
+  		air_temperature_16p5m:valid_max = 28.7145162081041 ;
+***************
+*** 196,202 ****
+  		air_temperature_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		air_temperature_16p5m:coordinates = "time longitude latitude" ;
+  	double air_temperature(time) ;
+! 		air_temperature:_FillValue = NaN ;
+  		air_temperature:long_name = "Air Temperature" ;
+  		air_temperature:comment = "Air Temperature adjusted to 10m from calibrated WHOI and UConn Air Temperature Sensors on the bow mast" ;
+  		air_temperature:valid_max = 28.792594909668 ;
+--- 194,200 ----
+  		air_temperature_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		air_temperature_16p5m:coordinates = "time longitude latitude" ;
+  	double air_temperature(time) ;
+! 		air_temperature:_FillValue = -9999. ;
+  		air_temperature:long_name = "Air Temperature" ;
+  		air_temperature:comment = "Air Temperature adjusted to 10m from calibrated WHOI and UConn Air Temperature Sensors on the bow mast" ;
+  		air_temperature:valid_max = 28.792594909668 ;
+***************
+*** 208,214 ****
+  		air_temperature:coverage_content_type = "physicalMeasurement" ;
+  		air_temperature:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_5cm(time) ;
+! 		near_sea_surface_temperature_5cm:_FillValue = NaN ;
+  		near_sea_surface_temperature_5cm:long_name = "Near Surface Sea Temperature at ~5cm from Sea-Snake after callibration with Osspre Sensors" ;
+  		near_sea_surface_temperature_5cm:valid_max = 32. ;
+  		near_sea_surface_temperature_5cm:valid_min = -1. ;
+--- 206,212 ----
+  		air_temperature:coverage_content_type = "physicalMeasurement" ;
+  		air_temperature:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_5cm(time) ;
+! 		near_sea_surface_temperature_5cm:_FillValue = -9999. ;
+  		near_sea_surface_temperature_5cm:long_name = "Near Surface Sea Temperature at ~5cm from Sea-Snake after callibration with Osspre Sensors" ;
+  		near_sea_surface_temperature_5cm:valid_max = 32. ;
+  		near_sea_surface_temperature_5cm:valid_min = -1. ;
+***************
+*** 219,225 ****
+  		near_sea_surface_temperature_5cm:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_5cm:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_2m(time) ;
+! 		near_sea_surface_temperature_2m:_FillValue = NaN ;
+  		near_sea_surface_temperature_2m:long_name = "Near Surface Sea Temperature at 2m from USPS" ;
+  		near_sea_surface_temperature_2m:valid_max = 32. ;
+  		near_sea_surface_temperature_2m:valid_min = -1. ;
+--- 217,223 ----
+  		near_sea_surface_temperature_5cm:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_5cm:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_2m(time) ;
+! 		near_sea_surface_temperature_2m:_FillValue = -9999. ;
+  		near_sea_surface_temperature_2m:long_name = "Near Surface Sea Temperature at 2m from USPS" ;
+  		near_sea_surface_temperature_2m:valid_max = 32. ;
+  		near_sea_surface_temperature_2m:valid_min = -1. ;
+***************
+*** 230,236 ****
+  		near_sea_surface_temperature_2m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_2m:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_3m(time) ;
+! 		near_sea_surface_temperature_3m:_FillValue = NaN ;
+  		near_sea_surface_temperature_3m:long_name = "Near Surface Sea Temperature at 3m from USPS" ;
+  		near_sea_surface_temperature_3m:valid_max = 32. ;
+  		near_sea_surface_temperature_3m:valid_min = -1. ;
+--- 228,234 ----
+  		near_sea_surface_temperature_2m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_2m:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_3m(time) ;
+! 		near_sea_surface_temperature_3m:_FillValue = -9999. ;
+  		near_sea_surface_temperature_3m:long_name = "Near Surface Sea Temperature at 3m from USPS" ;
+  		near_sea_surface_temperature_3m:valid_max = 32. ;
+  		near_sea_surface_temperature_3m:valid_min = -1. ;
+***************
+*** 241,247 ****
+  		near_sea_surface_temperature_3m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_3m:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_5m(time) ;
+! 		near_sea_surface_temperature_5m:_FillValue = NaN ;
+  		near_sea_surface_temperature_5m:long_name = "Near Surface Sea Temperature at 5m from thermosalinograph" ;
+  		near_sea_surface_temperature_5m:valid_max = 32. ;
+  		near_sea_surface_temperature_5m:valid_min = -1. ;
+--- 239,245 ----
+  		near_sea_surface_temperature_3m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_3m:coordinates = "time longitude latitude" ;
+  	double near_sea_surface_temperature_5m(time) ;
+! 		near_sea_surface_temperature_5m:_FillValue = -9999. ;
+  		near_sea_surface_temperature_5m:long_name = "Near Surface Sea Temperature at 5m from thermosalinograph" ;
+  		near_sea_surface_temperature_5m:valid_max = 32. ;
+  		near_sea_surface_temperature_5m:valid_min = -1. ;
+***************
+*** 252,258 ****
+  		near_sea_surface_temperature_5m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_5m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_16p5m(time) ;
+! 		relative_humidity_16p5m:_FillValue = NaN ;
+  		relative_humidity_16p5m:long_name = "Relative Humidity" ;
+  		relative_humidity_16p5m:comment = "Relative Humidity at ~16.5m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_16p5m:valid_max = 100. ;
+--- 250,256 ----
+  		near_sea_surface_temperature_5m:coverage_content_type = "physicalMeasurement" ;
+  		near_sea_surface_temperature_5m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_16p5m(time) ;
+! 		relative_humidity_16p5m:_FillValue = -9999. ;
+  		relative_humidity_16p5m:long_name = "Relative Humidity" ;
+  		relative_humidity_16p5m:comment = "Relative Humidity at ~16.5m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_16p5m:valid_max = 100. ;
+***************
+*** 264,270 ****
+  		relative_humidity_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_16p5m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_2m(time) ;
+! 		relative_humidity_2m:_FillValue = NaN ;
+  		relative_humidity_2m:long_name = "Relative Humidity" ;
+  		relative_humidity_2m:comment = "Relative Humidity adjusted to 2m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_2m:valid_max = 100. ;
+--- 262,268 ----
+  		relative_humidity_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_16p5m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_2m(time) ;
+! 		relative_humidity_2m:_FillValue = -9999. ;
+  		relative_humidity_2m:long_name = "Relative Humidity" ;
+  		relative_humidity_2m:comment = "Relative Humidity adjusted to 2m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_2m:valid_max = 100. ;
+***************
+*** 276,282 ****
+  		relative_humidity_2m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_2m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_10m(time) ;
+! 		relative_humidity_10m:_FillValue = NaN ;
+  		relative_humidity_10m:long_name = "Relative Humidity" ;
+  		relative_humidity_10m:comment = "Relative Humidity adjusted to 10m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_10m:valid_max = 100. ;
+--- 274,280 ----
+  		relative_humidity_2m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_2m:coordinates = "time longitude latitude" ;
+  	double relative_humidity_10m(time) ;
+! 		relative_humidity_10m:_FillValue = -9999. ;
+  		relative_humidity_10m:long_name = "Relative Humidity" ;
+  		relative_humidity_10m:comment = "Relative Humidity adjusted to 10m reconstructed from Q, aspirated Tair, and P measurements" ;
+  		relative_humidity_10m:valid_max = 100. ;
+***************
+*** 288,294 ****
+  		relative_humidity_10m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_10m:coordinates = "time longitude latitude" ;
+  	double pressure(time) ;
+! 		pressure:_FillValue = NaN ;
+  		pressure:long_name = "Pressure from UConn Barometers on the 03 deck" ;
+  		pressure:valid_max = 1020. ;
+  		pressure:valid_min = 1000. ;
+--- 286,292 ----
+  		relative_humidity_10m:coverage_content_type = "physicalMeasurement" ;
+  		relative_humidity_10m:coordinates = "time longitude latitude" ;
+  	double pressure(time) ;
+! 		pressure:_FillValue = -9999. ;
+  		pressure:long_name = "Pressure from UConn Barometers on the 03 deck" ;
+  		pressure:valid_max = 1020. ;
+  		pressure:valid_min = 1000. ;
+***************
+*** 299,305 ****
+  		pressure:coverage_content_type = "physicalMeasurement" ;
+  		pressure:coordinates = "time longitude latitude" ;
+  	double specific_humidity_16p5m(time) ;
+! 		specific_humidity_16p5m:_FillValue = NaN ;
+  		specific_humidity_16p5m:long_name = "Specific Humidity" ;
+  		specific_humidity_16p5m:comment = "Specific Humidity at ~16.5m computed from calibrated UConn and WHOI RH/T Sensors on the bow mast" ;
+  		specific_humidity_16p5m:valid_max = 20.4689352593528 ;
+--- 297,303 ----
+  		pressure:coverage_content_type = "physicalMeasurement" ;
+  		pressure:coordinates = "time longitude latitude" ;
+  	double specific_humidity_16p5m(time) ;
+! 		specific_humidity_16p5m:_FillValue = -9999. ;
+  		specific_humidity_16p5m:long_name = "Specific Humidity" ;
+  		specific_humidity_16p5m:comment = "Specific Humidity at ~16.5m computed from calibrated UConn and WHOI RH/T Sensors on the bow mast" ;
+  		specific_humidity_16p5m:valid_max = 20.4689352593528 ;
+***************
+*** 311,317 ****
+  		specific_humidity_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_16p5m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_2m(time) ;
+! 		specific_humidity_2m:_FillValue = NaN ;
+  		specific_humidity_2m:long_name = "Specific Humidity" ;
+  		specific_humidity_2m:comment = "Specific Humidity adjusted to 2m computed from four Inter-Calibrated RH/T Sensors" ;
+  		specific_humidity_2m:valid_max = 20.8551940917969 ;
+--- 309,315 ----
+  		specific_humidity_16p5m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_16p5m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_2m(time) ;
+! 		specific_humidity_2m:_FillValue = -9999. ;
+  		specific_humidity_2m:long_name = "Specific Humidity" ;
+  		specific_humidity_2m:comment = "Specific Humidity adjusted to 2m computed from four Inter-Calibrated RH/T Sensors" ;
+  		specific_humidity_2m:valid_max = 20.8551940917969 ;
+***************
+*** 323,329 ****
+  		specific_humidity_2m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_2m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_10m(time) ;
+! 		specific_humidity_10m:_FillValue = NaN ;
+  		specific_humidity_10m:long_name = "Specific Humidity" ;
+  		specific_humidity_10m:comment = "Specific Humidity adjusted to 10m computed from four Inter-Calibrated RH/T Sensors" ;
+  		specific_humidity_10m:valid_max = 20.544979095459 ;
+--- 321,327 ----
+  		specific_humidity_2m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_2m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_10m(time) ;
+! 		specific_humidity_10m:_FillValue = -9999. ;
+  		specific_humidity_10m:long_name = "Specific Humidity" ;
+  		specific_humidity_10m:comment = "Specific Humidity adjusted to 10m computed from four Inter-Calibrated RH/T Sensors" ;
+  		specific_humidity_10m:valid_max = 20.544979095459 ;
+***************
+*** 335,341 ****
+  		specific_humidity_10m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_10m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_sea_surface(time) ;
+! 		specific_humidity_sea_surface:_FillValue = NaN ;
+  		specific_humidity_sea_surface:long_name = "Specific Humidity at Sea Surface" ;
+  		specific_humidity_sea_surface:comment = "Specific Humidity at Sea Surface computed from SST" ;
+  		specific_humidity_sea_surface:valid_max = 28.1663436889648 ;
+--- 333,339 ----
+  		specific_humidity_10m:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_10m:coordinates = "time longitude latitude" ;
+  	double specific_humidity_sea_surface(time) ;
+! 		specific_humidity_sea_surface:_FillValue = -9999. ;
+  		specific_humidity_sea_surface:long_name = "Specific Humidity at Sea Surface" ;
+  		specific_humidity_sea_surface:comment = "Specific Humidity at Sea Surface computed from SST" ;
+  		specific_humidity_sea_surface:valid_max = 28.1663436889648 ;
+***************
+*** 347,353 ****
+  		specific_humidity_sea_surface:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_sea_surface:coordinates = "time longitude latitude" ;
+  	double sss(time) ;
+! 		sss:_FillValue = NaN ;
+  		sss:long_name = "Sea surface salinity from the salinity snake" ;
+  		sss:valid_max = 42. ;
+  		sss:valid_min = 2. ;
+--- 345,351 ----
+  		specific_humidity_sea_surface:coverage_content_type = "physicalMeasurement" ;
+  		specific_humidity_sea_surface:coordinates = "time longitude latitude" ;
+  	double sss(time) ;
+! 		sss:_FillValue = -9999. ;
+  		sss:long_name = "Sea surface salinity from the salinity snake" ;
+  		sss:valid_max = 42. ;
+  		sss:valid_min = 2. ;
+***************
+*** 358,364 ****
+  		sss:coverage_content_type = "physicalMeasurement" ;
+  		sss:coordinates = "time longitude latitude" ;
+  	double salinity_2m(time) ;
+! 		salinity_2m:_FillValue = NaN ;
+  		salinity_2m:long_name = "Salinity at 2m from USPS" ;
+  		salinity_2m:valid_max = 42. ;
+  		salinity_2m:valid_min = 2. ;
+--- 356,362 ----
+  		sss:coverage_content_type = "physicalMeasurement" ;
+  		sss:coordinates = "time longitude latitude" ;
+  	double salinity_2m(time) ;
+! 		salinity_2m:_FillValue = -9999. ;
+  		salinity_2m:long_name = "Salinity at 2m from USPS" ;
+  		salinity_2m:valid_max = 42. ;
+  		salinity_2m:valid_min = 2. ;
+***************
+*** 369,375 ****
+  		salinity_2m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_2m:coordinates = "time longitude latitude" ;
+  	double salinity_3m(time) ;
+! 		salinity_3m:_FillValue = NaN ;
+  		salinity_3m:long_name = "Salinity at 3m from USPS" ;
+  		salinity_3m:valid_max = 42. ;
+  		salinity_3m:valid_min = 2. ;
+--- 367,373 ----
+  		salinity_2m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_2m:coordinates = "time longitude latitude" ;
+  	double salinity_3m(time) ;
+! 		salinity_3m:_FillValue = -9999. ;
+  		salinity_3m:long_name = "Salinity at 3m from USPS" ;
+  		salinity_3m:valid_max = 42. ;
+  		salinity_3m:valid_min = 2. ;
+***************
+*** 380,386 ****
+  		salinity_3m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_3m:coordinates = "time longitude latitude" ;
+  	double salinity_5m(time) ;
+! 		salinity_5m:_FillValue = NaN ;
+  		salinity_5m:long_name = "Salinity at 5m from thermosalinograph" ;
+  		salinity_5m:valid_max = 42. ;
+  		salinity_5m:valid_min = 2. ;
+--- 378,384 ----
+  		salinity_3m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_3m:coordinates = "time longitude latitude" ;
+  	double salinity_5m(time) ;
+! 		salinity_5m:_FillValue = -9999. ;
+  		salinity_5m:long_name = "Salinity at 5m from thermosalinograph" ;
+  		salinity_5m:valid_max = 42. ;
+  		salinity_5m:valid_min = 2. ;
+***************
+*** 391,397 ****
+  		salinity_5m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_5m:coordinates = "time longitude latitude" ;
+  	double precipitation_rate(time) ;
+! 		precipitation_rate:_FillValue = NaN ;
+  		precipitation_rate:long_name = "Precipitation rate of Optical Rain Gauge" ;
+  		precipitation_rate:valid_max = 150. ;
+  		precipitation_rate:valid_min = 0. ;
+--- 389,395 ----
+  		salinity_5m:coverage_content_type = "physicalMeasurement" ;
+  		salinity_5m:coordinates = "time longitude latitude" ;
+  	double precipitation_rate(time) ;
+! 		precipitation_rate:_FillValue = -9999. ;
+  		precipitation_rate:long_name = "Precipitation rate of Optical Rain Gauge" ;
+  		precipitation_rate:valid_max = 150. ;
+  		precipitation_rate:valid_min = 0. ;
+***************
+*** 402,408 ****
+  		precipitation_rate:coverage_content_type = "physicalMeasurement" ;
+  		precipitation_rate:coordinates = "time longitude latitude" ;
+  	double evaporation_rate(time) ;
+! 		evaporation_rate:_FillValue = NaN ;
+  		evaporation_rate:long_name = "Evaporation rate of Optical Rain Gauge" ;
+  		evaporation_rate:valid_max = 2. ;
+  		evaporation_rate:valid_min = 0. ;
+--- 400,406 ----
+  		precipitation_rate:coverage_content_type = "physicalMeasurement" ;
+  		precipitation_rate:coordinates = "time longitude latitude" ;
+  	double evaporation_rate(time) ;
+! 		evaporation_rate:_FillValue = -9999. ;
+  		evaporation_rate:long_name = "Evaporation rate of Optical Rain Gauge" ;
+  		evaporation_rate:valid_max = 2. ;
+  		evaporation_rate:valid_min = 0. ;
+***************
+*** 420,431 ****
+  		:keywords = "EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > PRECIPITATION > PRECIPITATION RATE, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND DIRECTION, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND SPEED, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > ATMOSPHERIC PRESSURE MEASUREMENTS, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE" ;
+  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
+  		:conventions = "CF-1.8, ACDD-1.3" ;
+! 		:id = "PO.DAAC-SMODE-RVMET" ;
+  		:uuid = "7d5a12d7-17b3-460c-be43-1ec2af2a33b2" ;
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "TBD" ;
+  		:platform = "In Situ Ocean-based Platforms > SHIPS > RV Oceanus" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Recorders/Loggers > > > MMS" ;
+--- 418,429 ----
+  		:keywords = "EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > PRECIPITATION > PRECIPITATION RATE, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND DIRECTION, EARTH SCIENCE > OCEANS > OCEAN WINDS > SURFACE WINDS > WIND SPEED, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > ATMOSPHERIC PRESSURE MEASUREMENTS, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE" ;
+  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
+  		:conventions = "CF-1.8, ACDD-1.3" ;
+! 		:id = "PODAAC-SMODE-RVMET" ;
+  		:uuid = "7d5a12d7-17b3-460c-be43-1ec2af2a33b2" ;
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "S-MODE_PFC_OC2004B_meteorology_##.nc.cdl" ;
+  		:platform = "In Situ Ocean-based Platforms > SHIPS > RV Oceanus" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Recorders/Loggers > > > MMS" ;
+***************
+*** 454,471 ****
+  		:sea_name = "Pacific" ;
+  		:geospatial_lat_min = 5.06140075 ;
+  		:geospatial_lat_max = 13.4568725 ;
+! 		:geospatial_lat_units = "degrees" ;
+! 		:geospatial_lat_resolution = "0.1" ;
+  		:geospatial_lon_min = -144.87482775 ;
+  		:geospatial_lon_max = -123.37702175 ;
+! 		:geospatial_lon_units = "degrees" ;
+! 		:geospatial_lon_resolution = "0.1" ;
+  		:geospatial_vertical_min = 1006.588 ;
+  		:geospatial_vertical_max = 1014.882 ;
+! 		:geospatial_vertical_resolution = "1" ;
+! 		:geospatial_vertical_units = "m" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "20-Aug-2016 00:00:30" ;
+! 		:time_coverage_end = "18-Sep-2016 23:59:30" ;
+! 		:date_created = "01-Sep-2020 14:11:36" ;
+  }
+--- 452,469 ----
+  		:sea_name = "Pacific" ;
+  		:geospatial_lat_min = 5.06140075 ;
+  		:geospatial_lat_max = 13.4568725 ;
+! 		:geospatial_lat_units = "degrees_north" ;
+! 		:geospatial_lat_resolution = "0.1 degrees" ;
+  		:geospatial_lon_min = -144.87482775 ;
+  		:geospatial_lon_max = -123.37702175 ;
+! 		:geospatial_lon_units = "degrees_east" ;
+! 		:geospatial_lon_resolution = "0.1 degrees" ;
+  		:geospatial_vertical_min = 1006.588 ;
+  		:geospatial_vertical_max = 1014.882 ;
+! 		:geospatial_vertical_resolution = "1 meters" ;
+! 		:geospatial_vertical_units = "meters" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "2016-08-20T00:00:30" ;
+! 		:time_coverage_end = "2016-09-18T23:59:30" ;
+! 		:date_created = "2020-09-01T14:11:36" ;
+  }
+
