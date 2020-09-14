@@ -7,6 +7,8 @@
 .ipynb_checkpoints/
  __pycache__/
 docs/
+wireframes/dummy_files.zip
+wireframes/dummy_files/*.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

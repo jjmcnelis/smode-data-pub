@@ -1,0 +1,148 @@
+*** 
+--- 
+***************
+*** 1,33 ****
+  netcdf S-MODE_PFC_surfacedrifter_\#\# {
+  dimensions:
+  	time = 48 ;
+  variables:
+! 	double time(time) ;
+  		time:long_name = "Time of Salinity Drifter measurement" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01T00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+! 	double longitude(time) ;
+! 		longitude:_FillValue = NaN ;
+  		longitude:long_name = "Longitude of Salinity Drifter measurement" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+  		longitude:axis = "X" ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "coordinate" ;
+! 	double latitude(time) ;
+! 		latitude:_FillValue = NaN ;
+  		latitude:long_name = "Latitude of Salinity Drifter measurement" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+  		latitude:axis = "Y" ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "coordinate" ;
+! 	double temperature_18cm(time) ;
+! 		temperature_18cm:_FillValue = NaN ;
+  		temperature_18cm:long_name = "Sea water temperature at 18cm" ;
+  		temperature_18cm:valid_max = 32. ;
+  		temperature_18cm:valid_min = -1. ;
+--- 1,37 ----
+  netcdf S-MODE_PFC_surfacedrifter_\#\# {
+  dimensions:
+  	time = 48 ;
++ 	trajectory = 1 ;
+  variables:
+! 	int trajectory(trajectory) ;
+!         trajectory:long_name = "Unique identifier for each feature instance" ;
+!         trajectory:cf_role = "trajectory_id" ;
+! 	double time(trajectory, time) ;
+  		time:long_name = "Time of Salinity Drifter measurement" ;
+  		time:axis = "T" ;
+  		time:standard_name = "time" ;
+! 		time:units = "days since 1950-01-01 00:00:00" ;
+  		time:coverage_content_type = "coordinate" ;
+! 	double longitude(trajectory, time) ;
+! 		longitude:_FillValue = -9999. ;
+  		longitude:long_name = "Longitude of Salinity Drifter measurement" ;
+  		longitude:valid_max = 180. ;
+  		longitude:valid_min = -180. ;
+  		longitude:axis = "X" ;
+  		longitude:standard_name = "longitude" ;
+  		longitude:units = "degrees_east" ;
+! 		longitude:coverage_content_type = "referenceInformation" ;
+! 	double latitude(trajectory, time) ;
+! 		longitude:_FillValue = -9999. ;
+  		latitude:long_name = "Latitude of Salinity Drifter measurement" ;
+  		latitude:valid_max = 90. ;
+  		latitude:valid_min = -90. ;
+  		latitude:axis = "Y" ;
+  		latitude:standard_name = "latitude" ;
+  		latitude:units = "degrees_north" ;
+! 		latitude:coverage_content_type = "referenceInformation" ;
+! 	double temperature_18cm(trajectory, time) ;
+! 		temperature_18cm:_FillValue = -9999. ;
+  		temperature_18cm:long_name = "Sea water temperature at 18cm" ;
+  		temperature_18cm:valid_max = 32. ;
+  		temperature_18cm:valid_min = -1. ;
+***************
+*** 38,45 ****
+  		temperature_18cm:units = "degrees_C" ;
+  		temperature_18cm:coverage_content_type = "physicalMeasurement" ;
+  		temperature_18cm:comment = "Notice that T(18-cm)  is a hull-sensor that is sensitive to inside-hull temperature. In particular, during the first half hour , these temperatures are not correct." ;
+! 	double temperature_36cm(time) ;
+! 		temperature_36cm:_FillValue = NaN ;
+  		temperature_36cm:long_name = "Sea water temperature at 36cm" ;
+  		temperature_36cm:valid_max = 32. ;
+  		temperature_36cm:valid_min = -1. ;
+--- 42,49 ----
+  		temperature_18cm:units = "degrees_C" ;
+  		temperature_18cm:coverage_content_type = "physicalMeasurement" ;
+  		temperature_18cm:comment = "Notice that T(18-cm)  is a hull-sensor that is sensitive to inside-hull temperature. In particular, during the first half hour , these temperatures are not correct." ;
+! 	double temperature_36cm(trajectory, time) ;
+! 		temperature_36cm:_FillValue = -9999. ;
+  		temperature_36cm:long_name = "Sea water temperature at 36cm" ;
+  		temperature_36cm:valid_max = 32. ;
+  		temperature_36cm:valid_min = -1. ;
+***************
+*** 49,56 ****
+  		temperature_36cm:standard_name = "sea_water_temperature" ;
+  		temperature_36cm:units = "degrees_C" ;
+  		temperature_36cm:coverage_content_type = "physicalMeasurement" ;
+! 	double salinity_36cm(time) ;
+! 		salinity_36cm:_FillValue = NaN ;
+  		salinity_36cm:long_name = "Sea water salinity at 36cm" ;
+  		salinity_36cm:valid_max = 42. ;
+  		salinity_36cm:valid_min = 2. ;
+--- 53,60 ----
+  		temperature_36cm:standard_name = "sea_water_temperature" ;
+  		temperature_36cm:units = "degrees_C" ;
+  		temperature_36cm:coverage_content_type = "physicalMeasurement" ;
+! 	double salinity_36cm(trajectory, time) ;
+! 		salinity_36cm:_FillValue = -9999. ;
+  		salinity_36cm:long_name = "Sea water salinity at 36cm" ;
+  		salinity_36cm:valid_max = 42. ;
+  		salinity_36cm:valid_min = 2. ;
+***************
+*** 73,79 ****
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "TBD" ;
+  		:platform = "In Situ Ocean-based Platforms > BUOYS > BUOYS" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Current/Wind Meters > > > DRIFTING BUOYS" ;
+--- 77,83 ----
+  		:naming_authority = "gov.nasa" ;
+  		:featureType = "trajectory" ;
+  		:cdm_data_type = "Trajectory" ;
+! 		:source = "S-MODE_PFC_surfacedrifter_\#\#.nc" ;
+  		:platform = "In Situ Ocean-based Platforms > BUOYS > BUOYS" ;
+  		:platform_vocabulary = "GCMD platform keywords" ;
+  		:instrument = "In Situ/Laboratory Instruments > Current/Wind Meters > > > DRIFTING BUOYS" ;
+***************
+*** 113,119 ****
+  		:geospatial_vertical_resolution = "1" ;
+  		:geospatial_vertical_units = "m" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "09-Nov-2017 13:10:10" ;
+! 		:time_coverage_end = "09-Nov-2017 17:05:10" ;
+! 		:date_created = "01-Sep-2020 14:19:24" ;
+  }
+--- 117,123 ----
+  		:geospatial_vertical_resolution = "1" ;
+  		:geospatial_vertical_units = "m" ;
+  		:geospatial_vertical_positive = "down" ;
+! 		:time_coverage_start = "2017-11-09 13:10:10" ;
+! 		:time_coverage_end = "2017-11-09 17:05:10" ;
+! 		:date_created = "2020-09-01 14:19:24" ;
+  }
+
