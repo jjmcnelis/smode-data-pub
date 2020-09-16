@@ -1,0 +1,71 @@
+netcdf prm20151026t173213_rfl_v1h3_chl_a {
+dimensions:
+	y = 4415 ;
+	x = 710 ;
+variables:
+	int64 spatial_ref ;
+		spatial_ref:spatial_ref = "PROJCS[\"unnamed\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-117],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"Meter\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]" ;
+		spatial_ref:crs_wkt = "PROJCS[\"unnamed\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-117],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"Meter\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]" ;
+	int64 wavelength ;
+	double chl_a_seawifs(y, x) ;
+		chl_a_seawifs:_FillValue = NaN ;
+		chl_a_seawifs:wavelength_units = "Nanometers" ;
+		chl_a_seawifs:transform = 14.4170759794863, 10.0949452797784, 343768.403, 10.0949452797784, -14.4170759794863, 3768561.98 ;
+		chl_a_seawifs:long_name = "Chlorophyll Concentration, SeaWiFS bands" ;
+		chl_a_seawifs:lines = "4415" ;
+		chl_a_seawifs:samples = "710" ;
+		chl_a_seawifs:sensor_type = "Unknown" ;
+		chl_a_seawifs:grid_mapping = "spatial_ref" ;
+		chl_a_seawifs:ioos_category = "Ocean Color" ;
+		string chl_a_seawifs:references = "Pittman, N. A., Strutton, P. G., Johnson, R. & Matear, R. J. An Assessment and Improvement of Satellite Ocean Color Algorithms for the Tropical Pacific Ocean. J Geophys Res Oceans 124, 9020–9039 (2019)." ;
+		chl_a_seawifs:standard_name = "mass_concentration_of_chlorophyll_in_sea_water" ;
+		chl_a_seawifs:units = "mg m-3" ;
+		chl_a_seawifs:wavelengths = "[433,490,510,555,670]" ;
+		chl_a_seawifs:ocx_poly = "[0.3255,-2.7677,2.4409,-1.1288,-0.4990]" ;
+		chl_a_seawifs:ci_poly = "[-0.4909, 191.6590]" ;
+		chl_a_seawifs:blend_window_l0w = 0LL ;
+		chl_a_seawifs:blend_window_high = 0.5 ;
+		chl_a_seawifs:coordinates = "spatial_ref wavelength" ;
+	double chl_a_modis(y, x) ;
+		chl_a_modis:_FillValue = NaN ;
+		chl_a_modis:wavelength_units = "Nanometers" ;
+		chl_a_modis:transform = 14.4170759794863, 10.0949452797784, 343768.403, 10.0949452797784, -14.4170759794863, 3768561.98 ;
+		chl_a_modis:long_name = "Chlorophyll Concentration, MODIS bands" ;
+		chl_a_modis:lines = "4415" ;
+		chl_a_modis:samples = "710" ;
+		chl_a_modis:sensor_type = "Unknown" ;
+		chl_a_modis:grid_mapping = "spatial_ref" ;
+		chl_a_modis:ioos_category = "Ocean Color" ;
+		string chl_a_modis:references = "Pittman, N. A., Strutton, P. G., Johnson, R. & Matear, R. J. An Assessment and Improvement of Satellite Ocean Color Algorithms for the Tropical Pacific Ocean. J Geophys Res Oceans 124, 9020–9039 (2019)." ;
+		chl_a_modis:standard_name = "mass_concentration_of_chlorophyll_in_sea_water" ;
+		chl_a_modis:units = "mg m-3" ;
+		chl_a_modis:wavelengths = "[433,488,547,667]" ;
+		chl_a_modis:ocx_poly = "[0.3272,-2.9940,2.7218,-1.2259,-0.5683]" ;
+		chl_a_modis:ci_poly = "[-0.4909, 191.6590]" ;
+		chl_a_modis:blend_window_l0w = 0LL ;
+		chl_a_modis:blend_window_high = 0.2 ;
+		chl_a_modis:coordinates = "spatial_ref wavelength" ;
+	double chl_a_meris(y, x) ;
+		chl_a_meris:_FillValue = NaN ;
+		chl_a_meris:wavelength_units = "Nanometers" ;
+		chl_a_meris:transform = 14.4170759794863, 10.0949452797784, 343768.403, 10.0949452797784, -14.4170759794863, 3768561.98 ;
+		chl_a_meris:long_name = "Chlorophyll Concentration, MERIS bands" ;
+		chl_a_meris:lines = "4415" ;
+		chl_a_meris:samples = "710" ;
+		chl_a_meris:sensor_type = "Unknown" ;
+		chl_a_meris:grid_mapping = "spatial_ref" ;
+		chl_a_meris:ioos_category = "Ocean Color" ;
+		string chl_a_meris:references = "Pittman, N. A., Strutton, P. G., Johnson, R. & Matear, R. J. An Assessment and Improvement of Satellite Ocean Color Algorithms for the Tropical Pacific Ocean. J Geophys Res Oceans 124, 9020–9039 (2019)." ;
+		chl_a_meris:standard_name = "mass_concentration_of_chlorophyll_in_sea_water" ;
+		chl_a_meris:units = "mg m-3" ;
+		chl_a_meris:wavelengths = "[433,490,510,560,665]" ;
+		chl_a_meris:ocx_poly = "[0.3255,-2.7677, 2.4409,-1.1288,-0.4990]" ;
+		chl_a_meris:ci_poly = "[-0.4909, 191.6590]" ;
+		chl_a_meris:blend_window_l0w = 0.15 ;
+		chl_a_meris:blend_window_high = 0.2 ;
+		chl_a_meris:coordinates = "spatial_ref wavelength" ;
+
+// global attributes:
+		:input_file = "prm20151026t173213_rfl_v1h3_img_masked.nc" ;
+		:description = "Chl_a estimates using SeaWiFS, MODIS, MERIS bands from PRISM. Algorithms from Pittman et al., JGR, 2019." ;
+}

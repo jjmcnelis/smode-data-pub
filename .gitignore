@@ -9,6 +9,8 @@
 docs/
 wireframes/dummy_files.zip
 wireframes/dummy_files/*.nc
+wireframes_airborne/*.nc
+*.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
