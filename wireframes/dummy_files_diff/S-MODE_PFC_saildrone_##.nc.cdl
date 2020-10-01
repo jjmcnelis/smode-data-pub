@@ -1,347 +1,114 @@
-*** 
---- 
-***************
-*** 6,33 ****
-  		time:long_name = "Time of Saildrone" ;
-  		time:axis = "T" ;
-  		time:standard_name = "time" ;
-! 		time:units = "days since 1950-01-01T00:00:00" ;
-  		time:coverage_content_type = "coordinate" ;
-  	double longitude(time) ;
-! 		longitude:_FillValue = NaN ;
-  		longitude:long_name = "Longitude of Saildrone" ;
-  		longitude:valid_max = 180. ;
-  		longitude:valid_min = -180. ;
-- 		longitude:axis = "X" ;
-  		longitude:standard_name = "longitude" ;
-  		longitude:units = "degrees_east" ;
-! 		longitude:coverage_content_type = "coordinate" ;
-  	double latitude(time) ;
-! 		latitude:_FillValue = NaN ;
-  		latitude:long_name = "Latitude of Saildrone" ;
-  		latitude:valid_max = 90. ;
-  		latitude:valid_min = -90. ;
-- 		latitude:axis = "Y" ;
-  		latitude:standard_name = "latitude" ;
-  		latitude:units = "degrees_north" ;
-! 		latitude:coverage_content_type = "coordinate" ;
-  	double sst(time) ;
-! 		sst:_FillValue = NaN ;
-  		sst:long_name = "Sea Surface Temperature" ;
-  		sst:valid_max = 32. ;
-  		sst:valid_min = -1. ;
---- 6,31 ----
-  		time:long_name = "Time of Saildrone" ;
-  		time:axis = "T" ;
-  		time:standard_name = "time" ;
-! 		time:units = "days since 1950-01-01 00:00:00" ;
-  		time:coverage_content_type = "coordinate" ;
-  	double longitude(time) ;
-! 		longitude::_FillValue = -9999. ;
-  		longitude:long_name = "Longitude of Saildrone" ;
-  		longitude:valid_max = 180. ;
-  		longitude:valid_min = -180. ;
-  		longitude:standard_name = "longitude" ;
-  		longitude:units = "degrees_east" ;
-! 		longitude:coverage_content_type = "referenceInformation" ;
-  	double latitude(time) ;
-! 		latitude::_FillValue = -9999. ;
-  		latitude:long_name = "Latitude of Saildrone" ;
-  		latitude:valid_max = 90. ;
-  		latitude:valid_min = -90. ;
-  		latitude:standard_name = "latitude" ;
-  		latitude:units = "degrees_north" ;
-! 		latitude:coverage_content_type = "referenceInformation" ;
-  	double sst(time) ;
-! 		sst::_FillValue = -9999. ;
-  		sst:long_name = "Sea Surface Temperature" ;
-  		sst:valid_max = 32. ;
-  		sst:valid_min = -1. ;
-***************
-*** 38,44 ****
-  		sst:coordinates = "time latitude longitude" ;
-  		sst:coverage_content_type = "physicalMeasurement" ;
-  	double sss(time) ;
-! 		sss:_FillValue = NaN ;
-  		sss:long_name = "Sea Surface Salinity" ;
-  		sss:valid_max = 42. ;
-  		sss:valid_min = 2. ;
---- 36,42 ----
-  		sst:coordinates = "time latitude longitude" ;
-  		sst:coverage_content_type = "physicalMeasurement" ;
-  	double sss(time) ;
-! 		sss::_FillValue = -9999. ;
-  		sss:long_name = "Sea Surface Salinity" ;
-  		sss:valid_max = 42. ;
-  		sss:valid_min = 2. ;
-***************
-*** 49,55 ****
-  		sss:coordinates = "time latitude longitude" ;
-  		sss:coverage_content_type = "physicalMeasurement" ;
-  	double solar_radiation(time) ;
-! 		solar_radiation:_FillValue = NaN ;
-  		solar_radiation:long_name = "Solar Radiation" ;
-  		solar_radiation:valid_max = 1500. ;
-  		solar_radiation:valid_min = 0. ;
---- 47,53 ----
-  		sss:coordinates = "time latitude longitude" ;
-  		sss:coverage_content_type = "physicalMeasurement" ;
-  	double solar_radiation(time) ;
-! 		solar_radiation::_FillValue = -9999. ;
-  		solar_radiation:long_name = "Solar Radiation" ;
-  		solar_radiation:valid_max = 1500. ;
-  		solar_radiation:valid_min = 0. ;
-***************
-*** 60,66 ****
-  		solar_radiation:coordinates = "time latitude longitude" ;
-  		solar_radiation:coverage_content_type = "physicalMeasurement" ;
-  	double long_radiation(time) ;
-! 		long_radiation:_FillValue = NaN ;
-  		long_radiation:long_name = "Longwave Radiation" ;
-  		long_radiation:valid_max = 600. ;
-  		long_radiation:valid_min = 0. ;
---- 58,64 ----
-  		solar_radiation:coordinates = "time latitude longitude" ;
-  		solar_radiation:coverage_content_type = "physicalMeasurement" ;
-  	double long_radiation(time) ;
-! 		long_radiation::_FillValue = -9999. ;
-  		long_radiation:long_name = "Longwave Radiation" ;
-  		long_radiation:valid_max = 600. ;
-  		long_radiation:valid_min = 0. ;
-***************
-*** 71,77 ****
-  		long_radiation:coordinates = "time latitude longitude" ;
-  		long_radiation:coverage_content_type = "physicalMeasurement" ;
-  	double pressure(time) ;
-! 		pressure:_FillValue = NaN ;
-  		pressure:long_name = "Sea Level Pressure" ;
-  		pressure:valid_max = 1020. ;
-  		pressure:valid_min = 1000. ;
---- 69,75 ----
-  		long_radiation:coordinates = "time latitude longitude" ;
-  		long_radiation:coverage_content_type = "physicalMeasurement" ;
-  	double pressure(time) ;
-! 		pressure::_FillValue = -9999. ;
-  		pressure:long_name = "Sea Level Pressure" ;
-  		pressure:valid_max = 1020. ;
-  		pressure:valid_min = 1000. ;
-***************
-*** 82,88 ****
-  		pressure:coordinates = "time latitude longitude" ;
-  		pressure:coverage_content_type = "physicalMeasurement" ;
-  	double wind_direction(time) ;
-! 		wind_direction:_FillValue = NaN ;
-  		wind_direction:long_name = "Wind Direction" ;
-  		wind_direction:valid_max = 180. ;
-  		wind_direction:valid_min = -180. ;
---- 80,86 ----
-  		pressure:coordinates = "time latitude longitude" ;
-  		pressure:coverage_content_type = "physicalMeasurement" ;
-  	double wind_direction(time) ;
-! 		wind_direction::_FillValue = -9999. ;
-  		wind_direction:long_name = "Wind Direction" ;
-  		wind_direction:valid_max = 180. ;
-  		wind_direction:valid_min = -180. ;
-***************
-*** 94,100 ****
-  		wind_direction:coverage_content_type = "physicalMeasurement" ;
-  		wind_direction:comment = "Angle increases clockwise. 0deg is southerly; 90deg westerly; -90deg easterly; 180deg northerly" ;
-  	double wind_speed_5m(time) ;
-! 		wind_speed_5m:_FillValue = NaN ;
-  		wind_speed_5m:long_name = "Wind Speed at 5m" ;
-  		wind_speed_5m:valid_max = 11.986 ;
-  		wind_speed_5m:valid_min = 0. ;
---- 92,98 ----
-  		wind_direction:coverage_content_type = "physicalMeasurement" ;
-  		wind_direction:comment = "Angle increases clockwise. 0deg is southerly; 90deg westerly; -90deg easterly; 180deg northerly" ;
-  	double wind_speed_5m(time) ;
-! 		wind_speed_5m::_FillValue = -9999. ;
-  		wind_speed_5m:long_name = "Wind Speed at 5m" ;
-  		wind_speed_5m:valid_max = 11.986 ;
-  		wind_speed_5m:valid_min = 0. ;
-***************
-*** 105,111 ****
-  		wind_speed_5m:coordinates = "time latitude longitude" ;
-  		wind_speed_5m:coverage_content_type = "physicalMeasurement" ;
-  	double relative_humidity_2m(time) ;
-! 		relative_humidity_2m:_FillValue = NaN ;
-  		relative_humidity_2m:long_name = "Relative Humidity at 2.4m" ;
-  		relative_humidity_2m:valid_max = 100. ;
-  		relative_humidity_2m:valid_min = 0. ;
---- 103,109 ----
-  		wind_speed_5m:coordinates = "time latitude longitude" ;
-  		wind_speed_5m:coverage_content_type = "physicalMeasurement" ;
-  	double relative_humidity_2m(time) ;
-! 		relative_humidity_2m::_FillValue = -9999. ;
-  		relative_humidity_2m:long_name = "Relative Humidity at 2.4m" ;
-  		relative_humidity_2m:valid_max = 100. ;
-  		relative_humidity_2m:valid_min = 0. ;
-***************
-*** 116,122 ****
-  		relative_humidity_2m:coordinates = "time latitude longitude" ;
-  		relative_humidity_2m:coverage_content_type = "physicalMeasurement" ;
-  	double specific_humidity_2m(time) ;
-! 		specific_humidity_2m:_FillValue = NaN ;
-  		specific_humidity_2m:long_name = "Specific Humidity at 2.4m" ;
-  		specific_humidity_2m:valid_max = 21.185 ;
-  		specific_humidity_2m:valid_min = 16.274 ;
---- 114,120 ----
-  		relative_humidity_2m:coordinates = "time latitude longitude" ;
-  		relative_humidity_2m:coverage_content_type = "physicalMeasurement" ;
-  	double specific_humidity_2m(time) ;
-! 		specific_humidity_2m::_FillValue = -9999. ;
-  		specific_humidity_2m:long_name = "Specific Humidity at 2.4m" ;
-  		specific_humidity_2m:valid_max = 21.185 ;
-  		specific_humidity_2m:valid_min = 16.274 ;
-***************
-*** 127,133 ****
-  		specific_humidity_2m:coordinates = "time latitude longitude" ;
-  		specific_humidity_2m:coverage_content_type = "physicalMeasurement" ;
-  	double air_temperature_2m(time) ;
-! 		air_temperature_2m:_FillValue = NaN ;
-  		air_temperature_2m:long_name = "Air Temperature at 2.4m" ;
-  		air_temperature_2m:valid_max = 28.343 ;
-  		air_temperature_2m:valid_min = 23.316 ;
---- 125,131 ----
-  		specific_humidity_2m:coordinates = "time latitude longitude" ;
-  		specific_humidity_2m:coverage_content_type = "physicalMeasurement" ;
-  	double air_temperature_2m(time) ;
-! 		air_temperature_2m::_FillValue = -9999. ;
-  		air_temperature_2m:long_name = "Air Temperature at 2.4m" ;
-  		air_temperature_2m:valid_max = 28.343 ;
-  		air_temperature_2m:valid_min = 23.316 ;
-***************
-*** 138,144 ****
-  		air_temperature_2m:coordinates = "time latitude longitude" ;
-  		air_temperature_2m:coverage_content_type = "physicalMeasurement" ;
-  	double wind_speed_10m(time) ;
-! 		wind_speed_10m:_FillValue = NaN ;
-  		wind_speed_10m:long_name = "Wind Speed at 10m" ;
-  		wind_speed_10m:valid_max = 12.811 ;
-  		wind_speed_10m:valid_min = 0. ;
---- 136,142 ----
-  		air_temperature_2m:coordinates = "time latitude longitude" ;
-  		air_temperature_2m:coverage_content_type = "physicalMeasurement" ;
-  	double wind_speed_10m(time) ;
-! 		wind_speed_10m::_FillValue = -9999. ;
-  		wind_speed_10m:long_name = "Wind Speed at 10m" ;
-  		wind_speed_10m:valid_max = 12.811 ;
-  		wind_speed_10m:valid_min = 0. ;
-***************
-*** 149,155 ****
-  		wind_speed_10m:coordinates = "time latitude longitude" ;
-  		wind_speed_10m:coverage_content_type = "physicalMeasurement" ;
-  	double relative_humidity_10m(time) ;
-! 		relative_humidity_10m:_FillValue = NaN ;
-  		relative_humidity_10m:long_name = "Relative Humidity at 10m" ;
-  		relative_humidity_10m:valid_max = 100. ;
-  		relative_humidity_10m:valid_min = 0. ;
---- 147,153 ----
-  		wind_speed_10m:coordinates = "time latitude longitude" ;
-  		wind_speed_10m:coverage_content_type = "physicalMeasurement" ;
-  	double relative_humidity_10m(time) ;
-! 		relative_humidity_10m::_FillValue = -9999. ;
-  		relative_humidity_10m:long_name = "Relative Humidity at 10m" ;
-  		relative_humidity_10m:valid_max = 100. ;
-  		relative_humidity_10m:valid_min = 0. ;
-***************
-*** 160,166 ****
-  		relative_humidity_10m:coordinates = "time latitude longitude" ;
-  		relative_humidity_10m:coverage_content_type = "physicalMeasurement" ;
-  	double specific_humidity_10m(time) ;
-! 		specific_humidity_10m:_FillValue = NaN ;
-  		specific_humidity_10m:long_name = "Specific Humidity at 10m" ;
-  		specific_humidity_10m:valid_max = 20.932 ;
-  		specific_humidity_10m:valid_min = 15.958 ;
---- 158,164 ----
-  		relative_humidity_10m:coordinates = "time latitude longitude" ;
-  		relative_humidity_10m:coverage_content_type = "physicalMeasurement" ;
-  	double specific_humidity_10m(time) ;
-! 		specific_humidity_10m::_FillValue = -9999. ;
-  		specific_humidity_10m:long_name = "Specific Humidity at 10m" ;
-  		specific_humidity_10m:valid_max = 20.932 ;
-  		specific_humidity_10m:valid_min = 15.958 ;
-***************
-*** 171,177 ****
-  		specific_humidity_10m:coordinates = "time latitude longitude" ;
-  		specific_humidity_10m:coverage_content_type = "physicalMeasurement" ;
-  	double air_temperature_10m(time) ;
-! 		air_temperature_10m:_FillValue = NaN ;
-  		air_temperature_10m:long_name = "Air Temperature at 10m" ;
-  		air_temperature_10m:valid_max = 28.302 ;
-  		air_temperature_10m:valid_min = 22.878 ;
---- 169,175 ----
-  		specific_humidity_10m:coordinates = "time latitude longitude" ;
-  		specific_humidity_10m:coverage_content_type = "physicalMeasurement" ;
-  	double air_temperature_10m(time) ;
-! 		air_temperature_10m::_FillValue = -9999. ;
-  		air_temperature_10m:long_name = "Air Temperature at 10m" ;
-  		air_temperature_10m:valid_max = 28.302 ;
-  		air_temperature_10m:valid_min = 22.878 ;
-***************
-*** 189,200 ****
-  		:keywords = "EARTH SCIENCE > ATMOSPHERE > OCEAN WINDS > SURFACE WINDS, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > OCEAN OPTICS > CHLOROPHYLL, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > ATMOSPHERIC PRESSURE MEASUREMENTS, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > AIR TEMPERATURE, EARTH SCIENCE > OCEANS > OCEAN CHEMISTRY > OXYGEN" ;
-  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
-  		:conventions = "CF-1.8, ACDD-1.3" ;
-! 		:id = "PO.DAAC-SMODE-SDRON" ;
-  		:uuid = "344d2690-234f-44d4-b1af-8d464bc725bc" ;
-  		:naming_authority = "gov.nasa" ;
-  		:featureType = "trajectory" ;
-  		:cdm_data_type = "Trajectory" ;
-! 		:source = "TBD" ;
-  		:platform = "In Situ Ocean-based Platforms > USV > Saildrone" ;
-  		:platform_vocabulary = "GCMD platform keywords" ;
-  		:instrument = "In Situ/Laboratory Instruments > Profilers/Sounders > Acoustic Sounders > > ADCP" ;
---- 187,198 ----
-  		:keywords = "EARTH SCIENCE > ATMOSPHERE > OCEAN WINDS > SURFACE WINDS, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > CONDUCTIVITY, EARTH SCIENCE > OCEANS > OCEAN OPTICS > CHLOROPHYLL, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY, EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > ATMOSPHERIC PRESSURE MEASUREMENTS, EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > AIR TEMPERATURE, EARTH SCIENCE > OCEANS > OCEAN CHEMISTRY > OXYGEN" ;
-  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
-  		:conventions = "CF-1.8, ACDD-1.3" ;
-! 		:id = "PODAAC-SMODE-SDRON" ;
-  		:uuid = "344d2690-234f-44d4-b1af-8d464bc725bc" ;
-  		:naming_authority = "gov.nasa" ;
-  		:featureType = "trajectory" ;
-  		:cdm_data_type = "Trajectory" ;
-! 		:source = "S-MODE_PFC_saildrone_##.nc.cdl" ;
-  		:platform = "In Situ Ocean-based Platforms > USV > Saildrone" ;
-  		:platform_vocabulary = "GCMD platform keywords" ;
-  		:instrument = "In Situ/Laboratory Instruments > Profilers/Sounders > Acoustic Sounders > > ADCP" ;
-***************
-*** 223,240 ****
-  		:sea_name = "Pacific" ;
-  		:geospatial_lat_min = 10.88961448 ;
-  		:geospatial_lat_max = 10.88961448 ;
-! 		:geospatial_lat_units = "degrees" ;
-! 		:geospatial_lat_resolution = "0.1" ;
-  		:geospatial_lon_min = -125.08657088 ;
-  		:geospatial_lon_max = -124.54938688 ;
-! 		:geospatial_lon_units = "degrees" ;
-! 		:geospatial_lon_resolution = "0.1" ;
-  		:geospatial_vertical_min = 1006.1575 ;
-  		:geospatial_vertical_max = 1015.41 ;
-! 		:geospatial_vertical_resolution = "1" ;
-! 		:geospatial_vertical_units = "m" ;
-  		:geospatial_vertical_positive = "down" ;
-! 		:time_coverage_start = "16-Oct-2017" ;
-! 		:time_coverage_end = "17-Nov-2017" ;
-! 		:date_created = "01-Sep-2020 14:13:03" ;
-  }
---- 221,238 ----
-  		:sea_name = "Pacific" ;
-  		:geospatial_lat_min = 10.88961448 ;
-  		:geospatial_lat_max = 10.88961448 ;
-! 		:geospatial_lat_units = "degrees_north" ;
-! 		:geospatial_lat_resolution = "0.1 degrees" ;
-  		:geospatial_lon_min = -125.08657088 ;
-  		:geospatial_lon_max = -124.54938688 ;
-! 		:geospatial_lon_units = "degrees_east" ;
-! 		:geospatial_lon_resolution = "0.1 degrees" ;
-  		:geospatial_vertical_min = 1006.1575 ;
-  		:geospatial_vertical_max = 1015.41 ;
-! 		:geospatial_vertical_resolution = "1 meters" ;
-! 		:geospatial_vertical_units = "meters" ;
-  		:geospatial_vertical_positive = "down" ;
-! 		:time_coverage_start = "2017-11-16THH:MM:SS" ;
-! 		:time_coverage_end = "2017-11-17HH:MM:SS" ;
-! 		:date_created = "2020-09-01T14:13:03" ;
-  }
-
+9c9
+< 		time:units = "days since 1950-01-01T00:00:00" ;
+---
+> 		time:units = "days since 1950-01-01 00:00:00" ;
+12c12
+< 		longitude:_FillValue = NaN ;
+---
+> 		longitude::_FillValue = -9999. ;
+16d15
+< 		longitude:axis = "X" ;
+19c18
+< 		longitude:coverage_content_type = "coordinate" ;
+---
+> 		longitude:coverage_content_type = "referenceInformation" ;
+21c20
+< 		latitude:_FillValue = NaN ;
+---
+> 		latitude::_FillValue = -9999. ;
+25d23
+< 		latitude:axis = "Y" ;
+28c26
+< 		latitude:coverage_content_type = "coordinate" ;
+---
+> 		latitude:coverage_content_type = "referenceInformation" ;
+30c28
+< 		sst:_FillValue = NaN ;
+---
+> 		sst::_FillValue = -9999. ;
+41c39
+< 		sss:_FillValue = NaN ;
+---
+> 		sss::_FillValue = -9999. ;
+52c50
+< 		solar_radiation:_FillValue = NaN ;
+---
+> 		solar_radiation::_FillValue = -9999. ;
+63c61
+< 		long_radiation:_FillValue = NaN ;
+---
+> 		long_radiation::_FillValue = -9999. ;
+74c72
+< 		pressure:_FillValue = NaN ;
+---
+> 		pressure::_FillValue = -9999. ;
+85c83
+< 		wind_direction:_FillValue = NaN ;
+---
+> 		wind_direction::_FillValue = -9999. ;
+97c95
+< 		wind_speed_5m:_FillValue = NaN ;
+---
+> 		wind_speed_5m::_FillValue = -9999. ;
+108c106
+< 		relative_humidity_2m:_FillValue = NaN ;
+---
+> 		relative_humidity_2m::_FillValue = -9999. ;
+119c117
+< 		specific_humidity_2m:_FillValue = NaN ;
+---
+> 		specific_humidity_2m::_FillValue = -9999. ;
+130c128
+< 		air_temperature_2m:_FillValue = NaN ;
+---
+> 		air_temperature_2m::_FillValue = -9999. ;
+141c139
+< 		wind_speed_10m:_FillValue = NaN ;
+---
+> 		wind_speed_10m::_FillValue = -9999. ;
+152c150
+< 		relative_humidity_10m:_FillValue = NaN ;
+---
+> 		relative_humidity_10m::_FillValue = -9999. ;
+163c161
+< 		specific_humidity_10m:_FillValue = NaN ;
+---
+> 		specific_humidity_10m::_FillValue = -9999. ;
+174c172
+< 		air_temperature_10m:_FillValue = NaN ;
+---
+> 		air_temperature_10m::_FillValue = -9999. ;
+192c190
+< 		:id = "PO.DAAC-SMODE-SDRON" ;
+---
+> 		:id = "PODAAC-SMODE-SDRON" ;
+197c195
+< 		:source = "TBD" ;
+---
+> 		:source = "S-MODE_PFC_saildrone_##.nc.cdl" ;
+226,227c224,225
+< 		:geospatial_lat_units = "degrees" ;
+< 		:geospatial_lat_resolution = "0.1" ;
+---
+> 		:geospatial_lat_units = "degrees_north" ;
+> 		:geospatial_lat_resolution = "0.1 degrees" ;
+230,231c228,229
+< 		:geospatial_lon_units = "degrees" ;
+< 		:geospatial_lon_resolution = "0.1" ;
+---
+> 		:geospatial_lon_units = "degrees_east" ;
+> 		:geospatial_lon_resolution = "0.1 degrees" ;
+234,235c232,233
+< 		:geospatial_vertical_resolution = "1" ;
+< 		:geospatial_vertical_units = "m" ;
+---
+> 		:geospatial_vertical_resolution = "1 meters" ;
+> 		:geospatial_vertical_units = "meters" ;
+237,239c235,237
+< 		:time_coverage_start = "16-Oct-2017" ;
+< 		:time_coverage_end = "17-Nov-2017" ;
+< 		:date_created = "01-Sep-2020 14:13:03" ;
+---
+> 		:time_coverage_start = "2017-11-16THH:MM:SS" ;
+> 		:time_coverage_end = "2017-11-17HH:MM:SS" ;
+> 		:date_created = "2020-09-01T14:13:03" ;

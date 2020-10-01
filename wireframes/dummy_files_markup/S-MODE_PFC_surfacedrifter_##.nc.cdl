@@ -15,16 +15,12 @@ variables:
 	double longitude(trajectory, time) ;
 		longitude:_FillValue = -9999. ;
 		longitude:long_name = "Longitude of Salinity Drifter measurement" ;
-		longitude:valid_max = 180. ;
-		longitude:valid_min = -180. ;
 		longitude:standard_name = "longitude" ;
 		longitude:units = "degrees_east" ;
 		longitude:coverage_content_type = "referenceInformation" ;
 	double latitude(trajectory, time) ;
 		longitude:_FillValue = -9999. ;
 		latitude:long_name = "Latitude of Salinity Drifter measurement" ;
-		latitude:valid_max = 90. ;
-		latitude:valid_min = -90. ;
 		latitude:standard_name = "latitude" ;
 		latitude:units = "degrees_north" ;
 		latitude:coverage_content_type = "referenceInformation" ;
@@ -33,9 +29,7 @@ variables:
 		temperature_18cm:long_name = "Sea water temperature at 18cm" ;
 		temperature_18cm:valid_max = 32. ;
 		temperature_18cm:valid_min = -1. ;
-		temperature_18cm:add_offset = 0. ;
 		temperature_18cm:coordinates = "time latitude longitude" ;
-		temperature_18cm:scale_factor = 1. ;
 		temperature_18cm:standard_name = "sea_water_temperature" ;
 		temperature_18cm:units = "degrees_C" ;
 		temperature_18cm:coverage_content_type = "physicalMeasurement" ;
@@ -45,9 +39,7 @@ variables:
 		temperature_36cm:long_name = "Sea water temperature at 36cm" ;
 		temperature_36cm:valid_max = 32. ;
 		temperature_36cm:valid_min = -1. ;
-		temperature_36cm:add_offset = 0. ;
 		temperature_36cm:coordinates = "time latitude longitude" ;
-		temperature_36cm:scale_factor = 1. ;
 		temperature_36cm:standard_name = "sea_water_temperature" ;
 		temperature_36cm:units = "degrees_C" ;
 		temperature_36cm:coverage_content_type = "physicalMeasurement" ;
@@ -56,11 +48,10 @@ variables:
 		salinity_36cm:long_name = "Sea water salinity at 36cm" ;
 		salinity_36cm:valid_max = 42. ;
 		salinity_36cm:valid_min = 2. ;
-		salinity_36cm:add_offset = 0. ;
 		salinity_36cm:coordinates = "time latitude longitude" ;
-		salinity_36cm:scale_factor = 1. ;
 		salinity_36cm:standard_name = "sea_water_practical_salinity" ;
 		salinity_36cm:units = "1" ;
+		salinity_36cm:comments = "Salinity is assumed to be a ratio because of units=1. Provide more details about physical units in this field, e.g. (cm3 cm-3) for volumetric ratio." ;	
 		salinity_36cm:coverage_content_type = "physicalMeasurement" ;
 
 // global attributes:

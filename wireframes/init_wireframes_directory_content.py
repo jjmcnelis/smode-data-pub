@@ -64,7 +64,8 @@ for f in files:
             ffile, tfile = ff.readlines(), tf.readlines()
 
         # Compare `f` to `markup` and write difference to file.
-        with open(f"dummy_files_diff/{basename(f)}.cdl", "w") as d:
-            for ln in context_diff(ffile, tfile):
-                d.write(str(ln))
-            d.write("\n")
+        call(f"diff {f}.cdl dummy_files_markup/{basename(f)}.cdl > dummy_files_diff/{basename(f)}.cdl", shell=True)
+        # with open(f"dummy_files_diff/{basename(f)}.cdl", "w") as d:
+        #     for ln in context_diff(ffile, tfile):
+        #         d.write(str(ln))
+        #     d.write("\n")

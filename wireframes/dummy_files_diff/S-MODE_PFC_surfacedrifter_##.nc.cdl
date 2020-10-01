@@ -1,178 +1,103 @@
-*** 
---- 
-***************
-*** 1,33 ****
-  netcdf S-MODE_PFC_surfacedrifter_\#\# {
-  dimensions:
-  	time = 48 ;
-  variables:
-! 	double time(time) ;
-  		time:long_name = "Time of Salinity Drifter measurement" ;
-  		time:axis = "T" ;
-  		time:standard_name = "time" ;
-! 		time:units = "days since 1950-01-01T00:00:00" ;
-  		time:coverage_content_type = "coordinate" ;
-! 	double longitude(time) ;
-! 		longitude:_FillValue = NaN ;
-  		longitude:long_name = "Longitude of Salinity Drifter measurement" ;
-  		longitude:valid_max = 180. ;
-  		longitude:valid_min = -180. ;
-- 		longitude:axis = "X" ;
-  		longitude:standard_name = "longitude" ;
-  		longitude:units = "degrees_east" ;
-! 		longitude:coverage_content_type = "coordinate" ;
-! 	double latitude(time) ;
-! 		latitude:_FillValue = NaN ;
-  		latitude:long_name = "Latitude of Salinity Drifter measurement" ;
-  		latitude:valid_max = 90. ;
-  		latitude:valid_min = -90. ;
-- 		latitude:axis = "Y" ;
-  		latitude:standard_name = "latitude" ;
-  		latitude:units = "degrees_north" ;
-! 		latitude:coverage_content_type = "coordinate" ;
-! 	double temperature_18cm(time) ;
-! 		temperature_18cm:_FillValue = NaN ;
-  		temperature_18cm:long_name = "Sea water temperature at 18cm" ;
-  		temperature_18cm:valid_max = 32. ;
-  		temperature_18cm:valid_min = -1. ;
---- 1,35 ----
-  netcdf S-MODE_PFC_surfacedrifter_\#\# {
-  dimensions:
-  	time = 48 ;
-+ 	trajectory = 1 ;
-  variables:
-! 	int trajectory(trajectory) ;
-!         trajectory:long_name = "Unique identifier for each feature instance" ;
-!         trajectory:cf_role = "trajectory_id" ;
-! 	double time(trajectory, time) ;
-  		time:long_name = "Time of Salinity Drifter measurement" ;
-  		time:axis = "T" ;
-  		time:standard_name = "time" ;
-! 		time:units = "days since 1950-01-01 00:00:00" ;
-  		time:coverage_content_type = "coordinate" ;
-! 	double longitude(trajectory, time) ;
-! 		longitude:_FillValue = -9999. ;
-  		longitude:long_name = "Longitude of Salinity Drifter measurement" ;
-  		longitude:valid_max = 180. ;
-  		longitude:valid_min = -180. ;
-  		longitude:standard_name = "longitude" ;
-  		longitude:units = "degrees_east" ;
-! 		longitude:coverage_content_type = "referenceInformation" ;
-! 	double latitude(trajectory, time) ;
-! 		longitude:_FillValue = -9999. ;
-  		latitude:long_name = "Latitude of Salinity Drifter measurement" ;
-  		latitude:valid_max = 90. ;
-  		latitude:valid_min = -90. ;
-  		latitude:standard_name = "latitude" ;
-  		latitude:units = "degrees_north" ;
-! 		latitude:coverage_content_type = "referenceInformation" ;
-! 	double temperature_18cm(trajectory, time) ;
-! 		temperature_18cm:_FillValue = -9999. ;
-  		temperature_18cm:long_name = "Sea water temperature at 18cm" ;
-  		temperature_18cm:valid_max = 32. ;
-  		temperature_18cm:valid_min = -1. ;
-***************
-*** 38,45 ****
-  		temperature_18cm:units = "degrees_C" ;
-  		temperature_18cm:coverage_content_type = "physicalMeasurement" ;
-  		temperature_18cm:comment = "Notice that T(18-cm)  is a hull-sensor that is sensitive to inside-hull temperature. In particular, during the first half hour , these temperatures are not correct." ;
-! 	double temperature_36cm(time) ;
-! 		temperature_36cm:_FillValue = NaN ;
-  		temperature_36cm:long_name = "Sea water temperature at 36cm" ;
-  		temperature_36cm:valid_max = 32. ;
-  		temperature_36cm:valid_min = -1. ;
---- 40,47 ----
-  		temperature_18cm:units = "degrees_C" ;
-  		temperature_18cm:coverage_content_type = "physicalMeasurement" ;
-  		temperature_18cm:comment = "Notice that T(18-cm)  is a hull-sensor that is sensitive to inside-hull temperature. In particular, during the first half hour , these temperatures are not correct." ;
-! 	double temperature_36cm(trajectory, time) ;
-! 		temperature_36cm:_FillValue = -9999. ;
-  		temperature_36cm:long_name = "Sea water temperature at 36cm" ;
-  		temperature_36cm:valid_max = 32. ;
-  		temperature_36cm:valid_min = -1. ;
-***************
-*** 49,56 ****
-  		temperature_36cm:standard_name = "sea_water_temperature" ;
-  		temperature_36cm:units = "degrees_C" ;
-  		temperature_36cm:coverage_content_type = "physicalMeasurement" ;
-! 	double salinity_36cm(time) ;
-! 		salinity_36cm:_FillValue = NaN ;
-  		salinity_36cm:long_name = "Sea water salinity at 36cm" ;
-  		salinity_36cm:valid_max = 42. ;
-  		salinity_36cm:valid_min = 2. ;
---- 51,58 ----
-  		temperature_36cm:standard_name = "sea_water_temperature" ;
-  		temperature_36cm:units = "degrees_C" ;
-  		temperature_36cm:coverage_content_type = "physicalMeasurement" ;
-! 	double salinity_36cm(trajectory, time) ;
-! 		salinity_36cm:_FillValue = -9999. ;
-  		salinity_36cm:long_name = "Sea water salinity at 36cm" ;
-  		salinity_36cm:valid_max = 42. ;
-  		salinity_36cm:valid_min = 2. ;
-***************
-*** 68,79 ****
-  		:keywords = "EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > TEMPERATURE PROFILES, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY" ;
-  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
-  		:conventions = "CF-1.8, ACDD-1.3" ;
-! 		:id = "PO.DAAC-SMODE-DRIFT" ;
-  		:uuid = "9094f9a1-80d7-4b59-b79d-2303d9860d6a" ;
-  		:naming_authority = "gov.nasa" ;
-  		:featureType = "trajectory" ;
-  		:cdm_data_type = "Trajectory" ;
-! 		:source = "TBD" ;
-  		:platform = "In Situ Ocean-based Platforms > BUOYS > BUOYS" ;
-  		:platform_vocabulary = "GCMD platform keywords" ;
-  		:instrument = "In Situ/Laboratory Instruments > Current/Wind Meters > > > DRIFTING BUOYS" ;
---- 70,81 ----
-  		:keywords = "EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > TEMPERATURE PROFILES, EARTH SCIENCE > OCEANS > SALINITY/DENSITY > SALINITY" ;
-  		:keywords_vocabulary = "NASA Global Change Master Directory (GCMD) Science Keywords" ;
-  		:conventions = "CF-1.8, ACDD-1.3" ;
-! 		:id = "PODAAC-SMODE-DRIFT" ;
-  		:uuid = "9094f9a1-80d7-4b59-b79d-2303d9860d6a" ;
-  		:naming_authority = "gov.nasa" ;
-  		:featureType = "trajectory" ;
-  		:cdm_data_type = "Trajectory" ;
-! 		:source = "S-MODE_PFC_surfacedrifter_\#\#.nc" ;
-  		:platform = "In Situ Ocean-based Platforms > BUOYS > BUOYS" ;
-  		:platform_vocabulary = "GCMD platform keywords" ;
-  		:instrument = "In Situ/Laboratory Instruments > Current/Wind Meters > > > DRIFTING BUOYS" ;
-***************
-*** 102,119 ****
-  		:sea_name = "Pacific" ;
-  		:geospatial_lat_min = 10.5048 ;
-  		:geospatial_lat_max = 10.5094 ;
-! 		:geospatial_lat_units = "degrees" ;
-! 		:geospatial_lat_resolution = "0.1" ;
-  		:geospatial_lon_min = -124.1476 ;
-  		:geospatial_lon_max = -124.138 ;
-! 		:geospatial_lon_units = "degrees" ;
-! 		:geospatial_lon_resolution = "0.1" ;
-  		:geospatial_vertical_min = 0.18 ;
-  		:geospatial_vertical_max = 0.36 ;
-! 		:geospatial_vertical_resolution = "1" ;
-! 		:geospatial_vertical_units = "m" ;
-  		:geospatial_vertical_positive = "down" ;
-! 		:time_coverage_start = "09-Nov-2017 13:10:10" ;
-! 		:time_coverage_end = "09-Nov-2017 17:05:10" ;
-! 		:date_created = "01-Sep-2020 14:19:24" ;
-  }
---- 104,121 ----
-  		:sea_name = "Pacific" ;
-  		:geospatial_lat_min = 10.5048 ;
-  		:geospatial_lat_max = 10.5094 ;
-! 		:geospatial_lat_units = "degrees_north" ;
-! 		:geospatial_lat_resolution = "0.1 degrees" ;
-  		:geospatial_lon_min = -124.1476 ;
-  		:geospatial_lon_max = -124.138 ;
-! 		:geospatial_lon_units = "degrees_east" ;
-! 		:geospatial_lon_resolution = "0.1 degrees" ;
-  		:geospatial_vertical_min = 0.18 ;
-  		:geospatial_vertical_max = 0.36 ;
-! 		:geospatial_vertical_resolution = "1 meters" ;
-! 		:geospatial_vertical_units = "meters" ;
-  		:geospatial_vertical_positive = "down" ;
-! 		:time_coverage_start = "2017-11-09T13:10:10" ;
-! 		:time_coverage_end = "2017-11-09T17:05:10" ;
-! 		:date_created = "2020-09-01T14:19:24" ;
-  }
-
+3a4
+> 	trajectory = 1 ;
+5c6,9
+< 	double time(time) ;
+---
+> 	int trajectory(trajectory) ;
+>         trajectory:long_name = "Unique identifier for each feature instance" ;
+>         trajectory:cf_role = "trajectory_id" ;
+> 	double time(trajectory, time) ;
+9c13
+< 		time:units = "days since 1950-01-01T00:00:00" ;
+---
+> 		time:units = "days since 1950-01-01 00:00:00" ;
+11,12c15,16
+< 	double longitude(time) ;
+< 		longitude:_FillValue = NaN ;
+---
+> 	double longitude(trajectory, time) ;
+> 		longitude:_FillValue = -9999. ;
+14,16d17
+< 		longitude:valid_max = 180. ;
+< 		longitude:valid_min = -180. ;
+< 		longitude:axis = "X" ;
+19,21c20,22
+< 		longitude:coverage_content_type = "coordinate" ;
+< 	double latitude(time) ;
+< 		latitude:_FillValue = NaN ;
+---
+> 		longitude:coverage_content_type = "referenceInformation" ;
+> 	double latitude(trajectory, time) ;
+> 		longitude:_FillValue = -9999. ;
+23,25d23
+< 		latitude:valid_max = 90. ;
+< 		latitude:valid_min = -90. ;
+< 		latitude:axis = "Y" ;
+28,30c26,28
+< 		latitude:coverage_content_type = "coordinate" ;
+< 	double temperature_18cm(time) ;
+< 		temperature_18cm:_FillValue = NaN ;
+---
+> 		latitude:coverage_content_type = "referenceInformation" ;
+> 	double temperature_18cm(trajectory, time) ;
+> 		temperature_18cm:_FillValue = -9999. ;
+34d31
+< 		temperature_18cm:add_offset = 0. ;
+36d32
+< 		temperature_18cm:scale_factor = 1. ;
+41,42c37,38
+< 	double temperature_36cm(time) ;
+< 		temperature_36cm:_FillValue = NaN ;
+---
+> 	double temperature_36cm(trajectory, time) ;
+> 		temperature_36cm:_FillValue = -9999. ;
+46d41
+< 		temperature_36cm:add_offset = 0. ;
+48d42
+< 		temperature_36cm:scale_factor = 1. ;
+52,53c46,47
+< 	double salinity_36cm(time) ;
+< 		salinity_36cm:_FillValue = NaN ;
+---
+> 	double salinity_36cm(trajectory, time) ;
+> 		salinity_36cm:_FillValue = -9999. ;
+57d50
+< 		salinity_36cm:add_offset = 0. ;
+59d51
+< 		salinity_36cm:scale_factor = 1. ;
+61a54
+> 		salinity_36cm:comments = "Salinity is assumed to be a ratio because of units=1. Provide more details about physical units in this field, e.g. (cm3 cm-3) for volumetric ratio." ;	
+71c64
+< 		:id = "PO.DAAC-SMODE-DRIFT" ;
+---
+> 		:id = "PODAAC-SMODE-DRIFT" ;
+76c69
+< 		:source = "TBD" ;
+---
+> 		:source = "S-MODE_PFC_surfacedrifter_\#\#.nc" ;
+105,106c98,99
+< 		:geospatial_lat_units = "degrees" ;
+< 		:geospatial_lat_resolution = "0.1" ;
+---
+> 		:geospatial_lat_units = "degrees_north" ;
+> 		:geospatial_lat_resolution = "0.1 degrees" ;
+109,110c102,103
+< 		:geospatial_lon_units = "degrees" ;
+< 		:geospatial_lon_resolution = "0.1" ;
+---
+> 		:geospatial_lon_units = "degrees_east" ;
+> 		:geospatial_lon_resolution = "0.1 degrees" ;
+113,114c106,107
+< 		:geospatial_vertical_resolution = "1" ;
+< 		:geospatial_vertical_units = "m" ;
+---
+> 		:geospatial_vertical_resolution = "1 meters" ;
+> 		:geospatial_vertical_units = "meters" ;
+116,118c109,111
+< 		:time_coverage_start = "09-Nov-2017 13:10:10" ;
+< 		:time_coverage_end = "09-Nov-2017 17:05:10" ;
+< 		:date_created = "01-Sep-2020 14:19:24" ;
+---
+> 		:time_coverage_start = "2017-11-09T13:10:10" ;
+> 		:time_coverage_end = "2017-11-09T17:05:10" ;
+> 		:date_created = "2020-09-01T14:19:24" ;

@@ -1,0 +1,114 @@
+3d2
+< 	trajectory = 1 ;
+5a5
+> 	trajectory = 1 ;
+10,11d9
+< 		trajectory:long_name = "Unique identifier for each feature instance" ;
+< 		trajectory:coverage_content_type = "coordinate" ;
+16c14
+< 		time:units = "days since 1950-01-01T00:00:00" ;
+---
+> 		time:units = "days since 1950-01-01 00:00:00" ;
+19d16
+< 		depth:_FillValue = NaN ;
+29d25
+< 		longitude:_FillValue = NaN ;
+31,33d26
+< 		longitude:valid_max = 180. ;
+< 		longitude:valid_min = -180. ;
+< 		longitude:axis = "X" ;
+36c29
+< 		longitude:coverage_content_type = "coordinate" ;
+---
+> 		longitude:coverage_content_type = "referenceInformation" ;
+38d30
+< 		latitude:_FillValue = NaN ;
+40,42d31
+< 		latitude:valid_max = 90. ;
+< 		latitude:valid_min = -90. ;
+< 		latitude:axis = "Y" ;
+45c34
+< 		latitude:coverage_content_type = "coordinate" ;
+---
+> 		latitude:coverage_content_type = "referenceInformation" ;
+47c36
+< 		zonal_velocity_component:_FillValue = NaN ;
+---
+> 		zonal_velocity_component:_FillValue = -9999. ;
+51,53c40
+< 		zonal_velocity_component:add_offset = 0. ;
+< 		zonal_velocity_component:coordinates = "depth time latitude longitude" ;
+< 		zonal_velocity_component:scale_factor = 1. ;
+---
+> 		zonal_velocity_component:coordinates = "time latitude longitude depth trajectory" ;
+58c45
+< 		meridional_velocity_component:_FillValue = NaN ;
+---
+> 		meridional_velocity_component:_FillValue = -9999. ;
+62,64c49
+< 		meridional_velocity_component:add_offset = 0. ;
+< 		meridional_velocity_component:coordinates = "depth time latitude longitude" ;
+< 		meridional_velocity_component:scale_factor = 1. ;
+---
+> 		meridional_velocity_component:coordinates = "time latitude longitude depth trajectory" ;
+69c54
+< 		ship_speed:_FillValue = NaN ;
+---
+> 		ship_speed:_FillValue = -9999. ;
+73,75c58
+< 		ship_speed:add_offset = 0. ;
+< 		ship_speed:coordinates = "depth time latitude longitude" ;
+< 		ship_speed:scale_factor = 1. ;
+---
+> 		ship_speed:coordinates = "time latitude longitude depth" ;
+80c63
+< 		ship_direction:_FillValue = NaN ;
+---
+> 		ship_direction:_FillValue = -9999. ;
+84,86c67
+< 		ship_direction:add_offset = 0. ;
+< 		ship_direction:coordinates = "depth time latitude longitude" ;
+< 		ship_direction:scale_factor = 1. ;
+---
+> 		ship_direction:coordinates = "time latitude longitude depth trajectory" ;
+92c73
+< 		amplitude:_FillValue = NaN ;
+---
+> 		amplitude:_FillValue = -9999. ;
+96,98c77
+< 		amplitude:add_offset = 0. ;
+< 		amplitude:coordinates = "depth time latitude longitude" ;
+< 		amplitude:scale_factor = 1. ;
+---
+> 		amplitude:coordinates = "time latitude longitude depth trajectory" ;
+102c81
+< 		percent_good:_FillValue = NaN ;
+---
+> 		percent_good:_FillValue = -9999. ;
+106,108c85
+< 		percent_good:add_offset = 0. ;
+< 		percent_good:coordinates = "depth time latitude longitude" ;
+< 		percent_good:scale_factor = 1. ;
+---
+> 		percent_good:coordinates = "time latitude longitude depth trajectory" ;
+112c89
+< 		status_flag:_FillValue = NaN ;
+---
+> 		status_flag:_FillValue = -9999. ;
+119,120d95
+< 		status_flag:add_offset = 0. ;
+< 		status_flag:scale_factor = 1. ;
+122c97
+< 		status_flag:coordinates = "depth time latitude longitude" ;
+---
+> 		status_flag:coordinates = "time latitude longitude depth trajectory" ;
+126c101
+< 		temperature:_FillValue = NaN ;
+---
+> 		temperature:_FillValue = -9999. ;
+130,132c105
+< 		temperature:add_offset = 0. ;
+< 		temperature:coordinates = "depth time latitude longitude" ;
+< 		temperature:scale_factor = 1. ;
+---
+> 		temperature:coordinates = "time latitude longitude depth trajectory" ;
