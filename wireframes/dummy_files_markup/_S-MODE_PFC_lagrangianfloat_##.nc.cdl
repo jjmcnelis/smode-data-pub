@@ -34,16 +34,12 @@ variables:
 	double longitude(profile) ;
 		longitude:instrument = "GARMIN GPS 15H/L" ;
 		longitude:long_name = "Longitude of GARMIN GPS 15H/L" ;
-		longitude:valid_max = 180. ;
-		longitude:valid_min = -180. ;
 		longitude:standard_name = "longitude" ;
 		longitude:units = "degrees_east" ;
 		longitude:coverage_content_type = "referenceInformation" ;
 	double latitude(profile) ;
 		latitude:instrument = "GARMIN GPS 15H/L" ;
 		latitude:long_name = "Latitude of GARMIN GPS 15H/L" ;
-		latitude:valid_max = 90. ;
-		latitude:valid_min = -90. ;
 		latitude:standard_name = "latitude" ;
 		latitude:units = "degrees_north" ;
 		latitude:coverage_content_type = "referenceInformation" ;

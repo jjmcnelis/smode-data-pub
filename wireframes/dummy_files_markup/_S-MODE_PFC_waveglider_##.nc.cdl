@@ -17,7 +17,6 @@ variables:
 		lower_time:units = "days since 1950-01-01T00:00:00" ;
 		lower_time:coverage_content_type = "coordinate" ;
 	double upper_longitude(upper_time) ;
-		upper_longitude:_FillValue = NaN ;
 		upper_longitude:long_name = "Upper Longitude of Waveglider measurement" ;
 		upper_longitude:valid_max = 180. ;
 		upper_longitude:valid_min = -180. ;
@@ -26,7 +25,6 @@ variables:
 		upper_longitude:units = "degrees_east" ;
 		upper_longitude:coverage_content_type = "coordinate" ;
 	double lower_longitude(lower_time) ;
-		lower_longitude:_FillValue = NaN ;
 		lower_longitude:long_name = "Lower Longitude of Waveglider measurement" ;
 		lower_longitude:valid_max = 180. ;
 		lower_longitude:valid_min = -180. ;
@@ -35,7 +33,6 @@ variables:
 		lower_longitude:units = "degrees_east" ;
 		lower_longitude:coverage_content_type = "coordinate" ;
 	double upper_latitude(upper_time) ;
-		upper_latitude:_FillValue = NaN ;
 		upper_latitude:long_name = "Upper Latitude of Waveglider measurement" ;
 		upper_latitude:valid_max = 90. ;
 		upper_latitude:valid_min = -90. ;
